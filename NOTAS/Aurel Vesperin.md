@@ -6,6 +6,8 @@
 
 Aurel Vesperin é um aasimar, acólito de [[Ysthara]] e bardo do Colégio dos Espíritos, ligado ao [[Baralho das Doze Vozes]]. Criado entre ritos funerários e lendas capazes de despertar os mortos, ele partiu de [[Velmora]] atendendo ao chamado de [[Eldorin]], levando consigo as perguntas deixadas pela catástrofe que destruiu sua cidade.
 
+![[Aurel Vesperin.png]]
+
 ## O menino de luz
 
 Velmora é uma cidade de telhados de ardósia e ruas inclinadas que descem até o mar. O sal gruda nas janelas, os sinos do porto marcam as marés e, no ponto mais alto da cidade, fica o [[Templo de Ysthara]], onde pescadores rezam antes de partir e viúvas acendem velas quando eles não voltam.
