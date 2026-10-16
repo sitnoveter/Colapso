@@ -16,6 +16,8 @@
 
 #### PERSONAGENS DA CAMPANHA
 
+- [[Aurel Vesperin]]
+
 
 ------------------------------------------
 
