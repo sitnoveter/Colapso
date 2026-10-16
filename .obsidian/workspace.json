@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9eb0a527648f9eae",
@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 274.29998779296875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +214,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "af51988edc4b68de",
   "lastOpenFiles": [
     "IMAGENS/Tempestade de Velmora.png",
     "NOTAS/Solenne.md",
