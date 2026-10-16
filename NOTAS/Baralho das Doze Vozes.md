@@ -52,6 +52,8 @@ Gigante que sustentou nas costas o teto de uma mina em desabamento até que quar
 
 Durante gerações, a carta apresentou apenas uma figura de sombra e jamais respondeu aos contadores. Depois da [[A Tempestade de Velmora|Tempestade de Velmora]], Aurel contou a história de Isvra em vez de libertá-la. Ao final da narrativa, o rosto da antiga sacerdotisa apareceu na carta. Desde então, Isvra é a Cartomante.
 
+[[Isvra.png]]
+
 ### A carta de rosto raspado
 
 Sua figura teve o rosto removido como se uma faca tivesse sido passada sobre a tinta. Nenhum contador conseguiu despertá-la. Desde a tempestade, porém, a carta às vezes estremece no fundo do baralho.
