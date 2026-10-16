@@ -6,8 +6,7 @@
 
 Encontrou Aurel aos seis anos, abandonado nas escadarias do [[Templo de Ysthara]]. Deu-lhe o nome que, na língua antiga do templo, significa “aquele que traz luz”, e o criou como acólito.
 
-![[Maelis 1.png]]
-
+![[Maelis.png]]
 ## Os ensinamentos
 
 Maelis ensinou a Aurel a caligrafia sagrada, os cânticos funerários e a conservação do Livro dos Nomes. Sua principal lição era a doutrina da Passagem: os mortos devem ser libertados, pois mantê-los entre os vivos significa condená-los a existir pela metade.

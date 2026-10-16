@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Aurel Vesperin.md",
+                "file": "NOTAS/Maelis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aurel Vesperin"
+              "title": "Maelis"
             }
           }
         ]
@@ -199,10 +199,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
-    "IMAGENS/Vela Ardente.png",
+    "IMAGENS/Maelis.png",
+    "NOTAS/Maelis.md",
+    "NOTAS/Templo de Ysthara.md",
+    "NOTAS/Aurel Vesperin.md",
     "NOTAS/Baralho das Doze Vozes.md",
+    "IMAGENS/Vela Ardente.png",
     "IMAGENS/As quatro cartas em branco.png",
     "IMAGENS/Goran Quebra-Montanha.png",
     "IMAGENS/Rei Aldemar.png",
@@ -212,14 +216,10 @@
     "IMAGENS/Kael Olho-de-Corvo.png",
     "IMAGENS/Lysa e Toren.png",
     "IMAGENS/Darun das Mil Estradas.png",
-    "IMAGENS/A Viúva de Ferro.png",
-    "NOTAS/Aurel Vesperin.md",
     "O Colapso dos Reinos.md",
     "NOTAS/Isvra.md",
     "NOTAS/Solenne.md",
     "NOTAS/A Tempestade de Velmora.md",
-    "NOTAS/Templo de Ysthara.md",
-    "NOTAS/Maelis.md",
     "NOTAS/Ysthara.md",
     "NOTAS/Velmora.md",
     "CODEX_PUSH_DELETE_TEST.txt",
