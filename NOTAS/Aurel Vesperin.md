@@ -76,6 +76,8 @@ Quando acordou, o porto de Velmora não existia mais. Cento e doze pessoas havia
 
 Naquela noite, sozinho no templo parcialmente destruído, Aurel fez aquilo para o qual fora treinado. À luz de uma vela verde encontrada entre os restos da caravana, escreveu os cento e doze nomes no Livro dos Nomes e cantou o rito da Passagem para cada um. Os espíritos vieram, um por um, despedindo-se exatamente como Maelis ensinara.
 
+![[Vela Ardente.png]]
+
 Quando chegou ao nome de Isvra, sua voz travou. Aurel não conseguia deixá-la partir. Então fez aquilo que ela lhe ensinara: contou sua história. Falou da sacerdotisa expulsa, das carroças pintadas, das velas verdes e do menino de olhos prateados que ela vira na plateia. Contou por horas, até sua voz falhar e a vela quase se apagar.
 
 Quando terminou, o baralho estava quente em suas mãos. A carta da Cartomante, a figura de sombra que Isvra jamais conseguira despertar, agora tinha um rosto. Era o rosto dela, sorrindo do mesmo jeito torto de sempre. Isvra havia se tornado uma das vozes.

@@ -86,7 +86,7 @@ Nas semanas posteriores à destruição de Velmora, quatro cartas adicionais sur
 
 Depois de um terremoto abrir fendas sob uma cidade, uma delas recebeu um triângulo em tinta marrom semelhante a barro molhado. Quando um vulcão adormecido voltou a expelir cinzas, outra ganhou um triângulo vermelho, ainda quente ao toque. As duas restantes continuam vazias.
 
-Aurel acredita que as cartas reagem às catástrofes associadas aos [[Os Quatro Pilares|Quatro Pilares Elementais]].
+![[As quatro cartas em branco.png]]
 
 ## Memórias que não pertencem às lendas
 
