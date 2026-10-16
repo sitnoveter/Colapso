@@ -8,6 +8,8 @@ No ponto mais alto da cidade encontra-se o [[Templo de Ysthara]]. Pescadores sob
 
 Foi em Velmora que [[Aurel Vesperin]] cresceu sob os cuidados de [[Maelis]] e conheceu [[Isvra]] e a [[Trupe da Vela Verde]].
 
+![[Velmora 1.png]]
+
 ## O porto
 
 Antes da catástrofe, o porto concentrava embarcações pesqueiras, tavernas, armazéns e os ritos ligados ao início de cada temporada no mar. Entre essas cerimônias estava a Bênção das Redes, conduzida pelos sacerdotes de [[Ysthara]] no cais.
