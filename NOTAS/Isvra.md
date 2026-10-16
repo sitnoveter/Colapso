@@ -4,6 +4,8 @@
 
 **Isvra** foi sacerdotisa de [[Ysthara]], líder e contadora da [[Trupe da Vela Verde]], mentora de [[Aurel Vesperin]] e guardiã do [[Baralho das Doze Vozes]]. Era uma mulher pequena e enrugada, de olhos negros e afiados, anéis em todos os dedos, riso rouco e um cachimbo quase sempre aceso.
 
+![[Isvra.png]]
+
 ## A sacerdotisa expulsa
 
 Quarenta anos antes da destruição de [[Velmora]], Isvra servia no [[Templo de Ysthara]]. Foi julgada e expulsa por heresia numa cerimônia conduzida por uma jovem [[Maelis]].
