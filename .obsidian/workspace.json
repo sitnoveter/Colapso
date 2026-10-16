@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Solenne.md",
+                "file": "NOTAS/Aurel Vesperin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solenne"
+              "title": "Aurel Vesperin"
             }
           }
         ],
@@ -228,12 +228,15 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "af51988edc4b68de",
+  "active": "d2ba751414ad7a7d",
   "lastOpenFiles": [
+    "NOTAS/A Tempestade de Velmora.md",
+    "NOTAS/Aurel Vesperin.md",
+    "NOTAS/Solenne.md",
+    "IMAGENS/Solenne v2.png",
     "IMAGENS/Solenne.png",
     "IMAGENS/Tempestade de Velmora.png",
     "IMAGENS/Velmora durante a Tempestade.png",
-    "NOTAS/Aurel Vesperin.md",
     "NOTAS/Templo de Ysthara.md",
     "NOTAS/Maelis.md",
     "NOTAS/Ysthara.md",
@@ -247,11 +250,9 @@
     "IMAGENS/Aurel Vesperin.png",
     "CODEX_PUSH_DELETE_TEST.txt",
     "NOTAS/Aventureiros do Colapso.md",
-    "NOTAS/A Tempestade de Velmora.md",
     "NOTAS/Eldorin.md",
     "NOTAS/Baralho das Doze Vozes.md",
     "NOTAS/Trupe da Vela Verde.md",
-    "NOTAS/Solenne.md",
     "NOTAS/Isvra.md",
     "NOTAS/Abismo de Thalassa, além dos mares orientais.md",
     "NOTAS/Vales Calcinados de Karkor.md",
