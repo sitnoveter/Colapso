@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Aurel Vesperin.md",
+                "file": "NOTAS/Templo de Ysthara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aurel Vesperin"
+              "title": "Templo de Ysthara"
             }
           }
         ],
@@ -230,10 +230,11 @@
   },
   "active": "9e8b3fb428237729",
   "lastOpenFiles": [
+    "IMAGENS/Templo de Ysthara.png",
+    "NOTAS/Aurel Vesperin.md",
     "IMAGENS/Aurel Vesperin.png",
     "O Colapso dos Reinos.md",
     "CODEX_PUSH_DELETE_TEST.txt",
-    "NOTAS/Aurel Vesperin.md",
     "NOTAS/Aventureiros do Colapso.md",
     "NOTAS/A Tempestade de Velmora.md",
     "NOTAS/Eldorin.md",

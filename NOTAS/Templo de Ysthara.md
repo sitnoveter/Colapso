@@ -8,6 +8,8 @@ O templo é dedicado a [[Ysthara]], a Senhora das Passagens. Seus sacerdotes abe
 
 Foi em sua escadaria que [[Maelis]] encontrou [[Aurel Vesperin]], então com seis anos, envolto num cobertor de lã e usando um pingente de estanho marcado com uma estrela. Aurel cresceu no templo, aprendeu ali a caligrafia sagrada e tornou-se responsável por ajudar na conservação do Livro dos Nomes.
 
+![[Templo de Ysthara.png]]
+
 ## O Livro dos Nomes
 
 Guardado pelo templo, o Livro dos Nomes é um tomo de couro no qual cada afogado de Velmora vem sendo registrado há cerca de trezentos anos. Após a [[A Tempestade de Velmora|Tempestade de Velmora]], Aurel acrescentou sozinho os nomes das cento e doze vítimas.
