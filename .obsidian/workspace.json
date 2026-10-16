@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Velmora.md",
+                "file": "NOTAS/Solenne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Velmora"
+              "title": "Solenne"
             }
           }
         ],
@@ -228,15 +228,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d2ba751414ad7a7d",
   "lastOpenFiles": [
-    "IMAGENS/Velmora 1.png",
+    "NOTAS/Aurel Vesperin.md",
+    "NOTAS/Templo de Ysthara.md",
     "NOTAS/Maelis.md",
+    "NOTAS/Ysthara.md",
+    "NOTAS/Velmora.md",
+    "IMAGENS/Velmora 1.png",
     "IMAGENS/Velmora.png",
     "IMAGENS/Maelis 1.png",
-    "NOTAS/Aurel Vesperin.md",
     "O Colapso dos Reinos.md",
-    "NOTAS/Templo de Ysthara.md",
     "IMAGENS/Maelis.png",
     "IMAGENS/Templo de Ysthara.png",
     "IMAGENS/Aurel Vesperin.png",
@@ -248,8 +250,6 @@
     "NOTAS/Trupe da Vela Verde.md",
     "NOTAS/Solenne.md",
     "NOTAS/Isvra.md",
-    "NOTAS/Ysthara.md",
-    "NOTAS/Velmora.md",
     "NOTAS/Abismo de Thalassa, além dos mares orientais.md",
     "NOTAS/Vales Calcinados de Karkor.md",
     "NOTAS/Cordilheira dos Titãs Dormentes.md",
