@@ -6,6 +6,8 @@ A **Tempestade de Velmora** foi uma catástrofe súbita que destruiu o porto de 
 
 O céu estava limpo e o mar permanecia imóvel quando o vento parou e as gaivotas se calaram. Em seguida, a água recuou de uma vez, deixando barcos tombados na lama e peixes sobre a areia. Uma parede de água surgiu sob um céu que passou de azul a negro em poucos instantes.
 
+![[Tempestade de Velmora.png]]
+
 ## As vítimas
 
 Entre os mortos estavam [[Maelis]], [[Isvra]] e quase todos os integrantes da Trupe da Vela Verde. Antes de ser atingida, Maelis empurrou [[Aurel Vesperin]] para as escadarias do [[Templo de Ysthara]] e se voltou para o mar, entoando o cântico da Passagem.

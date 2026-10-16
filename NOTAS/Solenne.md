@@ -8,8 +8,7 @@ Ela contava histórias sobre as estrelas, ensinava canções numa língua descon
 
 [[Maelis]] acreditava que Solenne representava a bênção celestial existente no sangue do menino. Aurel aceitou essa explicação durante grande parte da vida, embora nunca tenha descoberto quem ou o que a voz realmente era.
 
-![[Tempestade de Velmora.png]]
-
+![[Solenne.png]]
 ## O silêncio
 
 Durante a noite da [[A Tempestade de Velmora|Tempestade de Velmora]], Aurel foi atravessado simultaneamente pelas vozes dos cento e doze mortos, pelos espíritos do [[Baralho das Doze Vozes]] e por [[Isvra]], recém-desperta como a Cartomante. Seus olhos escureceram e asas de fumaça formadas por rostos sussurrantes abriram-se em suas costas.
