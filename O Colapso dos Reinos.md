@@ -1,12 +1,9 @@
-# O Colapso dos Reinos
-O DESTINO DOS QUATRO PILARES
+*O DESTINO DOS QUATRO PILARES*
 
->"substituir por algum texto no estilo prefetico citaçao"
+> *"Quando os quatro alicerces do mundo racharem sob o peso do esquecimento e o fogo celeste rasgar a abóbada da noite, os tronos cairão no mesmo pó e o destino cobrará sua dívida antiga."*
+> — *Profecia do Escriba Cego de Vaelen*
 
------------------------------------------------
-
-
-## (Algum Emoj) Visão Geral do Cenário
+## ☄️ Visão Geral do Cenário
 
 #### LOCALIDADES
 
@@ -28,5 +25,4 @@ O DESTINO DOS QUATRO PILARES
 
 ----------------------------------
 
-## Resumo das Sessões
-
+## 📜 Resumo das Sessões
