@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Ninho Baixo.md",
+                "file": "NOTAS/Aventureiros do Colapso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ninho Baixo"
+              "title": "Aventureiros do Colapso"
             }
           }
         ]
@@ -199,11 +199,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
+    "O Colapso dos Reinos.md",
+    "NOTAS/Guardiões do Retorno.md",
+    "NOTAS/Morvanna.md",
+    "NOTAS/A Ruptura do Monte Kharad-Oculto.md",
+    "NOTAS/A Ruptura do Monte Kharad.md",
+    "NOTAS/Hoffnung.md",
+    "NOTAS/Ninho Baixo.md",
     "IMAGENS/Ninho Baixo.png",
     "NOTAS/Licht.md",
-    "NOTAS/Ninho Baixo.md",
     "NOTAS/Valedorn.md",
     "IMAGENS/Valedorn.png",
     "NOTAS/Memento Amor.md",
@@ -211,14 +217,12 @@
     "NOTAS/Monte Kharad.md",
     "NOTAS/Feathren.md",
     "IMAGENS/Monte Kharad.png",
-    "NOTAS/A Ruptura do Monte Kharad.md",
     "IMAGENS/Monte Kharad Ruptura.png",
     "IMAGENS/Monte Kharad.png",
     "IMAGENS/Feathren.png",
     "IMAGENS/Aeralta - Ruínas.png",
     "IMAGENS/Aeralta.png",
     "NOTAS/Aventureiros do Colapso.md",
-    "O Colapso dos Reinos.md",
     "NOTAS/Cântico da Passagem.md",
     "NOTAS/Aurel Vesperin.md",
     "NOTAS/Baralho das Doze Vozes.md",
@@ -229,14 +233,10 @@
     "IMAGENS/Conselho da Agulha.png",
     "NOTAS/Torre do Meridiano.md",
     "IMAGENS/Torre do Meridiano.png",
-    "IMAGENS/Merídia.png",
     "NOTAS/Eldorin-Oculto.md",
     "NOTAS/As Três Irmãs da Morte.md",
     "NOTAS/Zhalyra.md",
-    "NOTAS/Morvanna.md",
     "NOTAS/Ysthara.md",
-    "NOTAS/Os Quatro Pilares.md",
-    "NOTAS/Ysthara-Oculto.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
