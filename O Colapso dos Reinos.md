@@ -36,7 +36,6 @@ O equilíbrio da natureza está se desfazendo. Tempestades impossíveis, terremo
 - [[Morvanna]]
 - [[Zhalyra]]
 
-
 ----------------------------------
 
 ## 📜 Resumo das Sessões
