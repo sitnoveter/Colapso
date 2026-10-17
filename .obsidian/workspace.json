@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Baralho das Doze Vozes.md",
+                "file": "NOTAS/Cântico da Passagem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Baralho das Doze Vozes"
+              "title": "Cântico da Passagem"
             }
           }
         ]
@@ -203,8 +203,9 @@
   "lastOpenFiles": [
     "NOTAS/Aurel Vesperin.md",
     "NOTAS/Aventureiros do Colapso.md",
-    "NOTAS/Memento Amor.md",
     "O Colapso dos Reinos.md",
+    "NOTAS/Baralho das Doze Vozes.md",
+    "NOTAS/Memento Amor.md",
     "NOTAS/Cântico da Passagem.md",
     "NOTAS/NPCs que Moldam o Mundo.md",
     "NOTAS/Eldorin.md",
@@ -234,7 +235,6 @@
     "NOTAS/Valedorn.md",
     "NOTAS/Monte Kharad.md",
     "NOTAS/Aeralta.md",
-    "NOTAS/Guardiões do Retorno.md",
     "IMAGENS/A carta de rosto raspado.png",
     "IMAGENS/Trupe da Vela Verde.png",
     "CODEX_PUSH_DELETE_TEST.txt",
