@@ -6,6 +6,8 @@
 
 **Memento Amor** é um [[Feathren]] de ancestralidade Corvo, clérigo da Sepultura e último herdeiro dos [[Guardiões do Retorno]]. Criado para reconhecer o fim natural de cada vida, ele deixou [[Valedorn]] depois que a [[A Ruptura do Monte Kharad|Ruptura do Monte Kharad]] destruiu sua vila, tomou seu marido e produziu mortes que sua deusa jamais anunciou.
 
+![[Memento Amor.png]]
+
 ## O filho de Aeralta
 
 Memento nasceu em [[Aeralta]], uma vila erguida nas alturas do [[Monte Kharad]]. Embora seus caminhos fossem abertos a todas as espécies, poucos viajantes enfrentavam a subida para conhecer uma comunidade predominantemente Feathren, distante dos grandes centros e acostumada a preservar as próprias tradições.
