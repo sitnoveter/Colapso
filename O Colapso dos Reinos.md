@@ -14,6 +14,10 @@ O equilíbrio da natureza está se desfazendo. Tempestades impossíveis, terremo
 - [[Cordilheira dos Titãs Dormentes]]
 - [[Picos Flutuantes de Aethelgard]]
 - [[Velmora]]
+- [[Aeralta]]
+- [[Monte Kharad]]
+- [[Valedorn]]
+- [[Ninho Baixo]]
 
 --------------------------------------------
 
@@ -29,6 +33,9 @@ O equilíbrio da natureza está se desfazendo. Tempestades impossíveis, terremo
 ####  DEUSES E CRENÇAS
 
 - [[Ysthara]]
+- [[Morvanna]]
+- [[Zhalyra]]
+- [[As Três Irmãs da Morte]]
 
 
 ----------------------------------

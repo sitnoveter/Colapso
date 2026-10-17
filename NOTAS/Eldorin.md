@@ -9,3 +9,5 @@ Até recentemente, os Pilares eram desconhecidos. Seus nomes não apareciam nos 
 Sem forças suficientes para enfrentar sozinho a ameaça, Eldorin convocou guerreiros, estudiosos, exploradores e conjuradores. Sua missão é encontrar os santuários, compreender o que provocou o desequilíbrio e restaurar os Pilares antes que reinos inteiros sejam destruídos.
 
 Entre aqueles que atenderam ao chamado está [[Aurel Vesperin]]. Para o contador, a convocação também oferece a possibilidade de compreender por que o [[Baralho das Doze Vozes]] reage às catástrofes e o que seus espíritos recordam de um desastre anterior.
+
+A convocação também chegou a [[Valedorn]], onde os sobreviventes da [[A Ruptura do Monte Kharad|Ruptura do Monte Kharad]] haviam formado [[Ninho Baixo]]. [[Memento Amor]] reconheceu no chamado uma oportunidade de investigar por que sua vila foi destruída pela combinação impossível de terra e fogo e por que [[Morvanna]] não anunciou aquelas mortes.
