@@ -8,6 +8,8 @@
 - **Conexões:** Uma das [[As Três Irmãs da Morte|Três Irmãs da Morte]], irmã de [[Ysthara]] e [[Zhalyra]]. Coopera com Ysthara e se opõe à interferência de Zhalyra sobre a hora dos mortais.
 - **Devotos:** Clérigos funerários, cuidadores de moribundos, parteiras, médicos, coveiros, videntes, sobreviventes e pessoas responsáveis por decidir quando um esforço chegou verdadeiramente ao fim.
 
+![[MorvannaComBorda.png]]
+
 ## Origem e natureza
 
 **Morvanna**, a Última Certeza, governa o encerramento natural da vida. Ela não persegue os vivos, escolhe vítimas ou distribui mortes como punição. Sua presença manifesta a certeza de que todo ciclo possui um limite.

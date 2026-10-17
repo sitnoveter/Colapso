@@ -8,6 +8,8 @@
 - **Conexões:** Uma das [[As Três Irmãs da Morte|Três Irmãs da Morte]], irmã de [[Morvanna]] e [[Zhalyra]]. Coopera com Morvanna e protege os mortos contra a Devoradora do Último Sopro.
 - **Devotos:** Sacerdotes funerários, coveiros, embalsamadores, barqueiros, marinheiros, cuidadores, viúvas, pessoas enlutadas e todos aqueles que ajudam alguém a atravessar uma grande mudança.
 
+![[YstharaComBorda.png]]
+
 ## Origem e natureza
 
 **Ysthara**, a Senhora das Passagens, acompanha os mortos em sua partida. Ela não determina o instante da morte e não encerra a vida; essa responsabilidade pertence a [[Morvanna]], a Última Certeza.

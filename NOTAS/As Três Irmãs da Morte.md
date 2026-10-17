@@ -10,6 +10,8 @@ As **Três Irmãs da Morte** representam momentos diferentes e conflitantes do f
 
 Morvanna é Neutra porque não deseja nem lamenta o fim. Ysthara é Boa porque transforma a passagem em amparo, dignidade e despedida. Zhalyra é Caótica e Má porque rejeita qualquer limite para a morte e converte o último instante em alimento e poder.
 
+![[As Três Irmãs da Morte.png]]
+
 ## As Três Diante do Primeiro Morto
 
 Segundo o mito mais antigo, as três irmãs estavam presentes quando morreu o primeiro mortal.

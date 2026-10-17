@@ -8,6 +8,8 @@
 - **Conexões:** Uma das [[As Três Irmãs da Morte|Três Irmãs da Morte]], irmã e inimiga de [[Morvanna]] e [[Ysthara]]. Coopera apenas enquanto puder transformar aliados em instrumentos ou alimento.
 - **Devotos:** Assassinos ritualísticos, necromantes, profanadores de túmulos, torturadores, saqueadores de campos de batalha e pessoas que desejam decidir arbitrariamente quem merece morrer.
 
+![[ZhalyraComBorda.png]]
+
 ## Origem e natureza
 
 **Zhalyra**, a Devoradora do Último Sopro, representa a morte arrancada antes da hora e transformada em alimento, prazer ou poder.
