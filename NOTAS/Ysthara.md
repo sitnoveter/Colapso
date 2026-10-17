@@ -20,7 +20,7 @@ Desde então, seu culto ensina que morrer não deve significar atravessar sozinh
 
 Os mortos devem ser libertados. Reter um espírito por amor, medo, culpa ou saudade pode condená-lo a existir pela metade.
 
-O trabalho de seus sacerdotes é abrir a porta, não obrigar alguém a permanecer de um lado ou de outro. Uma alma confusa pode receber tempo, nome e companhia, mas não deve ser transformada em propriedade dos vivos.
+O trabalho de seus sacerdotes é abrir a porta, não obrigar alguém a permanecer de um lado ou de outro. Uma alma confusa pode receber tempo e companhia, mas não deve ser transformada em propriedade dos vivos.
 
 Despedir-se não exige esquecer. Nomes, histórias e lembranças podem permanecer entre os vivos, desde que não sejam usados como correntes sobre o morto.
 
