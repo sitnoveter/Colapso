@@ -28,6 +28,16 @@ O Conselho administra os níveis inferiores conhecidos, enquanto observatórios,
 - **Jardins Suspensos:** Terraços antigos irrigados por canais internos da torre. O Círculo das Raízes Profundas mantém um pequeno santuário nesse setor.
 - **Terraço do Conselho:** Sede do governo, dos tribunais e das delegações estrangeiras.
 - **Escadarias Altas:** Região de templos, academias, observatórios e residências das famílias mais influentes.
+- **Barragem do Arco Baixo:** Estrutura fortificada que controla as águas vindas das montanhas antes que elas alcancem os canais, aquedutos e terraços inferiores. Suas comportas também alimentam parte das oficinas e elevadores da cidade.
+- **Ponte das Três Cascatas:** Grande ponte de três arcos erguida sobre os canais orientais. A água desce por cada abertura numa cascata distinta antes de seguir para os bairros baixos.
+
+## A lenda das Três Cascatas
+
+Conta-se que, antes de Merídia possuir muralhas, uma cheia desceu das montanhas enquanto centenas de pessoas ainda atravessavam a antiga ponte de madeira. Três irmãs permaneceram sobre ela para orientar a passagem: a primeira chorou pelos que a corrente já havia levado; a segunda, pelos que ainda corriam risco; e a terceira, por aqueles que sobreviveriam, mas carregariam a perda pelo resto da vida.
+
+Quando suas lágrimas tocaram a pedra, a corrente dividiu-se em três quedas e perdeu força suficiente para que os últimos viajantes alcançassem a cidade. Ao amanhecer, a ponte continuava de pé, mas ninguém encontrou as irmãs. Algumas versões dizem que elas morreram ali. Outras afirmam que Merídia foi construída sobre o lugar para que seu gesto jamais fosse esquecido.
+
+Desde então, quem parte da capital para uma jornada perigosa derrama três gotas de água sobre o parapeito: uma por quem ficou para trás, uma por quem talvez não retorne e uma pela esperança de voltar. Há quem jure que lágrimas verdadeiras, quando derramadas sobre a ponte, fazem uma das cascatas correr em silêncio por alguns instantes.
 
 ## Merídia durante o Colapso
 
