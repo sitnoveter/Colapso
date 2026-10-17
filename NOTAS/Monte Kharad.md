@@ -6,6 +6,8 @@ O **Monte Kharad** é uma grande montanha onde foi construída a vila Feathren d
 
 Trilhas estreitas, escadarias escavadas e plataformas de madeira tornavam possível subir até Aeralta. O isolamento da vila não vinha de uma proibição, mas da dificuldade da viagem e da pouca razão que estrangeiros encontravam para realizá-la.
 
+![[Monte Kharad.png]]
+
 ## A montanha aberta
 
 Durante a [[A Ruptura do Monte Kharad|Ruptura]], tremores partiram o solo e abriram fendas profundas. Rios de lava atravessaram as fraturas, embora não existissem crateras, caldeiras ou registros de erupções anteriores.
