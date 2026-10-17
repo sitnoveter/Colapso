@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Aventureiros do Colapso.md",
+                "file": "NOTAS/Guardiões do Retorno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aventureiros do Colapso"
+              "title": "Guardiões do Retorno"
             }
           }
         ]
@@ -199,8 +199,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d4f5094d84c49a2c",
+  "active": "9e8b3fb428237729",
   "lastOpenFiles": [
+    "IMAGENS/Guardiões do Retorno.png",
+    "NOTAS/Memento Amor.md",
+    "NOTAS/Aventureiros do Colapso.md",
     "O Colapso dos Reinos.md",
     "NOTAS/Guardiões do Retorno.md",
     "NOTAS/Morvanna.md",
@@ -212,7 +215,6 @@
     "NOTAS/Licht.md",
     "NOTAS/Valedorn.md",
     "IMAGENS/Valedorn.png",
-    "NOTAS/Memento Amor.md",
     "NOTAS/Aeralta.md",
     "NOTAS/Monte Kharad.md",
     "NOTAS/Feathren.md",
@@ -222,7 +224,6 @@
     "IMAGENS/Feathren.png",
     "IMAGENS/Aeralta - Ruínas.png",
     "IMAGENS/Aeralta.png",
-    "NOTAS/Aventureiros do Colapso.md",
     "NOTAS/Cântico da Passagem.md",
     "NOTAS/Aurel Vesperin.md",
     "NOTAS/Baralho das Doze Vozes.md",
@@ -236,7 +237,6 @@
     "NOTAS/Eldorin-Oculto.md",
     "NOTAS/As Três Irmãs da Morte.md",
     "NOTAS/Zhalyra.md",
-    "NOTAS/Ysthara.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"

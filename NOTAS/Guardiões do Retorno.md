@@ -4,6 +4,8 @@
 
 Os **Guardiões do Retorno** são uma linhagem religiosa Feathren dedicada a [[Morvanna]], a Última Certeza. Durante gerações, seus clérigos serviram em [[Aeralta]], acompanhando moribundos, interpretando presságios e protegendo a diferença entre uma vida que chegava naturalmente ao fim e outra que ainda poderia ser preservada.
 
+![[Guardiões do Retorno.png]]
+
 ## O primeiro encontro
 
 A tradição começou quando um antepassado de [[Memento Amor]] decidiu estudar a morte. O que nascera como curiosidade tornou-se devoção quando Morvanna visitou pessoalmente a linhagem.
