@@ -35,7 +35,6 @@ O equilíbrio da natureza está se desfazendo. Tempestades impossíveis, terremo
 - [[Ysthara]]
 - [[Morvanna]]
 - [[Zhalyra]]
-- [[As Três Irmãs da Morte]]
 
 
 ----------------------------------

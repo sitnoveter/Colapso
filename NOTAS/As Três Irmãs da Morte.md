@@ -1,6 +1,6 @@
 # As Três Irmãs da Morte
 
-#Deuses #Crenças #Cosmologia
+#Crenças #Cosmologia
 
 As **Três Irmãs da Morte** representam momentos diferentes e conflitantes do fim da vida.
 
