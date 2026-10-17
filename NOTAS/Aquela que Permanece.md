@@ -8,6 +8,8 @@
 
 Ela não se apresenta como uma soberana que ordena. Manifesta-se através de histórias repetidas, canções, gestos, objetos herdados, ofícios ensinados e nomes que continuam sendo pronunciados depois da morte de quem os carregou.
 
+![[Aquela que permanece.png]]
+
 ## Natureza e ensinamentos
 
 A continuidade não escolhe o que merece sobreviver. Sabedoria e crueldade podem ser transmitidas com o mesmo cuidado. Uma tradição pode preservar uma comunidade ou obrigá-la a repetir uma injustiça antiga.

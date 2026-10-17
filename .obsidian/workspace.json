@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Colapso dos Reinos.md",
+                "file": "NOTAS/Aquela que Permanece.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O Colapso dos Reinos"
+              "title": "Aquela que Permanece"
             }
           }
         ]
@@ -199,11 +199,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d4f5094d84c49a2c",
+  "active": "9e8b3fb428237729",
   "lastOpenFiles": [
+    "IMAGENS/Aquela que permanece.png",
+    "O Colapso dos Reinos.md",
     "NOTAS/Coutinho.md",
     "NOTAS/Aventureiros do Colapso.md",
-    "O Colapso dos Reinos.md",
     "NOTAS/Memento Amor.md",
     "IMAGENS/Memento Amor.png",
     "NOTAS/Guardiões do Retorno.md",
@@ -236,7 +237,6 @@
     "NOTAS/Conselho da Agulha.md",
     "NOTAS/Torre do Meridiano.md",
     "NOTAS/Eldorin-Oculto.md",
-    "NOTAS/As Três Irmãs da Morte.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
