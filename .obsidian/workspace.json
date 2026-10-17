@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Aventureiros do Colapso.md",
+                "file": "O Colapso dos Reinos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aventureiros do Colapso"
+              "title": "O Colapso dos Reinos"
             }
           }
         ]
@@ -201,9 +201,11 @@
   },
   "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
+    "IMAGENS/A carta de rosto raspado.png",
+    "NOTAS/Memento Amor.md",
     "O Colapso dos Reinos.md",
-    "NOTAS/Memento Mori.md",
     "NOTAS/Aventureiros do Colapso.md",
+    "NOTAS/Memento Mori.md",
     "NOTAS/Os Quatro Pilares.md",
     "NOTAS/Aurel Vesperin.md",
     "NOTAS/Trupe da Vela Verde.md",
