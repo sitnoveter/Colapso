@@ -8,4 +8,8 @@ Esta nota reúne os NPCs de maior influência sobre o mundo e sobre os acontecim
 
 ## Figuras centrais
 
-- [[Eldorin]] — Druida ancião, Primeiro Ouvinte do [[Círculo das Raízes Profundas]] e responsável pela convocação que deu início à busca pelos [[Os Quatro Pilares|Quatro Pilares Elementais]].
+### Eldorin
+
+> *“A terra não pede que a salvem. Pede apenas que parem de fingir que seus gritos são trovões.”*
+
+![[Eldorin]]
