@@ -68,7 +68,7 @@ Ao meio-dia, Maelis desceu ao cais com Aurel para a Bênção das Redes, rito em
 
 Então o vento parou. As gaivotas se calaram. O mar recuou de uma vez, deixando barcos tombados na lama e peixes debatendo-se na areia.
 
-A [[A Tempestade de Velmora|tempestade]] surgiu do nada. Num instante, o céu passou de azul a negro e uma parede de água avançou como uma montanha em movimento. Aurel se lembra de Maelis empurrando-o escadaria acima com uma força que ele não sabia que ela possuía. Lembra-se de vê-la voltar-se para o mar, de braços abertos, cantando o cântico da Passagem como se pudesse abençoar a própria onda. Lembra-se da carroça de Isvra sendo arrastada e de algo voando em sua direção entre a água e os destroços: o baralho, ainda amarrado na fita vermelha que ela usava no cabelo.
+A [[A Tempestade de Velmora|tempestade]] surgiu do nada. Num instante, o céu passou de azul a negro e uma parede de água avançou como uma montanha em movimento. Aurel se lembra de Maelis empurrando-o escadaria acima com uma força que ele não sabia que ela possuía. Lembra-se de vê-la voltar-se para o mar, de braços abertos, cantando o [[Cântico da Passagem]] como se pudesse abençoar a própria onda. Lembra-se da carroça de Isvra sendo arrastada e de algo voando em sua direção entre a água e os destroços: o baralho, ainda amarrado na fita vermelha que ela usava no cabelo.
 
 Ele o agarrou. Depois, tudo ficou escuro.
 

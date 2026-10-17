@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Conselho da Agulha.md",
+                "file": "O Colapso dos Reinos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conselho da Agulha"
+              "title": "O Colapso dos Reinos"
             }
           }
         ]
@@ -199,19 +199,22 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
-    "IMAGENS/Conselho da Agulha.png",
+    "NOTAS/Cântico da Passagem.md",
+    "NOTAS/Aurel Vesperin.md",
+    "NOTAS/Aventureiros do Colapso.md",
+    "O Colapso dos Reinos.md",
+    "NOTAS/NPCs que Moldam o Mundo.md",
+    "NOTAS/Eldorin.md",
     "NOTAS/Merídia.md",
+    "NOTAS/Conselho da Agulha.md",
+    "IMAGENS/Conselho da Agulha.png",
     "NOTAS/Torre do Meridiano.md",
     "IMAGENS/Torre do Meridiano.png",
     "IMAGENS/Merídia.png",
-    "NOTAS/Eldorin.md",
     "NOTAS/Eldorin-Oculto.md",
     "IMAGENS/Eldorin.png",
-    "NOTAS/NPCs que Moldam o Mundo.md",
-    "O Colapso dos Reinos.md",
-    "NOTAS/Aventureiros do Colapso.md",
     "NOTAS/As Três Irmãs da Morte.md",
     "IMAGENS/As Três Irmãs da Morte.png",
     "NOTAS/Zhalyra.md",
@@ -232,11 +235,8 @@
     "NOTAS/Aeralta.md",
     "NOTAS/Guardiões do Retorno.md",
     "NOTAS/Feathren.md",
-    "NOTAS/Hoffnung.md",
-    "NOTAS/Licht.md",
     "IMAGENS/A carta de rosto raspado.png",
     "IMAGENS/Trupe da Vela Verde.png",
-    "IMAGENS/Maelis.png",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
