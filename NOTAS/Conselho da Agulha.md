@@ -6,6 +6,8 @@ O **Conselho da Agulha** governa [[Merídia]] e representa os principais interes
 
 O Conselho não é uma assembleia popular. Seus cinco assentos pertencem a instituições consideradas essenciais para a sobrevivência de Merídia: administração civil, infraestrutura arcana, defesa, ofícios comerciais e arquivos.
 
+![[Conselho da Agulha.png]]
+
 ## Liderança atual
 
 - **Ilyra Venn, Chanceler da Agulha:** Coordena o Conselho e administra a resposta aos refugiados. Pragmática, cuidadosa e pouco disposta a admitir incerteza em público.
