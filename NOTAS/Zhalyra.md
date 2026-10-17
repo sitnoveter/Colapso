@@ -5,7 +5,7 @@
 - **Alinhamento:** Caótica e Má
 - **Domínios:** Morte prematura, assassinato, profanação, terror, almas desviadas e poder tomado
 - **Símbolo:** Três garras atravessando uma boca aberta
-- **Conexões:** Irmã e inimiga de [[Morvanna]] e [[Ysthara]]. Coopera apenas enquanto puder transformar aliados em instrumentos ou alimento.
+- **Conexões:** Uma das [[As Três Irmãs da Morte|Três Irmãs da Morte]], irmã e inimiga de [[Morvanna]] e [[Ysthara]]. Coopera apenas enquanto puder transformar aliados em instrumentos ou alimento.
 - **Devotos:** Assassinos ritualísticos, necromantes, profanadores de túmulos, torturadores, saqueadores de campos de batalha e pessoas que desejam decidir arbitrariamente quem merece morrer.
 
 ## Origem e natureza

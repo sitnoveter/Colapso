@@ -5,7 +5,7 @@
 - **Alinhamento:** Boa
 - **Domínios:** Passagem, despedida, misericórdia, ritos funerários e orientação das almas
 - **Símbolo:** Uma porta aberta sob uma estrela prateada
-- **Conexões:** Irmã de [[Morvanna]] e [[Zhalyra]]. Coopera com Morvanna e protege os mortos contra a Devoradora do Último Sopro.
+- **Conexões:** Uma das [[As Três Irmãs da Morte|Três Irmãs da Morte]], irmã de [[Morvanna]] e [[Zhalyra]]. Coopera com Morvanna e protege os mortos contra a Devoradora do Último Sopro.
 - **Devotos:** Sacerdotes funerários, coveiros, embalsamadores, barqueiros, marinheiros, cuidadores, viúvas, pessoas enlutadas e todos aqueles que ajudam alguém a atravessar uma grande mudança.
 
 ## Origem e natureza
