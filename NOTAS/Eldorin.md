@@ -22,9 +22,15 @@ Mesmo seus adversários reconhecem que Eldorin raramente anuncia uma ameaça sem
 
 ## O alerta da terra
 
-Eldorin afirma ter despertado durante quatro noites consecutivas com terra, cinza, água salgada e poeira branca sob as unhas. Na quinta noite, ouviu uma única frase pronunciada através das raízes de uma árvore morta:
+Eldorin afirma ter despertado durante quatro noites consecutivas com terra, cinza, água salgada e poeira branca sob as unhas. Na quinta noite, encontrou uma árvore morta com raízes que se moviam sob o solo. A voz não lhe ofereceu uma única frase, mas um aviso:
 
-> *“Aquilo que sustenta o mundo está sendo obrigado a sustentar mais do que o mundo.”*
+> *“Quatro raízes sustentavam o peso. Agora são puxadas para um centro que não deveria beber delas.*
+>
+> *A pedra queimará. O fogo abrirá a terra. O mar esquecerá suas margens. O céu perderá o caminho.*
+>
+> *Quando a primeira raiz ceder, as outras não cairão uma por vez. Cairão juntas.*
+>
+> *Procure os quatro lugares onde o mundo foi ensinado a conter a si mesmo. Encontre-os antes que aquilo sob a torre aprenda a respirar.”*
 
 Depois disso, reuniu relatos de tremores, enchentes, erupções e tempestades. Símbolos semelhantes apareciam em ruínas reveladas por cada desastre. Ao comparar os registros com fragmentos preservados pelo Círculo, chegou aos nomes dos quatro Pilares.
 
