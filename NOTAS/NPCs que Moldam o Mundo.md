@@ -11,3 +11,7 @@ Esta nota reúne os NPCs de maior influência sobre o mundo e sobre os acontecim
 ### [[Eldorin]]
 
 > *“A terra não pede que a salvem. Pede apenas que parem de fingir que seus gritos são trovões.”*
+
+### [[Mirella Seravain]]
+
+> *“Sobreviver não cria uma dívida. Cria apenas a necessidade de um lugar onde seja possível começar outra vez.”*

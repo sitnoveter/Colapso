@@ -51,6 +51,12 @@ Alguns membros do Conselho já sabem que as obras estão relacionadas às anomal
 - **Estado atual:** O Pilar tenta compensar as oscilações dos demais aumentando e reduzindo massa em regiões inteiras.
 - **Conflito:** A [[A Ruptura do Monte Kharad|Ruptura do Monte Kharad]] ocorreu quando uma descarga da Chama atravessou os condutos da Rocha. A destruição de [[Aeralta]] foi, portanto, resultado da interação impossível entre terra e fogo percebida por [[Memento Amor]].
 
+### O legado de Vaelthir
+
+As tradições de [[Vaelthir]] preservavam o caminho até o sepulcro de um antigo protetor capaz de comunicar-se com o Titã de Basalto. [[O Último Legado de Vaelthir|O colar de Coutinho]] é a chave física, mas histórias, cerimônias e símbolos da vila são necessários para utilizá-la corretamente.
+
+O [[O Nexo Velado|Nexo Velado]] procura esse acesso e utiliza as minas de [[Vhalden]] para alcançar corredores ligados aos antigos Custódios da Primeira Harmonia. Suas escavações não causaram o Colapso, mas agravam os tremores e podem abrir um caminho instável até o domínio do Pilar.
+
 ## ⚪ O Pilar dos Céus
 
 - **Localização verdadeira:** [[Picos Flutuantes de Aethelgard]].

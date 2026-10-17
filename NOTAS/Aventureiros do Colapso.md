@@ -9,3 +9,5 @@ Atendendo à convocação do druida [[Eldorin]], aventureiros de diferentes orig
 - [[Aurel Vesperin|Aurel Vesperin, o Contador das Doze Vozes]] — Aasimar, acólito e bardo do Colégio dos Espíritos que procura compreender a relação entre seu baralho, os mortos e as catástrofes.
 
 - [[Memento Amor]] — Feathren, clérigo da Sepultura e último Guardião do Retorno, que investiga por que as mortes de Aeralta aconteceram fora dos sinais de sua deusa.
+
+- [[Coutinho|Coutinho, o Último Legado de Vaelthir]] — Combatente e artífice em formação dos Custódios do Legado, que procura uma companheira desaparecida e os responsáveis pelas duas tragédias que destruíram suas famílias.
