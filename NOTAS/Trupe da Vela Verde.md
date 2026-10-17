@@ -8,6 +8,8 @@ Embora os espetáculos comuns atraíssem parte do público, a verdadeira fama da
 
 Algumas vezes, ouviam mesmo.
 
+![[Trupe da Vela Verde.png]]
+
 ## Os contadores
 
 Isvra guiava as sessões e conservava o [[Baralho das Doze Vozes]]. Entre os artistas estava Bram, velho titereiro que ensinou [[Aurel Vesperin]] a tocar alaúde durante os três verões em que o jovem foi aprendiz secreto da trupe.
