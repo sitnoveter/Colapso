@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Cântico da Passagem.md",
+                "file": "NOTAS/A Ruptura do Monte Kharad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cântico da Passagem"
+              "title": "A Ruptura do Monte Kharad"
             }
           }
         ]
@@ -199,14 +199,22 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d4f5094d84c49a2c",
+  "active": "9e8b3fb428237729",
   "lastOpenFiles": [
-    "NOTAS/Aurel Vesperin.md",
+    "IMAGENS/Monte Kharad Ruptura.png",
+    "NOTAS/Monte Kharad.md",
+    "IMAGENS/Monte Kharad.png",
+    "NOTAS/Aeralta.md",
+    "NOTAS/Feathren.md",
+    "IMAGENS/Feathren.png",
+    "IMAGENS/Aeralta - Ruínas.png",
+    "IMAGENS/Aeralta.png",
+    "NOTAS/Memento Amor.md",
     "NOTAS/Aventureiros do Colapso.md",
     "O Colapso dos Reinos.md",
-    "NOTAS/Baralho das Doze Vozes.md",
-    "NOTAS/Memento Amor.md",
     "NOTAS/Cântico da Passagem.md",
+    "NOTAS/Aurel Vesperin.md",
+    "NOTAS/Baralho das Doze Vozes.md",
     "NOTAS/NPCs que Moldam o Mundo.md",
     "NOTAS/Eldorin.md",
     "NOTAS/Merídia.md",
@@ -222,21 +230,13 @@
     "NOTAS/Zhalyra.md",
     "IMAGENS/ZhalyraComBorda.png",
     "NOTAS/Morvanna.md",
-    "IMAGENS/MorvannaComBorda.png",
     "NOTAS/Ysthara.md",
-    "IMAGENS/YstharaComBorda.png",
     "NOTAS/Os Quatro Pilares.md",
     "NOTAS/Ysthara-Oculto.md",
     "NOTAS/Zhalyra-Oculto.md",
     "NOTAS/Morvanna-Oculto.md",
     "NOTAS/A Ruptura do Monte Kharad-Oculto.md",
     "NOTAS/A Ruptura do Monte Kharad.md",
-    "NOTAS/Ninho Baixo.md",
-    "NOTAS/Valedorn.md",
-    "NOTAS/Monte Kharad.md",
-    "NOTAS/Aeralta.md",
-    "IMAGENS/A carta de rosto raspado.png",
-    "IMAGENS/Trupe da Vela Verde.png",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"

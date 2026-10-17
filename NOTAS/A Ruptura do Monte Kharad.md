@@ -10,6 +10,8 @@ Então o chão se rompeu.
 
 Fendas atravessaram a vila, terraços desabaram e rios de lava surgiram dentro da montanha. O desastre reunia fenômenos de terra e fogo de uma maneira que não correspondia à geologia conhecida do local.
 
+![[Monte Kharad Ruptura.png]]
+
 ## Leben e o resgate
 
 [[Memento Amor]] entrou em choque ao perceber que as mortes ocorriam sem qualquer sinal de [[Morvanna]]. [[Leben Kurz]] conduziu o marido para uma região segura e depois retornou à vila para procurar [[Licht]] e [[Hoffnung]].

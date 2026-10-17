@@ -6,6 +6,8 @@ Os **Feathren** são humanoides que reúnem características aviárias e felinas
 
 Existe grande diversidade entre eles. Corvos, corujas, falcões, águias e outras aves podem aparecer em suas linhagens, assim como diferentes grandes felinos. Essas combinações influenciam aparência e aptidões, mas não determinam personalidade, vocação ou posição social.
 
+![[Feathren.png]]
+
 ## Herança e curiosidade
 
 Muitas tradições Feathren valorizam criação, aprendizado e curiosidade. Histórias preservadas em [[Aeralta]] afirmavam que seus antepassados haviam atravessado planos distantes e retornado com palavras, costumes e conhecimentos que já não existem em nenhum idioma corrente.
