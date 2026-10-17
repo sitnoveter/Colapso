@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Torre do Meridiano.md",
+                "file": "NOTAS/Merídia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Torre do Meridiano"
+              "title": "Merídia"
             }
           }
         ]
@@ -199,11 +199,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
+    "NOTAS/Torre do Meridiano.md",
     "IMAGENS/Torre do Meridiano.png",
     "NOTAS/Merídia.md",
-    "NOTAS/Torre do Meridiano.md",
     "IMAGENS/Merídia.png",
     "NOTAS/Eldorin.md",
     "NOTAS/Eldorin-Oculto.md",
@@ -236,7 +236,6 @@
     "IMAGENS/A carta de rosto raspado.png",
     "IMAGENS/Trupe da Vela Verde.png",
     "IMAGENS/Maelis.png",
-    "IMAGENS/Vela Ardente.png",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
