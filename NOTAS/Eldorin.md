@@ -6,6 +6,8 @@
 
 Sua convocação não possui o apoio oficial do [[Conselho da Agulha]]. Ainda assim, cópias circulam por estradas, portos, templos, academias e comunidades atingidas pelo Colapso.
 
+![[Eldorin.png]]
+
 ## Aparência e presença
 
 Eldorin aparenta ter atravessado mais invernos do que aceita contar. Possui cabelos e barba longos, quase inteiramente brancos, e veste camadas de tecido, couro e folhagens secas que mudam discretamente conforme o ambiente. Pequenos galhos crescem de seu cajado sem obedecer às estações.
