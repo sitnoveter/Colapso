@@ -24,10 +24,9 @@ O equilíbrio da natureza está se desfazendo. Tempestades impossíveis, terremo
 
 #### 🎲 PERSONAGENS DA CAMPANHA
 
-- [[Aurel Vesperin]]
-- [[Memento Amor]]
-- [[Eldorin]]
-- 
+- [[Aventureiros do Colapso]]
+
+- [[NPCs que Moldam o Mundo]]
 
 
 ------------------------------------------
