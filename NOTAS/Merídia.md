@@ -6,6 +6,8 @@
 
 Vista à distância, Merídia parece menos uma cidade ao redor de uma torre e mais uma única construção habitada. Casas, mercados, pontes, jardins e fortalezas ocupam terraços ligados por rampas, elevadores de contrapeso e escadarias que transformam qualquer deslocamento numa discussão sobre qual caminho realmente é mais curto.
 
+![[Merídia.png]]
+
 ## A Cidade-Eixo
 
 Mercadores dizem que todas as estradas terminam em Merídia. Moradores respondem que isso explica por que ninguém consegue sair rapidamente.

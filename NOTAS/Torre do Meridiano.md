@@ -6,6 +6,8 @@ A **Torre do Meridiano** ergue-se no centro de [[Merídia]] e pode ser vista mui
 
 Nenhum registro descreve sua construção. As pedras inferiores não apresentam encaixes, argamassa ou marcas de ferramentas conhecidas. A cidade cresceu ao redor delas e acrescentou novos níveis ao longo dos séculos.
 
+![[Torre do Meridiano.png]]
+
 ## Funções conhecidas
 
 A Torre abriga observatórios, arquivos públicos, câmaras diplomáticas e parte da administração do [[Conselho da Agulha]]. Canais internos distribuem água para os terraços da capital, enquanto mecanismos antigos auxiliam elevadores, iluminação e sistemas defensivos.
