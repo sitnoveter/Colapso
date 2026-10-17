@@ -19,6 +19,8 @@ O equilíbrio da natureza está se desfazendo. Tempestades impossíveis, terremo
 - [[Valedorn]]
 - [[Ninho Baixo]]
 - [[Merídia]]
+- [[Vhalden]]
+- [[Vaelthir]]
 
 --------------------------------------------
 
@@ -31,11 +33,19 @@ O equilíbrio da natureza está se desfazendo. Tempestades impossíveis, terremo
 
 ------------------------------------------
 
+#### 🛡️ ORGANIZAÇÕES
+
+- [[Organizações]]
+
+
+------------------------------------------
+
 #### 🕍 DEUSES E CRENÇAS
 
 - [[Ysthara]]
 - [[Morvanna]]
 - [[Zhalyra]]
+- [[Aquela que Permanece]]
 
 ----------------------------------
 
