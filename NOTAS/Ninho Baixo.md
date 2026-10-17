@@ -6,6 +6,8 @@
 
 Para aqueles acostumados às alturas de Aeralta, qualquer residência no vale parecia baixa demais. O nome que começou como uma observação melancólica acabou tornando-se a identidade do novo lar.
 
+![[Ninho Baixo.png]]
+
 ## Uma Aeralta no vale
 
 Os Feathren adaptaram celeiros, casas e depósitos, acrescentando plataformas elevadas, escadas externas e passarelas estreitas. Tecidos e pedaços recuperados das construções de Aeralta cobrem algumas fachadas. O resultado é uma comunidade que tenta reproduzir em terreno plano a verticalidade da vila perdida.
