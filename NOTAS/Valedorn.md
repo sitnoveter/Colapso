@@ -4,6 +4,8 @@
 
 **Valedorn** é uma cidade erguida no vale abaixo do [[Monte Kharad]]. Suas estradas atendem comunidades rurais, viajantes e mercadores que atravessam a região, tornando-a o principal destino para aqueles que descem das montanhas em busca de abrigo ou abastecimento.
 
+![[Valedorn.png]]
+
 ## A chegada dos refugiados
 
 Depois da [[A Ruptura do Monte Kharad|Ruptura do Monte Kharad]], sobreviventes de [[Aeralta]] chegaram em quantidade muito maior do que Valedorn conseguia acomodar dentro de suas muralhas e bairros.
