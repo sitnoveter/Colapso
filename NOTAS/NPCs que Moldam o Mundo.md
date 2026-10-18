@@ -19,3 +19,7 @@ Esta nota reúne os NPCs de maior influência sobre o mundo e sobre os acontecim
 ### [[Garrick Durnhal]]
 
 > *“Merídia chama de tributo aquilo que sai das mãos do meu povo. Isso não torna o continente nosso senhor; torna-o nosso devedor.”*
+
+### [[Lucien Arkwright]]
+
+> *“Todos guardam segredos. A diferença é que alguns ainda não descobriram para quem os estão guardando.”*

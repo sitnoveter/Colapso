@@ -18,7 +18,7 @@ Membros comuns não sabem necessariamente que existem sete divisões. Os nomes, 
 - [[Cassian Merrow]], da Prudência.
 - [[Mirella Seravain]], do Sacrifício.
 - [[Darius Vhal]], da Lealdade.
-- [[Lucien Arkwright]], do Silêncio.
+- [[Lucien Arkwright]], do Silêncio, dirigente dos [[Os Sem-Rosto|Sem-Rosto]].
 - [[Edrik Thorne]], da Preservação.
 
 ## Mirella e Ravik Valen
