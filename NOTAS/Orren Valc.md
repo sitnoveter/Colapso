@@ -6,6 +6,8 @@
 
 **Orren Valc** é um agente experiente da [[Ordem das Sete Chaves]] e o responsável por recrutar [[Ravik Valen]].
 
+![[Orren Valc.png]]
+
 ## O encontro na estrada
 
 Orren acompanhava discretamente uma carga pertencente à Ordem quando um tremor provocou [[O Incidente da Estrada de Vhalden]].
