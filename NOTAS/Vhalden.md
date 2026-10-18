@@ -4,6 +4,8 @@
 
 **Vhalden** é uma cidade próspera e sede de um dos reinos submetidos à influência política e econômica de [[Merídia]]. Suas oficinas, pedreiras, depósitos e uma extensa mina de carvão garantem à região recursos suficientes para suportar as taxações e imposições da capital sem perder completamente a própria autonomia.
 
+![[Vhalden.png]]
+
 ## A cidade do carvão
 
 Vhalden cresceu onde antigas rotas florestais encontravam as primeiras encostas de uma cadeia montanhosa rica em carvão. A cidade baixa concentra armazéns, fornos e oficinas; os bairros elevados abrigam residências antigas, instituições religiosas e as casas dos proprietários das minas.
