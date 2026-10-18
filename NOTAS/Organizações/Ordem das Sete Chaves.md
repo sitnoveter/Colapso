@@ -8,8 +8,6 @@ A **Ordem das Sete Chaves** é uma organização antiga dedicada a preservar con
 
 Para seus integrantes, paz e verdade nem sempre apontam para a mesma direção. A Ordem pode salvar documentos, relíquias e testemunhos; também pode esconder descobertas, substituir registros e decidir que uma informação representa perigo demais para permanecer pública.
 
-![[Ordem das Sete Chaves.png]]
-
 ## Os três princípios
 
 - **Preservar:** proteger documentos, relíquias, testemunhos e conhecimentos que poderiam desaparecer.
