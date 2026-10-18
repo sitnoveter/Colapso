@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Colapso dos Reinos.md",
+                "file": "NOTAS/Vaelthir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O Colapso dos Reinos"
+              "title": "Vaelthir"
             }
           }
         ]
@@ -199,13 +199,15 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d4f5094d84c49a2c",
+  "active": "9e8b3fb428237729",
   "lastOpenFiles": [
+    "IMAGENS/Vaelthir durante o Massacre.png",
+    "NOTAS/Coutinho.md",
+    "NOTAS/O Último Legado de Vaelthir.md",
+    "NOTAS/Aventureiros do Colapso.md",
+    "O Colapso dos Reinos.md",
     "NOTAS/Aquela que Permanece.md",
     "IMAGENS/Aquela que permanece.png",
-    "O Colapso dos Reinos.md",
-    "NOTAS/Coutinho.md",
-    "NOTAS/Aventureiros do Colapso.md",
     "NOTAS/Memento Amor.md",
     "IMAGENS/Memento Amor.png",
     "NOTAS/Guardiões do Retorno.md",
@@ -235,8 +237,6 @@
     "NOTAS/Eldorin.md",
     "NOTAS/Merídia.md",
     "NOTAS/Conselho da Agulha.md",
-    "NOTAS/Torre do Meridiano.md",
-    "NOTAS/Eldorin-Oculto.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
