@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/O Último Legado de Vaelthir.md",
+                "file": "NOTAS/Coutinho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O Último Legado de Vaelthir"
+              "title": "Coutinho"
             }
           }
         ]
@@ -199,13 +199,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
+    "NOTAS/O Último Legado de Vaelthir.md",
+    "NOTAS/O Massacre de Vaelthir.md",
+    "NOTAS/Vaelthir.md",
     "IMAGENS/O Último Legado de Vaelthir.png",
     "NOTAS/Coutinho.md",
-    "NOTAS/Vaelthir.md",
     "IMAGENS/Vaelthir durante o Massacre.png",
-    "NOTAS/O Último Legado de Vaelthir.md",
     "NOTAS/Aventureiros do Colapso.md",
     "O Colapso dos Reinos.md",
     "NOTAS/Aquela que Permanece.md",
@@ -230,7 +231,6 @@
     "IMAGENS/Monte Kharad.png",
     "IMAGENS/Monte Kharad Ruptura.png",
     "IMAGENS/Monte Kharad.png",
-    "IMAGENS/Feathren.png",
     "NOTAS/Cântico da Passagem.md",
     "NOTAS/Aurel Vesperin.md",
     "NOTAS/Baralho das Doze Vozes.md",
