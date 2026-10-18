@@ -29,11 +29,13 @@ A sede da [[Ordem das Sete Chaves]] ocupa um dos grandes edifícios instituciona
 
 ## Governo das Fornalhas Baixas
 
-Vhalden é governada por um rei aconselhado pelo **Conselho Real**, formado por magistrados, representantes das casas antigas, comandantes militares e autoridades responsáveis pelas minas, rotas, abastecimento e assistência pública. A Coroa promulga leis, recolhe seus próprios impostos, mantém a guarda das muralhas e negocia diretamente com outros reinos.
+Vhalden é governada por [[Garrick Durnhal]], o **Rei das Fornalhas Baixas**, aconselhado pelo **Conselho Real**, formado por magistrados, representantes das casas antigas, comandantes militares e autoridades responsáveis pelas minas, rotas, abastecimento e assistência pública. A Coroa promulga leis, recolhe seus próprios impostos, mantém a guarda das muralhas e negocia diretamente com outros reinos.
 
 O poder real, porém, não é absoluto. Guildas de mineiros, proprietários de fornos, caravaneiros e comunidades agrícolas controlam partes essenciais da economia e conseguem pressionar o governo quando uma decisão ameaça interromper a produção. Em períodos de crise, governar Vhalden significa manter unidos grupos que dependem uns dos outros e raramente concordam sobre quem deve pagar o preço.
 
 [[Mirella Seravain]] ocupa no Conselho Real o cargo de **Conselheira da Coroa para Reconstrução e Amparo**. Ela coordena respostas a catástrofes, acolhimento de refugiados, enfermarias e rotas de retirada, o que lhe concede influência sobre instituições civis, recursos emergenciais e decisões tomadas após cada novo desastre.
+
+Garrick e Mirella representam forças complementares dentro do governo. O rei se preocupa com a continuidade do reino; a conselheira insiste que sobreviver não basta quando a sobrevivência exige abandonar aqueles que chegaram depois. Suas divergências são públicas, mas até agora fortaleceram o Conselho em vez de dividi-lo.
 
 ## Relação com Merídia
 
@@ -71,4 +73,5 @@ Para o povo, o Colapso ainda não destruiu Vhalden. Ele apenas transformou cada 
 - [[Casa do Alvorecer]]
 - [[Vaelthir]]
 - [[O Incidente da Estrada de Vhalden]]
+- [[Garrick Durnhal]]
 

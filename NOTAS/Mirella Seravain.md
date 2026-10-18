@@ -10,7 +10,7 @@ Sua obra mais conhecida em [[Vhalden]] é a [[Casa do Alvorecer]], onde órfãos
 
 ## A conselheira da Coroa
 
-O cargo de Mirella concede acesso direto ao rei, assento no Conselho Real e autoridade para requisitar transportes, abrir depósitos emergenciais e coordenar magistrados, curandeiros e guardas durante calamidades. Sua influência não nasce apenas da proximidade com a Coroa: guildas, templos, caravaneiros e instituições de auxílio reconhecem que sua rede continua funcionando quando estruturas oficiais entram em colapso.
+O cargo de Mirella concede acesso direto ao rei [[Garrick Durnhal]], assento no Conselho Real e autoridade para requisitar transportes, abrir depósitos emergenciais e coordenar magistrados, curandeiros e guardas durante calamidades. Sua influência não nasce apenas da proximidade com a Coroa: guildas, templos, caravaneiros e instituições de auxílio reconhecem que sua rede continua funcionando quando estruturas oficiais entram em colapso.
 
 Nas reuniões do Conselho, Mirella costuma defender que refugiados sejam tratados como futuros cidadãos, não como um peso temporário. Essa posição lhe rende apoio popular e conflitos com proprietários, cobradores e oficiais preocupados com o custo de sustentar novos habitantes.
 
