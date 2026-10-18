@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Edrik Thorne.md",
+                "file": "NOTAS/A Emboscada dos Custódios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edrik Thorne"
+              "title": "A Emboscada dos Custódios"
             }
           }
         ]
@@ -199,19 +199,21 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
-    "IMAGENS/Edrik Thorne 1.png",
-    "NOTAS/Organizações/Custódios do Legado.md",
+    "NOTAS/Selene Arveth.md",
+    "NOTAS/Lyra Fenwick.md",
     "NOTAS/Tomas Grell.md",
+    "NOTAS/Organizações/Custódios do Legado.md",
+    "NOTAS/Bram Kord.md",
+    "IMAGENS/Tomas Grell.png",
+    "NOTAS/Edrik Thorne.md",
+    "IMAGENS/Edrik Thorne 1.png",
     "IMAGENS/Tomas Grell.png",
     "NOTAS/Organizações/Ordem das Sete Chaves.md",
     "IMAGENS/Edrik Thorne.png",
     "IMAGENS/Ordem das Sete Chaves.png",
-    "NOTAS/Bram Kord.md",
     "IMAGENS/Bram Kord.png",
-    "NOTAS/Selene Arveth.md",
-    "NOTAS/Lyra Fenwick.md",
     "IMAGENS/Lyra Fenwick.png",
     "IMAGENS/Selene Arveth.png",
     "IMAGENS/Custódios do Legado.png",
@@ -220,8 +222,6 @@
     "NOTAS/Vaelthir.md",
     "NOTAS/O Massacre de Vaelthir.md",
     "IMAGENS/Vaelthir durante o Massacre v3.png",
-    "IMAGENS/Vaelthir após a Destruição.png",
-    "IMAGENS/O Último Legado de Vaelthir.png",
     "NOTAS/Aventureiros do Colapso.md",
     "O Colapso dos Reinos.md",
     "NOTAS/Aquela que Permanece.md",
@@ -236,7 +236,6 @@
     "NOTAS/Licht.md",
     "NOTAS/Valedorn.md",
     "NOTAS/Aeralta.md",
-    "NOTAS/Monte Kharad.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
