@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Bram Kord.md",
+                "file": "NOTAS/Organizações/Ordem das Sete Chaves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bram Kord"
+              "title": "Ordem das Sete Chaves"
             }
           }
         ]
@@ -199,10 +199,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
-    "IMAGENS/Bram Kord.png",
     "NOTAS/Organizações/Custódios do Legado.md",
+    "NOTAS/Bram Kord.md",
+    "IMAGENS/Bram Kord.png",
     "NOTAS/Tomas Grell.md",
     "IMAGENS/Tomas Grell.png",
     "NOTAS/Selene Arveth.md",
@@ -223,7 +224,6 @@
     "NOTAS/Aquela que Permanece.md",
     "IMAGENS/Aquela que permanece.png",
     "NOTAS/Memento Amor.md",
-    "IMAGENS/Memento Amor.png",
     "NOTAS/Guardiões do Retorno.md",
     "NOTAS/Hoffnung.md",
     "NOTAS/Ysthara.md",
