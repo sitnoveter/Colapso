@@ -4,6 +4,8 @@
 
 **Licht** é uma [[Feathren]], prima de [[Leben Kurz]] e mãe de [[Hoffnung]]. Quando [[Memento Amor]] se tornou o último descendente dos [[Guardiões do Retorno]], ela se ofereceu para ajudá-lo a continuar a linhagem.
 
+![[Licht.png]]
+
 ## Uma decisão entre três
 
 A proposta de Licht não foi simples. Leben temia que a decisão alterasse para sempre a relação entre os três, enquanto Memento sentia o peso de permitir que uma tradição de gerações terminasse com ele.

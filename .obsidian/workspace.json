@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Hoffnung.md",
+                "file": "NOTAS/Licht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hoffnung"
+              "title": "Licht"
             }
           }
         ]
@@ -201,6 +201,8 @@
   },
   "active": "9e8b3fb428237729",
   "lastOpenFiles": [
+    "IMAGENS/Licht.png",
+    "NOTAS/Hoffnung.md",
     "IMAGENS/Hoffnung.png",
     "NOTAS/Memento Amor.md",
     "NOTAS/Aventureiros do Colapso.md",
@@ -228,7 +230,6 @@
     "NOTAS/A Emboscada dos Custódios.md",
     "NOTAS/Organizações/O Nexo Velado.md",
     "NOTAS/Organizações/O Nexo Velado-Oculto.md",
-    "IMAGENS/O Nexo Velado.png",
     "NOTAS/Lyra Fenwick.md",
     "NOTAS/Tomas Grell.md",
     "NOTAS/Bram Kord.md",
@@ -236,7 +237,6 @@
     "NOTAS/O Último Legado de Vaelthir.md",
     "NOTAS/Vaelthir.md",
     "NOTAS/O Massacre de Vaelthir.md",
-    "NOTAS/Aquela que Permanece.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
