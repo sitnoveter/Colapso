@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Aquela que Permanece.md",
+                "file": "O Colapso dos Reinos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aquela que Permanece"
+              "title": "O Colapso dos Reinos"
             }
           }
         ]
@@ -199,8 +199,9 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
+    "NOTAS/Aquela que Permanece.md",
     "IMAGENS/Aquela que permanece.png",
     "O Colapso dos Reinos.md",
     "NOTAS/Coutinho.md",
@@ -227,7 +228,6 @@
     "IMAGENS/Monte Kharad.png",
     "IMAGENS/Feathren.png",
     "IMAGENS/Aeralta - Ruínas.png",
-    "IMAGENS/Aeralta.png",
     "NOTAS/Cântico da Passagem.md",
     "NOTAS/Aurel Vesperin.md",
     "NOTAS/Baralho das Doze Vozes.md",
