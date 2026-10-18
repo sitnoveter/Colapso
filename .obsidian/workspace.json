@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Vhalden.md",
+                "file": "NOTAS/Garrick Durnhal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vhalden"
+              "title": "Garrick Durnhal"
             }
           }
         ]
@@ -199,14 +199,15 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "af51988edc4b68de",
+  "active": "9e8b3fb428237729",
   "lastOpenFiles": [
+    "IMAGENS/Garrick Durnhal.png",
+    "NOTAS/Vhalden.md",
     "NOTAS/Garrick Durnhal-Oculto.md",
     "NOTAS/Garrick Durnhal.md",
     "IMAGENS/Minas de Vhalden.png",
     "O Colapso dos Reinos.md",
     "NOTAS/Mirella Seravain.md",
-    "NOTAS/Vhalden.md",
     "IMAGENS/Vhalden.png",
     "NOTAS/Casa do Alvorecer.md",
     "NOTAS/Organizações/Ordem das Sete Chaves.md",
@@ -236,7 +237,6 @@
     "NOTAS/Memento Amor.md",
     "NOTAS/Guardiões do Retorno.md",
     "NOTAS/Hoffnung.md",
-    "NOTAS/Ysthara.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"

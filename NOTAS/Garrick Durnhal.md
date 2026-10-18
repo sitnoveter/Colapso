@@ -8,6 +8,8 @@
 
 Garrick ocupa o trono há dezessete anos. Durante seu reinado, fortaleceu o Conselho Real, ampliou os celeiros públicos, profissionalizou a inspeção das minas e transformou as principais guildas em participantes formais do governo. Seus adversários chamam isso de concessão. O rei chama de reconhecer quem mantém Vhalden viva.
 
+![[Garrick Durnhal.png]]
+
 ## Aparência e presença
 
 Garrick é um homem de meia-idade, alto e robusto, com cabelos escuros marcados por mechas grisalhas e uma cicatriz de queimadura atravessando a mão esquerda. Prefere casacos pesados, couro escuro e detalhes em cobre envelhecido às vestes excessivamente ornamentadas da corte.
