@@ -6,6 +6,8 @@
 
 Seu nome significa **“esperança”** na mesma tradição linguística que preservou os nomes de [[Leben Kurz|Leben]] e Licht.
 
+![[Hoffnung.png]]
+
 ## A criança da Ruptura
 
 Hoffnung sobreviveu à [[A Ruptura do Monte Kharad|Ruptura do Monte Kharad]] nos braços de Licht. Leben voltou para Aeralta para tentar salvá-las e desapareceu durante o resgate.
