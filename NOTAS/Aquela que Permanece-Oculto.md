@@ -25,7 +25,7 @@ Aquela que Permanece não protege a peça de toda ameaça. Sua influência manif
 
 ## A memória de uma comunidade
 
-Vaelthir foi destruída fisicamente, mas ainda existe enquanto suas histórias forem transmitidas. Se Coutinho reconstruir as tradições apenas como ferramentas para abrir o sepulcro, poderá perder aquilo que realmente mantinha a vila viva.
+Vaelthir foi destruída fisicamente, mas ainda existe enquanto suas histórias forem transmitidas. Se Ravik Valen reconstruir as tradições apenas como ferramentas para abrir o sepulcro, poderá perder aquilo que realmente mantinha a vila viva.
 
 Se escolher ensiná-las a outras pessoas, Vaelthir deixará de ser apenas uma ruína e voltará a existir como legado.
 

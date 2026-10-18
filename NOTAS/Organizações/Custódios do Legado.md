@@ -18,7 +18,7 @@ Preservar não significa permitir o uso. Um projeto pode ser copiado para impedi
 
 As equipes combinam combatentes, estudiosos e pessoas capazes de improvisar diante de mecanismos desconhecidos.
 
-[[Coutinho]] foi encaminhado aos Custódios depois de demonstrar aptidão para ferramentas, reparos e aplicações práticas de magia. Atuou ao lado de [[Bram Kord]], [[Tomas Grell]], [[Lyra Fenwick]] e [[Selene Arveth]] até a [[A Emboscada dos Custódios|emboscada]] que destruiu a equipe.
+[[Ravik Valen]] foi encaminhado aos Custódios depois de demonstrar aptidão para ferramentas, reparos e aplicações práticas de magia. Atuou ao lado de [[Bram Kord]], [[Tomas Grell]], [[Lyra Fenwick]] e [[Selene Arveth]] até a [[A Emboscada dos Custódios|emboscada]] que destruiu a equipe.
 
 ## Edrik Thorne
 

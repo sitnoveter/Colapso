@@ -34,5 +34,5 @@ Ao amanhecer, já não havia comunidade para se render, enterrar os mortos ou re
 
 As ruínas permanecem abandonadas, visitadas apenas por investigadores, saqueadores e pessoas que ainda procuram nomes entre as pedras queimadas. Mesmo anos depois, restos de objetos familiares aparecem sob a fuligem, frequentemente sem que exista alguém vivo capaz de reconhecê-los.
 
-[[Coutinho]] foi a única criança encontrada viva depois do ataque. Com ele estava [[O Último Legado de Vaelthir|um antigo colar de família]], a última lembrança material de uma família cuja morte é considerada praticamente certa.
+[[Ravik Valen]] foi a única criança encontrada viva depois do ataque. Com ele estava [[O Último Legado de Vaelthir|um antigo colar de família]], a última lembrança material de uma família cuja morte é considerada praticamente certa.
 

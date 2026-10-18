@@ -12,5 +12,5 @@ Guardas de Vhalden patrulham os setores próximos à cidade. Nas partes mais dis
 
 ## Os primeiros tremores
 
-Antes que as grandes catástrofes fossem reconhecidas como parte do Colapso, pequenos abalos começaram a danificar pontes e abrir rachaduras sob a estrada. Um desses tremores provocou [[O Incidente da Estrada de Vhalden]], durante o qual [[Coutinho]] salvou civis e conheceu [[Orren Valc]].
+Antes que as grandes catástrofes fossem reconhecidas como parte do Colapso, pequenos abalos começaram a danificar pontes e abrir rachaduras sob a estrada. Um desses tremores provocou [[O Incidente da Estrada de Vhalden]], durante o qual [[Ravik Valen]] salvou civis e conheceu [[Orren Valc]].
 

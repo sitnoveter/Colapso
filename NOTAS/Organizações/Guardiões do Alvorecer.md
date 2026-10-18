@@ -16,5 +16,5 @@ Quando uma pessoa continua ameaçada, podem providenciar escolta, documentação
 
 Orfanatos, enfermarias e cozinhas comunitárias financiados por doadores funcionam como pontos de apoio. Nem todos os funcionários pertencem à Ordem e muitos desconhecem inteiramente a existência das Sete Chaves.
 
-A [[Casa do Alvorecer]], em [[Vhalden]], é uma dessas instituições. Seus agentes encontraram [[Coutinho]] após o [[O Massacre de Vaelthir|Massacre de Vaelthir]].
+A [[Casa do Alvorecer]], em [[Vhalden]], é uma dessas instituições. Seus agentes encontraram [[Ravik Valen]] após o [[O Massacre de Vaelthir|Massacre de Vaelthir]].
 

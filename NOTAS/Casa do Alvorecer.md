@@ -16,9 +16,9 @@ A Casa procura não tratar seus acolhidos como prisioneiros ou eternos dependent
 
 Grande parte do financiamento vem de [[Mirella Seravain]], benfeitora conhecida por apoiar sobreviventes e instituições de auxílio. Ela visita a Casa com frequência suficiente para conhecer muitos residentes pelo nome, embora raramente explique como reúne os recursos utilizados para mantê-la.
 
-## Coutinho
+## Ravik Valen
 
-[[Coutinho]] foi levado para a Casa depois do [[O Massacre de Vaelthir|Massacre de Vaelthir]]. Ali cresceu longe das ruínas, conservando apenas lembranças fragmentadas da família e o colar encontrado com ele.
+[[Ravik Valen]] foi levado para a Casa depois do [[O Massacre de Vaelthir|Massacre de Vaelthir]]. Ali cresceu longe das ruínas, conservando apenas lembranças fragmentadas da família e o colar encontrado com ele.
 
 Anos depois, sua disposição para proteger civis durante [[O Incidente da Estrada de Vhalden]] chamou a atenção de [[Orren Valc]].
 

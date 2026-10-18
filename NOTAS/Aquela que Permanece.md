@@ -62,7 +62,7 @@ O culto floresce onde povos precisam preservar a própria identidade diante de g
 
 Os habitantes de [[Vaelthir]] preservavam histórias, cerimônias e objetos familiares associados à deusa. Nem todos consideravam essas práticas um culto, mas a comunidade compartilhava seu princípio fundamental: esquecer os antepassados era permitir que parte deles desaparecesse.
 
-O [[O Massacre de Vaelthir|massacre]] destruiu a comunidade, mas não necessariamente aquilo que ela preservava. [[Coutinho]] ainda carrega [[O Último Legado de Vaelthir|um objeto transmitido por sua família]].
+O [[O Massacre de Vaelthir|massacre]] destruiu a comunidade, mas não necessariamente aquilo que ela preservava. [[Ravik Valen]] ainda carrega [[O Último Legado de Vaelthir|um objeto transmitido por sua família]].
 
 ## Relações com outros deuses
 

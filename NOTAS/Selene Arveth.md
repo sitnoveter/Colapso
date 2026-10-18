@@ -8,6 +8,6 @@ Antes do ataque, Selene era responsável por coordenar deslocamentos e reconhece
 
 A morte de [[Bram Kord]] e [[Tomas Grell]], somada ao desaparecimento de [[Lyra Fenwick]], abalou profundamente sua confiança. Selene permaneceu com a [[Ordem das Sete Chaves]], mas evita missões de campo e revisa repetidamente as decisões tomadas durante a emboscada.
 
-Ela continua sendo um dos vínculos mais importantes de [[Coutinho]] com a antiga equipe e pode possuir lembranças do ataque que ainda não conseguiu organizar.
+Ela continua sendo um dos vínculos mais importantes de [[Ravik Valen]] com a antiga equipe e pode possuir lembranças do ataque que ainda não conseguiu organizar.
 
 ![[Selene Arveth.png]]

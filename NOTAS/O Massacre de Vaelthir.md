@@ -2,7 +2,7 @@
 
 #Eventos
 
-O **Massacre de Vaelthir** foi o ataque que destruiu a pequena comunidade de [[Vaelthir]] e deixou [[Coutinho]] como a única criança encontrada viva entre as ruínas.
+O **Massacre de Vaelthir** foi o ataque que destruiu a pequena comunidade de [[Vaelthir]] e deixou [[Ravik Valen]] como a única criança encontrada viva entre as ruínas.
 
 ![[Vaelthir durante o Massacre v3.png]]
 
@@ -16,7 +16,7 @@ Vaelthir não possuía soldados ou muralhas. Famílias foram separadas, oficinas
 
 ## Os sobreviventes
 
-Equipes de resgate encontraram poucos sobreviventes feridos, nenhum capaz de oferecer uma descrição completa dos invasores. Entre eles estava Coutinho, ainda criança, escondido nos escombros e carregando [[O Último Legado de Vaelthir|um antigo colar de família]].
+Equipes de resgate encontraram poucos sobreviventes feridos, nenhum capaz de oferecer uma descrição completa dos invasores. Entre eles estava Ravik Valen, ainda criança, escondido nos escombros e carregando [[O Último Legado de Vaelthir|um antigo colar de família]].
 
 Restos e pertences de membros de sua família foram encontrados. Nenhum indício concreto de sobrevivência surgiu nos anos seguintes, e os registros da [[Casa do Alvorecer]] consideram extremamente improvável que outra pessoa de sua casa tenha escapado.
 

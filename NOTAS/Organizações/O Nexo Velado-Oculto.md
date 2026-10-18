@@ -9,7 +9,7 @@
 
 O [[O Nexo Velado|Nexo Velado]] foi responsável pelo [[O Massacre de Vaelthir|Massacre de Vaelthir]]. Seus agentes acreditavam que a vila guardava um artefato capaz de indicar o caminho para estruturas ligadas ao [[Os Quatro Pilares|Pilar da Rocha]].
 
-Eles procuravam um objeto completo. Não compreenderam que Vaelthir havia fragmentado o segredo entre histórias, cerimônias, símbolos e heranças familiares. [[O Último Legado de Vaelthir|O colar de Coutinho]] deixou as ruínas com a única criança encontrada viva.
+Eles procuravam um objeto completo. Não compreenderam que Vaelthir havia fragmentado o segredo entre histórias, cerimônias, símbolos e heranças familiares. [[O Último Legado de Vaelthir|O colar de Ravik Valen]] deixou as ruínas com a única criança encontrada viva.
 
 ## A Convergência
 
@@ -25,7 +25,7 @@ Essas intervenções agravam tremores locais e podem abrir um caminho secundári
 
 ## A emboscada
 
-O Nexo identificou a célula de [[Coutinho]] durante uma recuperação dos [[Custódios do Legado]]. A operação matou parte da equipe e capturou [[Lyra Fenwick]] para obter informações sobre depósitos, missões e artefatos preservados pela Ordem.
+O Nexo identificou a célula de [[Ravik Valen]] durante uma recuperação dos [[Custódios do Legado]]. A operação matou parte da equipe e capturou [[Lyra Fenwick]] para obter informações sobre depósitos, missões e artefatos preservados pela Ordem.
 
-O Nexo ainda não sabe que Coutinho é a criança de Vaelthir. Quando reconhecer o colar, as duas investigações que ele considera separadas tornar-se-ão uma única caçada.
+O Nexo ainda não sabe que Ravik Valen é a criança de Vaelthir. Quando reconhecer o colar, as duas investigações que ele considera separadas tornar-se-ão uma única caçada.
 

@@ -45,7 +45,7 @@ Vhalden possui produção suficiente para contestar algumas exigências, nunca t
 
 A [[Casa do Alvorecer]] ocupa um antigo conjunto de pedra próximo ao bairro das oficinas. Financiada por [[Mirella Seravain]], recebe órfãos, sobreviventes de catástrofes e pessoas retiradas de regiões destruídas.
 
-Foi para essa instituição que [[Coutinho]] foi levado após o [[O Massacre de Vaelthir|Massacre de Vaelthir]].
+Foi para essa instituição que [[Ravik Valen]] foi levado após o [[O Massacre de Vaelthir|Massacre de Vaelthir]].
 
 A Casa é apenas a instituição mais conhecida de uma rede apoiada pelo gabinete de Mirella. Abrigos menores, enfermarias, cozinhas comunitárias e postos de triagem permitem que Vhalden receba sobreviventes de outras regiões sem depender inteiramente da ajuda de Merídia.
 

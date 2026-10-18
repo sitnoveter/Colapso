@@ -7,7 +7,7 @@
 
 ## Uma chave, não uma solução
 
-O colar de [[Coutinho]] é uma chave criada para abrir o sepulcro de um antigo guardião associado ao [[Os Quatro Pilares|Pilar da Rocha]].
+O colar de [[Ravik Valen]] é uma chave criada para abrir o sepulcro de um antigo guardião associado ao [[Os Quatro Pilares|Pilar da Rocha]].
 
 Ele não possui poder suficiente para estabilizar o Pilar por conta própria. Sua função é permitir acesso ao guardião, aos conhecimentos e aos mecanismos preservados no interior do sepulcro.
 

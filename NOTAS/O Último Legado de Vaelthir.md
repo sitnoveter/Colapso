@@ -2,9 +2,9 @@
 
 #Itens #Relíquias
 
-**O Último Legado de Vaelthir** é um antigo colar encontrado com [[Coutinho]] depois do [[O Massacre de Vaelthir|Massacre de Vaelthir]].
+**O Último Legado de Vaelthir** é um antigo colar encontrado com [[Ravik Valen]] depois do [[O Massacre de Vaelthir|Massacre de Vaelthir]].
 
-Foi o único objeto pessoal que permaneceu com ele depois da destruição da vila. Coutinho o reconhece como uma herança de família, embora não saiba quem o entregou a ele na noite do ataque nem por quantas gerações foi preservado.
+Foi o único objeto pessoal que permaneceu com ele depois da destruição da vila. Ravik Valen o reconhece como uma herança de família, embora não saiba quem o entregou a ele na noite do ataque nem por quantas gerações foi preservado.
 
 ![[O Último Legado de Vaelthir.png]]
 
@@ -14,9 +14,9 @@ O colar apresenta marcas de uso prolongado e símbolos semelhantes aos encontrad
 
 ## A última lembrança
 
-Para Coutinho, o valor do objeto não depende de magia. Ele é a única lembrança material de sua família, de sua infância e da comunidade que deixou de existir.
+Para Ravik Valen, o valor do objeto não depende de magia. Ele é a única lembrança material de sua família, de sua infância e da comunidade que deixou de existir.
 
-Em algumas ocasiões, o metal pareceu vibrar durante tremores ou próximo de construções muito antigas. Coutinho nunca conseguiu demonstrar se essas manifestações eram reais.
+Em algumas ocasiões, o metal pareceu vibrar durante tremores ou próximo de construções muito antigas. Ravik Valen nunca conseguiu demonstrar se essas manifestações eram reais.
 
 ## [[O Último Legado de Vaelthir-Oculto|Verdades ocultas]]
 

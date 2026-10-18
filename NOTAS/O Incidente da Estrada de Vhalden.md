@@ -8,13 +8,13 @@ Uma fissura abriu-se sob a via. Uma carroça tombou, parte da carga incendiou-se
 
 ## O resgate
 
-[[Coutinho]] ainda não possuía treinamento de combate ou experiência como artífice. Mesmo assim, permaneceu quando outros fugiram.
+[[Ravik Valen]] ainda não possuía treinamento de combate ou experiência como artífice. Mesmo assim, permaneceu quando outros fugiram.
 
 Utilizando um escudo improvisado, ferramentas retiradas da própria caravana e a força necessária para sustentar uma estrutura instável, abriu passagem para os civis alcançarem terreno seguro.
 
 ## Orren Valc
 
-[[Orren Valc]] acompanhava discretamente uma carga pertencente à [[Ordem das Sete Chaves]]. Ele não enxergou em Coutinho um guerreiro pronto, mas alguém disposto a colocar-se entre o perigo e pessoas desconhecidas.
+[[Orren Valc]] acompanhava discretamente uma carga pertencente à [[Ordem das Sete Chaves]]. Ele não enxergou em Ravik Valen um guerreiro pronto, mas alguém disposto a colocar-se entre o perigo e pessoas desconhecidas.
 
 Depois do resgate, ofereceu-lhe a oportunidade de ingressar na Ordem.
 

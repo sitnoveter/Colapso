@@ -21,17 +21,17 @@ Membros comuns não sabem necessariamente que existem sete divisões. Os nomes, 
 - [[Lucien Arkwright]], do Silêncio.
 - [[Edrik Thorne]], da Preservação.
 
-## Mirella e Coutinho
+## Mirella e Ravik Valen
 
-Os [[Guardiões do Alvorecer]] encontraram [[Coutinho]] nas ruínas de [[Vaelthir]] e o conduziram à [[Casa do Alvorecer]] por ordem de Mirella.
+Os [[Guardiões do Alvorecer]] encontraram [[Ravik Valen]] nas ruínas de [[Vaelthir]] e o conduziram à [[Casa do Alvorecer]] por ordem de Mirella.
 
 Mirella sempre soube quem ele era e reconheceu [[O Último Legado de Vaelthir|seu colar]] como uma joia-chave ligada aos segredos preservados em Vaelthir. Ela ainda desconhece toda a extensão de sua função, mas sabe que o artefato poderá estabilizar um dos [[Os Quatro Pilares|Pilares Elementais]] ou abrir o túmulo de um antigo guardião.
 
 Ela decidiu que o colar estaria mais seguro como lembrança familiar do que catalogado em um cofre da Ordem. Acompanhou discretamente o crescimento do jovem, cultivou sua confiança e espera que ele lhe entregue a joia voluntariamente caso ela precise ser usada. Sua entrada nos [[Custódios do Legado]] não foi ordenada por Mirella, mas os caminhos abertos pela [[Casa do Alvorecer]] o mantiveram próximo da Ordem e tornaram mais fácil proteger tanto o rapaz quanto o artefato.
 
-## A equipe de Coutinho
+## A equipe de Ravik Valen
 
-Bram, Tomas, Lyra e Selene formavam uma célula de campo dos Custódios. A expressão **Sétima Divisão** aparece apenas em registros internos dos Sábios; Coutinho conhece o grupo como uma equipe dos Custódios e não compreende a numeração completa da Ordem.
+Bram, Tomas, Lyra e Selene formavam uma célula de campo dos Custódios. A expressão **Sétima Divisão** aparece apenas em registros internos dos Sábios; Ravik Valen conhece o grupo como uma equipe dos Custódios e não compreende a numeração completa da Ordem.
 
 ## Conhecimento fragmentado
 

@@ -20,9 +20,9 @@ Mirella cultiva uma postura maternal sem tratar sobreviventes como pessoas frág
 
 Sua obra mais conhecida é a [[Casa do Alvorecer]], mas sua influência alcança enfermarias, cozinhas comunitárias, abrigos menores e rotas utilizadas para retirar civis de regiões ameaçadas. Governantes respeitam sua capacidade de mobilizar recursos rapidamente. Alguns também desconfiam de como ela obtém informações antes que notícias oficiais cheguem à capital.
 
-## Coutinho
+## Ravik Valen
 
-[[Coutinho]] cresceu na Casa do Alvorecer depois da destruição de [[Vaelthir]]. Para ele, Mirella é uma das pessoas responsáveis por oferecer-lhe uma segunda oportunidade de vida.
+[[Ravik Valen]] cresceu na Casa do Alvorecer depois da destruição de [[Vaelthir]]. Para ele, Mirella é uma das pessoas responsáveis por oferecer-lhe uma segunda oportunidade de vida.
 
 Ela acompanhou seu crescimento e sua entrada na [[Ordem das Sete Chaves]], mas nunca explicou quanto sabia sobre a noite do massacre, sobre sua família ou sobre o colar que ele carregava quando foi encontrado.
 

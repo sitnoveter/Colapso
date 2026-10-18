@@ -26,7 +26,7 @@ Arquivos, identidades, bases e operações são mantidos separados. Uma equipe p
 
 Não existe uma apresentação completa da Ordem para novos integrantes. Cada agente conhece a própria área, seus superiores imediatos e os contatos necessários para cumprir missões.
 
-[[Coutinho]], por exemplo, pertence aos [[Custódios do Legado]], grupo dedicado à recuperação e contenção de artefatos. Ele sabe que a Ordem mantém outros agentes, arquivos e estruturas de apoio, mas não conhece toda a hierarquia nem a extensão dessas operações.
+[[Ravik Valen]], por exemplo, pertence aos [[Custódios do Legado]], grupo dedicado à recuperação e contenção de artefatos. Ele sabe que a Ordem mantém outros agentes, arquivos e estruturas de apoio, mas não conhece toda a hierarquia nem a extensão dessas operações.
 
 Os nomes, funções e dirigentes das demais divisões pertencem aos segredos mais protegidos da organização.
 
@@ -41,7 +41,7 @@ Muitos integrantes servem por convicção genuína. Outros utilizam o segredo co
 - [[Casa do Alvorecer]]
 - [[Guardiões do Alvorecer]]
 - [[Custódios do Legado]]
-- [[Coutinho]]
+- [[Ravik Valen]]
 - [[O Nexo Velado]]
 - [[Ordem das Sete Chaves-Oculto|Verdades ocultas]]
 

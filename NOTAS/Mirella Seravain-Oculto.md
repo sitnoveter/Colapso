@@ -19,19 +19,19 @@ Professores, curandeiros e administradores registram aptidões incomuns, sensibi
 
 Mirella não obriga todos os escolhidos a servir, mas controla quais portas serão abertas diante deles. Para ela, oferecer propósito e proteção é uma forma legítima de recrutamento. Para alguém que descubra o processo, a diferença entre oportunidade e manipulação pode parecer muito menor.
 
-## Coutinho
+## Ravik Valen
 
-Mirella ordenou o resgate nas ruínas de [[Vaelthir]] e sempre soube exatamente quem era [[Coutinho]], de qual família vinha e por que sua sobrevivência importava.
+Mirella ordenou o resgate nas ruínas de [[Vaelthir]] e sempre soube exatamente quem era [[Ravik Valen]], de qual família vinha e por que sua sobrevivência importava.
 
 Ela também reconheceu [[O Último Legado de Vaelthir|o colar]] como uma joia-chave ligada aos segredos preservados pela comunidade. Mirella ainda não conhece todos os mecanismos que ele pode ativar, mas sabe que a peça poderá estabilizar um dos [[Os Quatro Pilares|Pilares Elementais]] ou abrir o túmulo de um de seus antigos guardiões.
 
-Retirar a joia da criança teria criado registros, atraído a atenção de outros Sábios e transformado o colar em mais um artefato disputado dentro da Ordem. Mirella concluiu que o esconderijo mais seguro seria mantê-lo como aquilo que ele sempre havia sido para Coutinho: a última lembrança de sua família.
+Retirar a joia da criança teria criado registros, atraído a atenção de outros Sábios e transformado o colar em mais um artefato disputado dentro da Ordem. Mirella concluiu que o esconderijo mais seguro seria mantê-lo como aquilo que ele sempre havia sido para Ravik Valen: a última lembrança de sua família.
 
-Por isso, permitiu que ele o carregasse. Manteve Coutinho protegido, observou seu crescimento e cultivou uma relação de confiança. Se chegar o momento em que a joia precise ser usada, Mirella acredita que ele a entregará voluntariamente ao compreender a necessidade — e, sobretudo, por confiar nela.
+Por isso, permitiu que ele o carregasse. Manteve Ravik Valen protegido, observou seu crescimento e cultivou uma relação de confiança. Se chegar o momento em que a joia precise ser usada, Mirella acredita que ele a entregará voluntariamente ao compreender a necessidade — e, sobretudo, por confiar nela.
 
-Sua entrada na Ordem não foi uma coincidência completa. Mirella não ordenou que Orren o recrutasse durante [[O Incidente da Estrada de Vhalden]], mas os caminhos oferecidos pela Casa do Alvorecer aumentaram a possibilidade de que Coutinho crescesse próximo de pessoas capazes de reconhecê-lo. Depois do incidente, ela permitiu que o recrutamento prosseguisse e passou a considerar os [[Custódios do Legado]] uma camada adicional de proteção para ele e para a joia.
+Sua entrada na Ordem não foi uma coincidência completa. Mirella não ordenou que Orren o recrutasse durante [[O Incidente da Estrada de Vhalden]], mas os caminhos oferecidos pela Casa do Alvorecer aumentaram a possibilidade de que Ravik Valen crescesse próximo de pessoas capazes de reconhecê-lo. Depois do incidente, ela permitiu que o recrutamento prosseguisse e passou a considerar os [[Custódios do Legado]] uma camada adicional de proteção para ele e para a joia.
 
 ## Limites de sua proteção
 
-Mirella acredita ter protegido Coutinho, mas também transformou sua confiança, seu lar e parte de suas oportunidades em elementos de um plano que ele desconhecia. Quando sua posição for revelada, ele precisará decidir se o silêncio foi cuidado, manipulação ou ambos — e se pode confiar a joia a alguém que sempre soube mais do que dizia.
+Mirella acredita ter protegido Ravik Valen, mas também transformou sua confiança, seu lar e parte de suas oportunidades em elementos de um plano que ele desconhecia. Quando sua posição for revelada, ele precisará decidir se o silêncio foi cuidado, manipulação ou ambos — e se pode confiar a joia a alguém que sempre soube mais do que dizia.
 

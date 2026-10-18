@@ -10,4 +10,4 @@ Atendendo à convocação do druida [[Eldorin]], aventureiros de diferentes orig
 
 - [[Memento Amor]] — Feathren, clérigo da Sepultura e último Guardião do Retorno, que investiga por que as mortes de Aeralta aconteceram fora dos sinais de sua deusa.
 
-- [[Coutinho|Coutinho, o Último Legado de Vaelthir]] — Combatente e artífice em formação dos Custódios do Legado, que procura uma companheira desaparecida e os responsáveis pelas duas tragédias que destruíram suas famílias.
+- [[Ravik Valen|Ravik Valen, o Último Legado de Vaelthir]] — Combatente e artífice em formação dos Custódios do Legado, que procura uma companheira desaparecida e os responsáveis pelas duas tragédias que destruíram suas famílias.

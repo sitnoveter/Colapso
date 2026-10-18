@@ -25,7 +25,7 @@ Sua ausência foi construída para parecer uma morte sem corpo. Os agentes deixa
 
 O Nexo recebeu detalhes suficientes para preparar o ataque, mas ainda não está definido se houve um traidor consciente. Informações fragmentadas podem ter sido reunidas através de diferentes contatos, relatórios roubados e vigilância.
 
-## Coutinho
+## Ravik Valen
 
-Na época da emboscada, o Nexo não sabia que Coutinho era o sobrevivente de [[Vaelthir]]. O ataque ligou novamente sua vida à mesma organização sem que nenhuma das partes reconhecesse toda a conexão.
+Na época da emboscada, o Nexo não sabia que Ravik Valen era o sobrevivente de [[Vaelthir]]. O ataque ligou novamente sua vida à mesma organização sem que nenhuma das partes reconhecesse toda a conexão.
 

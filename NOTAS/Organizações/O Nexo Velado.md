@@ -20,7 +20,7 @@ Documentos apreendidos utilizam repetidamente a palavra **Convergência**. Não 
 
 ## Rumores recentes
 
-O nome do Nexo surgiu durante a investigação da [[A Emboscada dos Custódios|emboscada]] que matou dois companheiros de [[Coutinho]] e provocou o desaparecimento de [[Lyra Fenwick]].
+O nome do Nexo surgiu durante a investigação da [[A Emboscada dos Custódios|emboscada]] que matou dois companheiros de [[Ravik Valen]] e provocou o desaparecimento de [[Lyra Fenwick]].
 
 Não existe prova pública de sua participação no [[O Massacre de Vaelthir|Massacre de Vaelthir]].
 

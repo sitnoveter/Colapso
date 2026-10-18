@@ -15,9 +15,9 @@ O Nexo possuía registros incompletos. Sabia que Vaelthir preservava o caminho, 
 
 O segredo havia sido dividido entre histórias, cerimônias, símbolos e objetos familiares. Destruir a comunidade tornou mais difícil reconstruir o caminho que a organização desejava encontrar.
 
-[[O Último Legado de Vaelthir|A chave]] foi colocada com Coutinho por um familiar que o escondeu durante o ataque. Os agentes deixaram a vila sem perceber que o objeto procurado estava com a criança.
+[[O Último Legado de Vaelthir|A chave]] foi colocada com Ravik Valen por um familiar que o escondeu durante o ataque. Os agentes deixaram a vila sem perceber que o objeto procurado estava com a criança.
 
-## A família de Coutinho
+## A família de Ravik Valen
 
 Tudo indica que a família morreu durante o massacre. Restos, pertences e testemunhos tornam a possibilidade de sobrevivência muito menor que uma simples ausência de corpo.
 

@@ -2,7 +2,7 @@
 
 #Eventos
 
-A **Emboscada dos Custódios** destruiu a equipe de campo formada por [[Coutinho]], [[Bram Kord]], [[Tomas Grell]], [[Lyra Fenwick]] e [[Selene Arveth]].
+A **Emboscada dos Custódios** destruiu a equipe de campo formada por [[Ravik Valen]], [[Bram Kord]], [[Tomas Grell]], [[Lyra Fenwick]] e [[Selene Arveth]].
 
 ## O ataque
 
@@ -14,11 +14,11 @@ O confronto rapidamente deixou de parecer um assalto ou tentativa de impedir a r
 
 Bram e Tomas morreram durante o ataque. Lyra desapareceu no caos; nenhum corpo foi encontrado e não foi possível determinar se morreu, escapou ou foi capturada.
 
-Selene e Coutinho sobreviveram. A Ordem iniciou uma investigação, mas encontrou rastros contraditórios e poucas informações verificáveis.
+Selene e Ravik Valen sobreviveram. A Ordem iniciou uma investigação, mas encontrou rastros contraditórios e poucas informações verificáveis.
 
 ## O Nexo Velado
 
-Investigações conduzidas por Coutinho encontraram indícios da participação do [[O Nexo Velado]]. Ele partiu para descobrir o motivo da emboscada e procurar Lyra sem abandonar formalmente a [[Ordem das Sete Chaves]].
+Investigações conduzidas por Ravik Valen encontraram indícios da participação do [[O Nexo Velado]]. Ele partiu para descobrir o motivo da emboscada e procurar Lyra sem abandonar formalmente a [[Ordem das Sete Chaves]].
 
 ## [[A Emboscada dos Custódios-Oculto|Verdades ocultas]]
 
