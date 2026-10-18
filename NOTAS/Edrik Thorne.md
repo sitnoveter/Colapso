@@ -10,3 +10,4 @@ Essa prudência possui um custo. Edrik pode priorizar a contenção de um artefa
 
 [[Coutinho]] pertence à divisão que ele dirige, embora a distância entre um agente de campo e o dirigente dos Custódios limite o contato entre os dois.
 
+![[Edrik Thorne 1.png]]
