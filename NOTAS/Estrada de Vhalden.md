@@ -2,7 +2,7 @@
 
 #Localidades #Estradas
 
-A **Estrada de Vhalden** é a principal rota entre o reino de [[Vhalden]], suas minas e as vias que seguem até [[Merídia]]. Caravanas carregadas de carvão, ferramentas, pedra e alimentos percorrem o caminho durante quase todo o ano.
+A **Estrada de Vhalden** é a principal rota entre o reino de [[Vhalden]], suas minas, campos, pedreiras e as vias que seguem até [[Merídia]]. Carroças e caravanas carregadas de carvão, ferramentas, pedra, cal, vidro, cerâmica, alimentos e animais percorrem o caminho durante quase todo o ano.
 
 ## A rota das cargas negras
 

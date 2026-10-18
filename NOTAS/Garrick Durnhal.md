@@ -2,9 +2,9 @@
 
 #NPCs #Governantes #Vhalden
 
-> *“O carvão de Vhalden alimenta metade do continente. Isso não torna o continente nosso senhor; torna-o nosso devedor.”*
+> *“Merídia chama de tributo aquilo que sai das mãos do meu povo. Isso não torna o continente nosso senhor; torna-o nosso devedor.”*
 
-**Garrick Durnhal** é o rei de [[Vhalden]] e soberano do **Reino das Fornalhas Baixas**. Governa uma capital cuja riqueza sustenta fornalhas, estradas e exércitos muito além de suas fronteiras, mas cujo povo paga por essa influência com trabalho perigoso, fuligem e uma dependência constante das minas.
+**Garrick Durnhal** é o rei de [[Vhalden]] e soberano do **Reino das Fornalhas Baixas**. Governa uma capital cuja riqueza nasce dos campos, pedreiras, minas, oficinas e rotas comerciais. Essa diversidade concede influência ao reino, mas obriga a Coroa a equilibrar interesses que raramente desejam suportar o mesmo custo.
 
 Garrick ocupa o trono há dezessete anos. Durante seu reinado, fortaleceu o Conselho Real, ampliou os celeiros públicos, profissionalizou a inspeção das minas e transformou as principais guildas em participantes formais do governo. Seus adversários chamam isso de concessão. O rei chama de reconhecer quem mantém Vhalden viva.
 
@@ -22,15 +22,15 @@ Em cerimônias, utiliza a **Coroa das Brasas Frias**, forjada em aço escurecido
 
 O trono de Vhalden não governa sozinho. Leis, impostos extraordinários e mobilizações militares passam pelo **Conselho Real**, onde magistrados, comandantes, casas antigas e autoridades civis disputam influência.
 
-Garrick preside o Conselho e possui a palavra final em situações de emergência, mas raramente ignora uma oposição capaz de interromper as minas, as fornalhas ou o abastecimento. Ele aprendeu que governar Vhalden não significa impor silêncio: significa impedir que interesses incompatíveis destruam aquilo de que todos dependem.
+Garrick preside o Conselho e possui a palavra final em situações de emergência, mas raramente ignora uma oposição capaz de interromper minas, pedreiras, oficinas, colheitas, caravanas ou o abastecimento. Ele aprendeu que governar Vhalden não significa impor silêncio: significa impedir que interesses incompatíveis destruam aquilo de que todos dependem.
 
 Entre o povo, é conhecido como **o Rei das Portas Abertas**. Em dois dias de cada mês, recebe petições sem exigir intermediação de nobres. O costume tornou-o popular entre trabalhadores e extremamente inconveniente para funcionários que prefeririam controlar quais problemas chegam ao trono.
 
 ## Relação com Merídia
 
-Garrick reconhece [[Merídia]] como capital continental e aceita que a estabilidade das grandes rotas depende do [[Conselho da Agulha]]. Ele não aceita, porém, que essa posição transforme Vhalden em simples fornecedora de carvão.
+Garrick reconhece [[Merídia]] como capital continental e aceita que a estabilidade das grandes rotas depende do [[Conselho da Agulha]]. Ele não aceita, porém, que essa posição transforme Vhalden em simples celeiro, pedreira ou reserva de combustível para as crises de outros reinos.
 
-As negociações entre as duas capitais são tensas. Garrick contesta tarifas, exige contrapartidas para remessas emergenciais e ameaça reduzir carregamentos quando inspetores de Merídia ultrapassam a autoridade prevista nos tratados. Ao mesmo tempo, sabe que um rompimento aberto isolaria Vhalden de mercados, aliados e rotas das quais o reino também depende.
+As negociações entre as duas capitais são tensas. Garrick contesta tarifas, exige contrapartidas para remessas emergenciais de carvão, pedra, cal, ferramentas, vidro e alimentos e ameaça reduzir carregamentos quando inspetores de Merídia ultrapassam a autoridade prevista nos tratados. Ao mesmo tempo, sabe que um rompimento aberto isolaria Vhalden de mercados, aliados e rotas das quais o reino também depende.
 
 Para Merídia, ele é um aliado difícil. Para parte de Vhalden, ainda é cauteloso demais.
 
@@ -44,9 +44,9 @@ Apesar dos conflitos, ele raramente toma decisões sobre evacuações, enfermari
 
 ## O Colapso
 
-O aumento dos tremores colocou Garrick diante de uma escolha impossível. Fechar as galerias mais profundas protegeria milhares de trabalhadores, mas reduziria a principal fonte de renda do reino justamente quando alimentos, soldados e obras de contenção exigem mais recursos.
+O aumento dos tremores colocou Garrick diante de uma escolha impossível. Fechar as galerias mais profundas protegeria milhares de trabalhadores, mas reduziria uma fonte estratégica de renda e combustível justamente quando alimentos, soldados e obras de contenção exigem mais recursos.
 
-Merídia solicita carregamentos maiores. As guildas exigem garantias. Mineiros relatam calor, vibrações e corredores que não deveriam existir. Refugiados chegam todos os dias pela [[Estrada de Vhalden]].
+Merídia solicita carregamentos maiores de combustível, materiais de construção, ferramentas e alimentos. As guildas exigem garantias. Mineiros relatam calor, vibrações e corredores que não deveriam existir. Refugiados chegam todos os dias pela [[Estrada de Vhalden]].
 
 Publicamente, Garrick afirma que a cidade permanecerá funcionando. Em particular, ordenou que cada plano de evacuação fosse revisto e que os celeiros da Coroa mantivessem reservas suficientes para um cerco.
 

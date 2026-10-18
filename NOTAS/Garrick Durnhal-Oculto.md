@@ -7,9 +7,9 @@
 
 ## As reservas escondidas
 
-Garrick vem declarando a Merídia uma produção de carvão inferior à quantidade realmente extraída. Parte da diferença abastece depósitos ocultos sob fortalezas e celeiros do reino.
+Garrick vem declarando a Merídia uma produção de carvão inferior à quantidade realmente extraída. Parte da diferença abastece depósitos ocultos sob fortalezas e celeiros do reino, ao lado de grãos, cal, ferramentas e outros recursos reservados para emergências.
 
-Ele considera a fraude necessária. Se as rotas forem interrompidas ou o [[Conselho da Agulha]] tentar confiscar a produção durante a crise, Vhalden precisará de combustível para suas próprias fornalhas, muralhas e sistemas de bombeamento. A descoberta desses depósitos seria interpretada por Merídia como quebra dos tratados e preparação para uma rebelião.
+Ele considera a fraude necessária. Se as rotas forem interrompidas ou o [[Conselho da Agulha]] tentar confiscar a produção durante a crise, Vhalden precisará aquecer sua população, manter cozinhas e banhos públicos, reparar muralhas e abastecer fornos essenciais. A descoberta desses depósitos seria interpretada por Merídia como quebra dos tratados e preparação para uma rebelião.
 
 ## O que existe nas minas
 

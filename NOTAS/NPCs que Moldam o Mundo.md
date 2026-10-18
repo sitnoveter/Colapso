@@ -18,4 +18,4 @@ Esta nota reúne os NPCs de maior influência sobre o mundo e sobre os acontecim
 
 ### [[Garrick Durnhal]]
 
-> *“O carvão de Vhalden alimenta metade do continente. Isso não torna o continente nosso senhor; torna-o nosso devedor.”*
+> *“Merídia chama de tributo aquilo que sai das mãos do meu povo. Isso não torna o continente nosso senhor; torna-o nosso devedor.”*

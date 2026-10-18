@@ -8,20 +8,20 @@
 
 ![[Vhalden.png]]
 
-## A cidade do carvão
+## A cidade das fornalhas
 
-Vhalden cresceu onde antigas rotas florestais encontravam as primeiras encostas de uma cadeia montanhosa rica em carvão. A cidade baixa concentra armazéns, fornos e oficinas; os bairros elevados abrigam residências antigas, instituições religiosas e as casas dos proprietários das minas.
+Vhalden cresceu onde antigas rotas florestais encontravam campos férteis, pedreiras e as primeiras encostas de uma cadeia montanhosa rica em carvão. A cidade baixa concentra armazéns, fornos e oficinas; os bairros elevados abrigam residências antigas, instituições religiosas e as casas de mercadores, proprietários rurais e senhores das minas.
 
-A fuligem marca telhados, roupas e fachadas, mas também mantém acesas as fornalhas que abastecem cidades muito além do reino. Ferreiros, construtores, comerciantes e transportadores dependem do carvão de Vhalden, concedendo à cidade influência muito superior ao tamanho de seu território.
+O título de **Reino das Fornalhas Baixas** não nasceu de fábricas, mas da concentração de fornos de vidro e cerâmica, casas de cal, banhos públicos, cozinhas comunitárias e pequenas fundições mantidas pelas guildas. O carvão alimenta parte dessas atividades, aquece residências durante os invernos e compõe reservas emergenciais destinadas às grandes cidades. É um recurso estratégico, não o único alicerce do reino.
 
-Fora das muralhas, extensos campos de cereais, pomares e propriedades de criação sustentam a população urbana. A combinação entre produção agrícola, mineração, pedreiras e manufatura permite que o reino sobreviva a bloqueios curtos e negocie de uma posição que poucas cidades possuem.
+Fora das muralhas, extensos campos de cereais, pomares e propriedades de criação sustentam a população urbana. Pedreiras fornecem pedra e cal para muralhas e aquedutos; vidreiros, ceramistas, ferreiros e fabricantes de ferramentas abastecem cidades menores; criadores de animais mantêm uma extensa rede de carroças e caravanas. Essa combinação entre agricultura, extração mineral e ofícios especializados permite que o reino sobreviva a bloqueios curtos e negocie de uma posição que poucas cidades possuem.
 
 ## Distritos e caminhos
 
 A cidade foi construída em diferentes níveis, acompanhando a elevação do terreno:
 
 - **A Coroa Alta** reúne o palácio, tribunais, arquivos, residências diplomáticas e os edifícios onde o governo se reúne.
-- **O Bairro das Oficinas** concentra fundições, serralherias, depósitos e manufaturas alimentadas pelo carvão das montanhas.
+- **O Bairro das Oficinas** concentra olarias, vidrarias, casas de cal, serralherias, pequenas fundições e oficinas artesanais organizadas pelas guildas.
 - **O Mercado das Rotas** recebe caravanas vindas da [[Estrada de Vhalden]] e distribui mercadorias para o interior do reino e para Merídia.
 - **O Cinturão dos Campos**, além das muralhas, abriga fazendas, moinhos e pequenas comunidades protegidas pelas patrulhas da capital.
 
@@ -29,9 +29,9 @@ A sede da [[Ordem das Sete Chaves]] ocupa um dos grandes edifícios instituciona
 
 ## Governo das Fornalhas Baixas
 
-Vhalden é governada por [[Garrick Durnhal]], o **Rei das Fornalhas Baixas**, aconselhado pelo **Conselho Real**, formado por magistrados, representantes das casas antigas, comandantes militares e autoridades responsáveis pelas minas, rotas, abastecimento e assistência pública. A Coroa promulga leis, recolhe seus próprios impostos, mantém a guarda das muralhas e negocia diretamente com outros reinos.
+Vhalden é governada por [[Garrick Durnhal]], o **Rei das Fornalhas Baixas**, aconselhado pelo **Conselho Real**, formado por magistrados, representantes das casas antigas, comandantes militares e autoridades responsáveis pelas minas, pedreiras, campos, oficinas, rotas, abastecimento e assistência pública. A Coroa promulga leis, recolhe seus próprios impostos, mantém a guarda das muralhas e negocia diretamente com outros reinos.
 
-O poder real, porém, não é absoluto. Guildas de mineiros, proprietários de fornos, caravaneiros e comunidades agrícolas controlam partes essenciais da economia e conseguem pressionar o governo quando uma decisão ameaça interromper a produção. Em períodos de crise, governar Vhalden significa manter unidos grupos que dependem uns dos outros e raramente concordam sobre quem deve pagar o preço.
+O poder real, porém, não é absoluto. Guildas de mineiros, pedreiros, vidreiros, oleiros, ferreiros e caravaneiros dividem influência com comunidades agrícolas e criadores de animais. Todos controlam partes essenciais da economia e conseguem pressionar o governo quando uma decisão ameaça interromper a produção. Em períodos de crise, governar Vhalden significa manter unidos grupos que dependem uns dos outros e raramente concordam sobre quem deve pagar o preço.
 
 [[Mirella Seravain]] ocupa no Conselho Real o cargo de **Conselheira da Coroa para Reconstrução e Amparo**. Ela coordena respostas a catástrofes, acolhimento de refugiados, enfermarias e rotas de retirada, o que lhe concede influência sobre instituições civis, recursos emergenciais e decisões tomadas após cada novo desastre.
 
@@ -51,11 +51,13 @@ Foi para essa instituição que [[Ravik Valen]] foi levado após o [[O Massacre 
 
 A Casa é apenas a instituição mais conhecida de uma rede apoiada pelo gabinete de Mirella. Abrigos menores, enfermarias, cozinhas comunitárias e postos de triagem permitem que Vhalden receba sobreviventes de outras regiões sem depender inteiramente da ajuda de Merídia.
 
-## A mina e os tremores
+## As minas e os tremores
 
-As galerias de carvão são a maior fonte de riqueza e o maior risco da região. Túneis recentes alcançaram formações que não correspondem à geologia conhecida: paredes lisas demais para serem naturais, inscrições desgastadas e corredores onde ferramentas vibram mesmo quando a terra permanece imóvel.
+As galerias de carvão são uma das riquezas estratégicas da região e seu maior risco imediato. A extração ainda depende de poços, túneis escorados por madeira, guinchos manuais ou movidos por animais e equipes que retiram a carga em carroças. O minério segue pela estrada e, onde os rios permitem, em barcaças; não existem fábricas ou ferrovias ligadas às minas.
 
-Desde o início do Colapso, pequenos tremores tornaram-se frequentes. As autoridades insistem que as minas continuam seguras, pois fechá-las significaria interromper a economia do reino.
+Túneis recentes alcançaram formações que não correspondem à geologia conhecida: paredes lisas demais para serem naturais, inscrições desgastadas e corredores onde ferramentas vibram mesmo quando a terra permanece imóvel.
+
+Desde o início do Colapso, pequenos tremores tornaram-se frequentes. As autoridades insistem que as minas continuam seguras. Fechá-las não interromperia toda a economia do reino, mas privaria Vhalden de combustível para o inverno, de uma importante moeda de negociação e das reservas que outras cidades esperam receber durante emergências.
 
 Os mineiros desconfiam dessa segurança. Desabamentos menores, bolsões de calor e ruídos profundos aumentaram desde os primeiros sinais do Colapso. A Coroa reforçou equipes de inspeção, mas qualquer redução prolongada na extração enfraqueceria Vhalden justamente quando Merídia exige mais combustível para enfrentar a crise.
 
@@ -63,7 +65,7 @@ Os mineiros desconfiam dessa segurança. Desabamentos menores, bolsões de calor
 
 ## Uma capital sob pressão
 
-Vhalden recebe refugiados, caravanas desviadas e pedidos de carvão vindos de regiões atingidas pelas catástrofes elementais. Os portões continuam abertos, mas o preço dos alimentos cresce, as filas diante das instituições de auxílio aumentam e as guildas discutem quanto tempo a cidade conseguirá sustentar o continente sem consumir a própria reserva.
+Vhalden recebe refugiados, caravanas desviadas e pedidos de carvão, cal, ferramentas, vidro, cerâmica e alimentos vindos de regiões atingidas pelas catástrofes elementais. Os portões continuam abertos, mas o preço dos alimentos cresce, as filas diante das instituições de auxílio aumentam e as guildas discutem quanto tempo a cidade conseguirá auxiliar outras regiões sem consumir as próprias reservas.
 
 Para o povo, o Colapso ainda não destruiu Vhalden. Ele apenas transformou cada decisão do governo em uma escolha sobre quem será protegido primeiro.
 
