@@ -6,6 +6,8 @@
 
 Foi o único objeto pessoal que permaneceu com ele depois da destruição da vila. Coutinho o reconhece como uma herança de família, embora não saiba quem o entregou a ele na noite do ataque nem por quantas gerações foi preservado.
 
+![[O Último Legado de Vaelthir.png]]
+
 ## Aparência
 
 O colar apresenta marcas de uso prolongado e símbolos semelhantes aos encontrados nos antigos santuários de [[Vaelthir]]. O material não parece especialmente valioso, e nenhum exame superficial revelou uma propriedade mágica evidente.
