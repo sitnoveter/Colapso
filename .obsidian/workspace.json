@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Organizações/Guardiões do Alvorecer.md",
+                "file": "NOTAS/Organizações/O Nexo Velado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guardiões do Alvorecer"
+              "title": "O Nexo Velado"
             }
           }
         ]
@@ -199,28 +199,31 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
-    "IMAGENS/Guardiões do Alvorecer.png",
+    "NOTAS/O Massacre de Vaelthir.md",
+    "NOTAS/Organizações/O Nexo Velado.md",
+    "NOTAS/Ravik Valen.md",
+    "NOTAS/Lyra Fenwick.md",
+    "NOTAS/A Emboscada dos Custódios.md",
     "NOTAS/Organizações/Ordem das Sete Chaves.md",
     "NOTAS/Organizações/Os Sem-Rosto.md",
-    "IMAGENS/Os Sem-Rosto.png",
+    "NOTAS/Organizações/Custódios do Legado.md",
     "NOTAS/Organizações/Guardiões do Alvorecer.md",
+    "NOTAS/Vhalden.md",
     "NOTAS/Casa do Alvorecer.md",
+    "IMAGENS/Guardiões do Alvorecer.png",
+    "IMAGENS/Os Sem-Rosto.png",
     "NOTAS/Mirella Seravain.md",
     "IMAGENS/Mirella Seravain.png",
     "NOTAS/Mirella Seravain-Oculto.md",
     "NOTAS/Garrick Durnhal.md",
     "IMAGENS/Casa do Alvorecer.png",
-    "NOTAS/Ravik Valen.md",
     "NOTAS/Organizações/Ordem das Sete Chaves-Oculto.md",
-    "NOTAS/Organizações/Custódios do Legado.md",
     "NOTAS/Lucien Arkwright.md",
     "IMAGENS/Lucien Arkwright.png",
     "NOTAS/NPCs que Moldam o Mundo.md",
     "O Colapso dos Reinos.md",
-    "NOTAS/A Emboscada dos Custódios.md",
-    "NOTAS/Organizações/O Nexo Velado.md",
     "IMAGENS/A Emboscada dos Custódios.png",
     "NOTAS/Orren Valc.md",
     "IMAGENS/Orren Valc.png",
@@ -229,14 +232,11 @@
     "NOTAS/Os Quatro Pilares.md",
     "NOTAS/Estrada de Vhalden.md",
     "NOTAS/Aventureiros do Colapso.md",
-    "NOTAS/Vhalden.md",
     "IMAGENS/Estrada de Vhalden.png",
     "NOTAS/Valedorn.md",
     "NOTAS/A Ruptura do Monte Kharad.md",
     "NOTAS/Leben Kurz.md",
-    "NOTAS/Aeralta.md",
     "IMAGENS/Leben Kurz.png",
-    "IMAGENS/Licht.png",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
