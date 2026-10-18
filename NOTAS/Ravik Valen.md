@@ -6,9 +6,11 @@
 
 **Ravik Valen** é um combatente e artífice em formação, sobrevivente do [[O Massacre de Vaelthir|Massacre de Vaelthir]] e integrante dos [[Custódios do Legado]]. Criado na [[Casa do Alvorecer]] depois da destruição de sua vila, ele percorre o continente procurando a organização conhecida como [[O Nexo Velado]] e qualquer pista sobre [[Lyra Fenwick]], desaparecida durante a [[A Emboscada dos Custódios|emboscada]] que destruiu sua equipe.
 
+![[Ravik Valen.png]]
+
 ## Aparência e ancestralidade
 
-Ravik é um **Giantkin das Nuvens (*Cloud Giantkin*)**, ancestralidade descrita em *Northlands*. Com **2,08 metros de altura e 118 quilos**, ele seria imponente entre muitos povos, mas é considerado baixo e magro para os padrões de sua própria raça.
+Ravik é um **Giantkin das Nuvens. Com **2,08 metros de altura e 118 quilos** ele seria imponente entre muitos povos, mas é considerado baixo e magro para os padrões de sua própria raça.
 
 Sua constituição ainda carrega a força característica dos Giantkin, embora sua silhueta mais estreita costume contrariar a imagem que estrangeiros formam antes de conhecê-lo.
 
