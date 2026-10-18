@@ -10,3 +10,4 @@ Durante a [[A Emboscada dos Custódios|Emboscada dos Custódios]], desapareceu e
 
 Encontrá-la — ou descobrir com certeza o que aconteceu — é uma das principais razões para Coutinho continuar seguindo os rastros do [[O Nexo Velado]].
 
+![[Lyra Fenwick.png]]

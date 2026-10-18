@@ -10,3 +10,4 @@ Durante a [[A Emboscada dos Custódios|Emboscada dos Custódios]], Bram morreu g
 
 Sua morte foi confirmada. As dúvidas deixadas pelo ataque dizem respeito aos responsáveis e aos seus objetivos, não ao destino de Bram.
 
+![[Bram Kord.png]]

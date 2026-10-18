@@ -10,3 +10,4 @@ A morte de [[Bram Kord]] e [[Tomas Grell]], somada ao desaparecimento de [[Lyra 
 
 Ela continua sendo um dos vínculos mais importantes de [[Coutinho]] com a antiga equipe e pode possuir lembranças do ataque que ainda não conseguiu organizar.
 
+![[Selene Arveth.png]]
