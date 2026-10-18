@@ -6,6 +6,8 @@ Os **Guardiões do Alvorecer** mantêm abrigos, rotas de retirada e redes de pro
 
 Dentro da [[Ordem das Sete Chaves]], correspondem à Chave do Sacrifício e são dirigidos por [[Mirella Seravain]].
 
+![[Guardiões do Alvorecer.png]]
+
 ## Proteção antes de investigação
 
 Os Guardiões ensinam que nenhuma verdade justifica abandonar alguém numa região destruída. Suas equipes retiram sobreviventes, organizam cuidados médicos e procuram parentes antes de iniciar interrogatórios.
