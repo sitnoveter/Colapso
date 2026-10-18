@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Mirella Seravain.md",
+                "file": "NOTAS/Vhalden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mirella Seravain"
+              "title": "Vhalden"
             }
           }
         ]
@@ -199,8 +199,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d4f5094d84c49a2c",
+  "active": "9e8b3fb428237729",
   "lastOpenFiles": [
+    "IMAGENS/Minas de Vhalden.png",
+    "O Colapso dos Reinos.md",
+    "NOTAS/Mirella Seravain.md",
     "NOTAS/Vhalden.md",
     "IMAGENS/Vhalden.png",
     "NOTAS/Casa do Alvorecer.md",
@@ -228,15 +231,12 @@
     "NOTAS/Vaelthir.md",
     "NOTAS/O Massacre de Vaelthir.md",
     "NOTAS/Aventureiros do Colapso.md",
-    "O Colapso dos Reinos.md",
     "NOTAS/Aquela que Permanece.md",
     "NOTAS/Memento Amor.md",
     "NOTAS/Guardiões do Retorno.md",
     "NOTAS/Hoffnung.md",
     "NOTAS/Ysthara.md",
     "NOTAS/Morvanna.md",
-    "NOTAS/A Ruptura do Monte Kharad-Oculto.md",
-    "NOTAS/A Ruptura do Monte Kharad.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"

@@ -57,6 +57,8 @@ Desde o início do Colapso, pequenos tremores tornaram-se frequentes. As autorid
 
 Os mineiros desconfiam dessa segurança. Desabamentos menores, bolsões de calor e ruídos profundos aumentaram desde os primeiros sinais do Colapso. A Coroa reforçou equipes de inspeção, mas qualquer redução prolongada na extração enfraqueceria Vhalden justamente quando Merídia exige mais combustível para enfrentar a crise.
 
+![[Minas de Vhalden.png]]
+
 ## Uma capital sob pressão
 
 Vhalden recebe refugiados, caravanas desviadas e pedidos de carvão vindos de regiões atingidas pelas catástrofes elementais. Os portões continuam abertos, mas o preço dos alimentos cresce, as filas diante das instituições de auxílio aumentam e as guildas discutem quanto tempo a cidade conseguirá sustentar o continente sem consumir a própria reserva.
