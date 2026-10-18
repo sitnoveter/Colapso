@@ -10,4 +10,3 @@ Seu rigor frequentemente entrava em conflito com a improvisação de Coutinho, m
 
 Tomas morreu durante a [[A Emboscada dos Custódios|Emboscada dos Custódios]]. Sua morte foi confirmada.
 
-![[Tomas Grell.png]]
