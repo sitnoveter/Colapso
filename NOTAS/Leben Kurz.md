@@ -4,6 +4,8 @@
 
 **Leben Kurz** era um [[Feathren]] de ancestralidade Coruja, contador de histórias de [[Aeralta]] e marido de [[Memento Amor]]. Era querido pela comunidade por sua capacidade de fazer os outros rirem e tornar qualquer ambiente mais acolhedor.
 
+![[Leben Kurz.png]]
+
 ## Lembre-se da Vida
 
 Leben conheceu Memento quando o jovem clérigo ainda compreendia a morte principalmente através dos ensinamentos dos [[Guardiões do Retorno]]. O relacionamento entre os dois mostrou a Memento por que os vivos resistiam à despedida: não apenas pelo medo do fim, mas pelo valor daquilo que precisariam abandonar.
