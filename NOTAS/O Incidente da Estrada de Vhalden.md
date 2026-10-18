@@ -6,6 +6,8 @@ O **Incidente da Estrada de Vhalden** foi um acidente provocado por um tremor qu
 
 Uma fissura abriu-se sob a via. Uma carroça tombou, parte da carga incendiou-se e passageiros ficaram presos entre veículos enquanto o terreno continuava cedendo.
 
+![[O Incidente da Estrada de Vhalden.png]]
+
 ## O resgate
 
 [[Ravik Valen]] ainda não possuía treinamento de combate ou experiência como artífice. Mesmo assim, permaneceu quando outros fugiram.
