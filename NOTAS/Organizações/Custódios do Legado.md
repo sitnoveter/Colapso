@@ -6,6 +6,8 @@ Os **Custódios do Legado** são estudiosos, restauradores, artífices e agentes
 
 Dentro da [[Ordem das Sete Chaves]], correspondem à Chave da Preservação.
 
+![[Custódios do Legado.png]]
+
 ## Funções
 
 Os Custódios procuram relíquias perdidas, oficinas antigas, máquinas desconhecidas e objetos mágicos. Depois de recuperá-los, avaliam se devem ser restaurados, armazenados, desativados ou mantidos sob observação.
