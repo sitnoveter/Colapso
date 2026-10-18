@@ -4,6 +4,8 @@
 
 O **Massacre de Vaelthir** foi o ataque que destruiu a pequena comunidade de [[Vaelthir]] e deixou [[Coutinho]] como a única criança encontrada viva entre as ruínas.
 
+![[Vaelthir durante o Massacre v3.png]]
+
 ## A noite do ataque
 
 Os invasores chegaram sem aviso suficiente para qualquer preparação. Entraram em casas, vasculharam santuários e interrogaram moradores sobre histórias, objetos e símbolos preservados por suas famílias.
