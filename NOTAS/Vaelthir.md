@@ -6,8 +6,6 @@
 
 A vila não possuía grande riqueza, exército ou importância política. Seu verdadeiro patrimônio eram as lembranças preservadas por seus moradores.
 
-![[Vaelthir durante o Massacre.png]]
-
 ## Uma comunidade de memória
 
 Histórias eram repetidas sem que suas palavras fossem alteradas. Objetos passavam de pais para filhos acompanhados dos nomes de antigos proprietários. Cerimônias continuavam sendo realizadas mesmo quando ninguém mais sabia explicar como haviam começado.
