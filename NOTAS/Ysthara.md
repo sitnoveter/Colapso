@@ -5,7 +5,7 @@
 - **Alinhamento:** Boa
 - **Domínios:** Passagem, despedida, misericórdia, ritos funerários e orientação das almas
 - **Símbolo:** Uma porta aberta sob uma estrela prateada
-- **Conexões:** Uma das [[As Três Irmãs da Morte|Três Irmãs da Morte]], irmã de [[Morvanna]] e [[Zhalyra]]. Coopera com Morvanna e protege os mortos contra a Devoradora do Último Sopro.
+- **Conexões:** Uma das [[As Três Irmãs da Morte|Três Irmãs da Morte]], irmã de [[Morvanna]] e [[Zhalyra]]. Coopera com Morvanna, protege os mortos contra a Devoradora do Último Sopro e complementa [[Aquela que Permanece]] nos ritos que separam a partida da alma da preservação de sua memória.
 - **Devotos:** Sacerdotes funerários, coveiros, embalsamadores, barqueiros, marinheiros, cuidadores, viúvas, pessoas enlutadas e todos aqueles que ajudam alguém a atravessar uma grande mudança.
 
 ![[YstharaComBorda.png]]
@@ -69,6 +69,10 @@ A Tempestade de Velmora abalou a confiança local. Cento e doze pessoas morreram
 [[Zhalyra]] deseja capturar o último instante antes que o encerramento seja reconhecido e a passagem possa ser aberta. Seus cultistas profanam funerais, desviam almas e exploram lugares onde mortes demais ocorreram ao mesmo tempo.
 
 Ysthara não odeia a irmã, mas jamais permite que misericórdia se transforme em tolerância diante da crueldade. Toda alma retirada das garras de Zhalyra é uma porta reaberta.
+
+[[Aquela que Permanece]] não governa a morte nem pertence às Três Irmãs. Ainda assim, seus cultos trabalham juntos com frequência. Ysthara liberta a alma para que ela siga adiante; Aquela que Permanece ajuda os vivos a conservar nomes, histórias e legados sem transformar a lembrança em prisão.
+
+Essa cooperação possui uma tensão necessária. Condutores da Passagem vigiam para que a preservação não seja usada como justificativa para reter espíritos. Os Portadores do Fio recordam que permitir a partida de uma alma não deve apagar a vida que ela viveu.
 
 ## A controvérsia de Isvra
 
