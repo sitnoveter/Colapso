@@ -4,6 +4,8 @@
 
 A **Emboscada dos Custódios** destruiu a equipe de campo formada por [[Ravik Valen]], [[Bram Kord]], [[Tomas Grell]], [[Lyra Fenwick]] e [[Selene Arveth]].
 
+![[A Emboscada dos Custódios.png]]
+
 ## O ataque
 
 Durante uma missão dos [[Custódios do Legado]], a equipe foi cercada por atacantes que conheciam sua rota, seus procedimentos e parte de suas capacidades.
