@@ -8,6 +8,8 @@ Os **Sem-Rosto** são informantes, infiltradores, observadores e recuperadores c
 
 Sua função não é simplesmente guardar segredos. Eles descobrem quem os procura, por quais caminhos uma informação está circulando e o que precisa desaparecer antes que uma ameaça consiga utilizá-la.
 
+![[Os Sem-Rosto.png]]
+
 ## O trabalho do Silêncio
 
 Os Sem-Rosto vigiam pessoas e lugares, infiltram instituições, recuperam documentos roubados, identificam redes de espionagem e apagam os rastros deixados por operações da Ordem.

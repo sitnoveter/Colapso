@@ -6,6 +6,8 @@
 
 A **Casa do Alvorecer** é um orfanato e abrigo situado em [[Vhalden]]. A instituição recebe crianças, sobreviventes de massacres, vítimas de catástrofes e pessoas deslocadas que não possuem para onde retornar.
 
+![[Casa do Alvorecer.png]]
+
 ## Um novo começo
 
 O conjunto ocupa antigas construções de pedra reformadas próximo ao bairro das oficinas. Possui dormitórios, cozinha comunitária, enfermaria, salas de ensino e pequenos espaços onde residentes podem aprender ofícios.

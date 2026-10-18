@@ -8,6 +8,8 @@
 
 Sua obra mais conhecida em [[Vhalden]] é a [[Casa do Alvorecer]], onde órfãos e sobreviventes recebem abrigo, instrução e ajuda para reconstruir a própria vida.
 
+![[Mirella Seravain.png]]
+
 ## A conselheira da Coroa
 
 O cargo de Mirella concede acesso direto ao rei [[Garrick Durnhal]], assento no Conselho Real e autoridade para requisitar transportes, abrir depósitos emergenciais e coordenar magistrados, curandeiros e guardas durante calamidades. Sua influência não nasce apenas da proximidade com a Coroa: guildas, templos, caravaneiros e instituições de auxílio reconhecem que sua rede continua funcionando quando estruturas oficiais entram em colapso.

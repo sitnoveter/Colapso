@@ -10,6 +10,8 @@ Sociável e generoso em público, Lucien possui talento para descobrir o que as 
 
 Ele afirma que informação não possui moral, apenas preço e momento adequado. Pessoas que negociaram com Lucien raramente concordam sobre quanto realmente revelaram durante a conversa.
 
+![[Lucien Arkwright.png]]
+
 ## O comerciante de portas abertas
 
 Lucien negocia antiguidades, cartas de crédito, direitos de transporte e mercadorias difíceis de encontrar. Seus estabelecimentos são conhecidos por receber nobres endividados, capitães sem porto, estudiosos procurando patrocinadores e viajantes que precisam chegar a algum lugar sem constar nos registros comuns.
