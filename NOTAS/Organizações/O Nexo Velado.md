@@ -6,6 +6,8 @@ O **Nexo Velado** é o nome atribuído a uma organização clandestina interessa
 
 Sua origem, liderança e extensão permanecem desconhecidas. Agentes trabalham através de intermediários, identidades falsas e operações planejadas para parecer saques, acidentes ou disputas locais.
 
+![[O Nexo Velado.png]]
+
 ## Métodos
 
 O Nexo investiga ruínas, infiltra instituições e procura pessoas ligadas a tradições antigas. Quando possível, compra objetos e informações. Quando considera algo indispensável, recorre a chantagem, sequestro e violência.
