@@ -4,6 +4,8 @@
 
 O **Círculo das Raízes Profundas** é uma ordem druídica dedicada a fenômenos que atravessam fronteiras, eras e ecossistemas. Seus membros estudam mudanças lentas demais para uma única geração e ameaças amplas demais para pertencer a uma única floresta.
 
+![[Círculo das Raízes Profundas.png]]
+
 ## Missão
 
 O Círculo preserva sementes de regiões extintas, mapas de rios antigos, registros de migrações, ciclos vulcânicos e memórias transmitidas por árvores centenárias. Seus druidas costumam agir como mediadores entre comunidades que dependem dos mesmos recursos naturais.
