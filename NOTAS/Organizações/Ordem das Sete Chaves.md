@@ -44,5 +44,6 @@ Muitos integrantes servem por convicção genuína. Outros utilizam o segredo co
 - [[Os Sem-Rosto]]
 - [[Ravik Valen]]
 - [[O Nexo Velado]]
-- [[Ordem das Sete Chaves-Oculto|Verdades ocultas]]
+
+## [[Ordem das Sete Chaves-Oculto|Verdades ocultas]]
 
