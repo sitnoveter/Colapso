@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Organizações/Ordem das Sete Chaves-Oculto.md",
+                "file": "NOTAS/Círculo das Raízes Profundas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ordem das Sete Chaves-Oculto"
+              "title": "Círculo das Raízes Profundas"
             }
           }
         ]
@@ -199,10 +199,15 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
-    "NOTAS/Organizações/Ordem das Sete Chaves.md",
+    "NOTAS/Eldorin.md",
+    "NOTAS/Círculo das Raízes Profundas.md",
+    "NOTAS/Conselho da Agulha.md",
+    "NOTAS/NPCs que Moldam o Mundo.md",
+    "O Colapso dos Reinos.md",
     "NOTAS/Organizações/Ordem das Sete Chaves-Oculto.md",
+    "NOTAS/Organizações/Ordem das Sete Chaves.md",
     "NOTAS/Lucien Arkwright.md",
     "NOTAS/Darius Vhal.md",
     "IMAGENS/Darius Vhal.png",
@@ -213,7 +218,6 @@
     "NOTAS/Aldren Vael.md",
     "IMAGENS/Aldren Vael.png",
     "NOTAS/Organizações.md",
-    "O Colapso dos Reinos.md",
     "NOTAS/Organizações/O Nexo Velado.md",
     "NOTAS/O Massacre de Vaelthir.md",
     "NOTAS/Ravik Valen.md",
@@ -232,11 +236,7 @@
     "NOTAS/Garrick Durnhal.md",
     "IMAGENS/Casa do Alvorecer.png",
     "IMAGENS/Lucien Arkwright.png",
-    "NOTAS/NPCs que Moldam o Mundo.md",
     "IMAGENS/A Emboscada dos Custódios.png",
-    "NOTAS/Orren Valc.md",
-    "NOTAS/O Incidente da Estrada de Vhalden.md",
-    "NOTAS/Os Quatro Pilares.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
