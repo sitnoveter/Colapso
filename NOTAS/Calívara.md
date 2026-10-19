@@ -8,6 +8,8 @@
 - **Conexões:** Antítese de [[Amarantha]]. Explora as mortes produzidas por seus reveses, mas rivaliza com [[Zhalyra]] sempre que a Devoradora encerra cedo demais um sofrimento que Calívara pretendia prolongar.
 - **Devotos:** Sabotadores, trapaceiros, vendedores de maldições, vingadores, agiotas, jogadores cruéis, conspiradores e pessoas que preferem destruir a possibilidade de um rival a conquistar algo por mérito próprio.
 
+![[Calívara.png]]
+
 ## Origem e natureza
 
 **Calívara**, a Mão Vazia, governa o azar deliberadamente cultivado. Ela não é responsável por toda derrota, acidente ou coincidência infeliz. Sua presença começa quando alguém deseja que o pior resultado possível recaia sobre outra pessoa e decide ajudar o acaso a encontrá-lo.

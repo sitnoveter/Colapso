@@ -8,6 +8,8 @@
 - **Conexões:** Antítese de [[Calívara]], a Mão Vazia. Respeita [[Morvanna]] como a certeza que encerra todas as possibilidades, mas rejeita qualquer tentativa de transformar o caminho até esse instante em destino imutável.
 - **Devotos:** Marinheiros, jogadores, mercenários, viajantes, comerciantes itinerantes, órfãos, fugitivos, exploradores, aventureiros e todos aqueles que vivem de decisões tomadas sem garantias.
 
+![[Amarantha.png]]
+
 ## Origem e natureza
 
 **Amarantha**, a Dama do Acaso, governa o instante em que mais de um futuro ainda é possível. Ela não distribui vitórias, não protege seus devotos de toda consequência e jamais promete que uma escolha ousada terminará bem. Sua bênção é a existência de uma oportunidade verdadeira.
