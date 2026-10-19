@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Organizações/O Nexo Velado.md",
+                "file": "O Colapso dos Reinos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O Nexo Velado"
+              "title": "O Colapso dos Reinos"
             }
           }
         ]
@@ -201,8 +201,8 @@
   },
   "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
-    "NOTAS/O Massacre de Vaelthir.md",
     "NOTAS/Organizações/O Nexo Velado.md",
+    "NOTAS/O Massacre de Vaelthir.md",
     "NOTAS/Ravik Valen.md",
     "NOTAS/Lyra Fenwick.md",
     "NOTAS/A Emboscada dos Custódios.md",
