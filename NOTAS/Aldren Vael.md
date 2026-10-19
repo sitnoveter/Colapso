@@ -8,3 +8,4 @@ Ele acredita que compreender o passado exige paciência suficiente para escutar 
 
 Sua atenção aos detalhes faz com que raramente esqueça um rosto, uma assinatura ou uma contradição.
 
+![[Aldren Vael.png]]

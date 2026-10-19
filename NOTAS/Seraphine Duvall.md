@@ -8,3 +8,4 @@ Sua reputação de incorruptibilidade inspira confiança e temor. Seraphine trat
 
 Seus críticos afirmam que sua dedicação à verdade pode tornar-se inflexibilidade diante de pessoas obrigadas a mentir para sobreviver.
 
+![[Seraphine Duvall.png]]

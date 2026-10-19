@@ -8,3 +8,4 @@ Ele mantém relações com governos, comerciantes, estudiosos e representantes d
 
 A facilidade com que adapta discurso e postura torna difícil saber quando Cassian está sendo sincero e quando já conduz uma negociação que ninguém percebeu ter começado.
 
+![[Cassian Merrow.png]]

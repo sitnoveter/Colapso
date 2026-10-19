@@ -8,3 +8,4 @@ Para Darius, lealdade não significa obediência cega, mas a certeza de que ning
 
 Sua rigidez produz forças organizadas e confiáveis. Também dificulta qualquer retirada, mudança de plano ou questionamento quando ele acredita que uma posição precisa ser mantida.
 
+![[Darius Vhal.png]]
