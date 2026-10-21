@@ -9,3 +9,5 @@ O abrigo nunca foi rico ou particularmente confortável. Dormitórios cheios, fu
 [[Seline Feno Negro]] foi deixada ali ainda pequena. Nenhum objeto valioso, nome de família ou mensagem capaz de identificar seus parentes acompanhava a criança.
 
 Ela fugiu antes de atingir a adolescência e passou a sobreviver nas ruas até encontrar a [[Roda Torta]]. Sua origem não esconde uma linhagem nobre ou destino profetizado: Seline construiu cada família que reconheceu como sua.
+
+![[Casa das Quatro Estradas.png]]
