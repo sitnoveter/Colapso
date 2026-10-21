@@ -9,3 +9,5 @@ Oderic conhece liturgias, superstições marítimas e maneiras de perceber quand
 Blackjack o descrevia como um homem corrompido pela alegria. Outros tripulantes acreditavam que a irreverência escondia culpa suficiente para afundar uma embarcação.
 
 Seu comportamento durante [[A Queda do Salto da Fé]] pareceu colaboração com os atacantes. Oderic desapareceu depois da emboscada e nenhuma das pessoas que o procuram sabe se está fugindo, preso ou morto.
+
+![[Irmão Oderic Sal.png]]
