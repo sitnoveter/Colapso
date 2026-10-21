@@ -6,6 +6,8 @@
 
 As **Lâminas da Vanguarda** são a Chave do Limiar da [[Ordem das Sete Chaves]]. Seus agentes entram primeiro em territórios não pacificados, reconhecem ameaças, estabelecem rotas de retirada e abrem caminho para a atuação das demais Chaves.
 
+![[Lâminas da Vanguarda.png]]
+
 ## Atravessar primeiro
 
 As Lâminas atuam depois de catástrofes, em ruínas ocupadas, zonas de guerra, fortalezas abandonadas e regiões onde mapas deixaram de representar o terreno.

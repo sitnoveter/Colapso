@@ -9,3 +9,5 @@ Maera fala pouco durante operações e exige que todo integrante saiba quem deve
 Sua equipe investigava tremores nos canais inferiores de [[Merídia]] quando encontrou [[Seline Feno Negro]] emergindo do Arco Baixo depois da fuga do [[Cárcere Sem Aurora]].
 
 Maera não conhecia Blackjack. Recrutou Seline porque viu uma sobrevivente exausta voltar para ajudar outro prisioneiro arrastado pela correnteza antes mesmo de aceitar socorro para si.
+
+![[Maera Cendral.png]]
