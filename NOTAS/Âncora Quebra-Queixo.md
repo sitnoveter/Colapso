@@ -9,3 +9,5 @@ Comandava uma companhia mercenária marítima dedicada a escoltas, expedições 
 Âncora morreu durante a caça a um monstro marinho. Sua morte não foi assassinato nem parte da conspiração posterior contra Blackjack.
 
 Depois de seu funeral no mar, [[Seline Feno Negro]] e [[Ruy Ferrão]] disputaram o comando do navio. A vitória de Seline iniciou os anos em que ela seria conhecida apenas como Blackjack.
+
+![[Âncora Quebra-Queixo.png]]

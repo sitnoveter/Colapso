@@ -8,6 +8,8 @@ Durante uma viagem, um motim começou dentro do [[Salto da Fé]] no mesmo moment
 
 [[Seline Feno Negro|Blackjack]] lutou até cair e foi considerada morta. Quando despertou, estava no [[Cárcere Sem Aurora]], sem saber quem havia traído a tripulação ou qual inimigo organizara a operação.
 
+![[A Queda do Salto da Fé.png]]
+
 ## Suspeitos
 
 [[Ruy Ferrão]] possuía motivos para desejar o comando. [[Irmão Oderic Sal]] agiu de maneira incompreensível durante os últimos instantes da batalha. [[Ilan Vasso]] havia entrado para a tripulação apenas três semanas antes.

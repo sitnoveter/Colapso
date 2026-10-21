@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Salto da Fé.md",
+                "file": "NOTAS/Ruy Ferrão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salto da Fé"
+              "title": "Ruy Ferrão"
             }
           }
         ]
@@ -199,10 +199,15 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d4f5094d84c49a2c",
+  "active": "9e8b3fb428237729",
   "lastOpenFiles": [
-    "NOTAS/A Queda do Salto da Fé.md",
+    "IMAGENS/Ruy Ferrão.png",
     "NOTAS/Salto da Fé.md",
+    "IMAGENS/Salto da Fé.png",
+    "NOTAS/A Queda do Salto da Fé.md",
+    "IMAGENS/A Queda do Salto da Fé.png",
+    "NOTAS/Âncora Quebra-Queixo.md",
+    "IMAGENS/Âncora Quebra-Queixo.png",
     "NOTAS/Seline Feno Negro.md",
     "NOTAS/Roda Torta.md",
     "IMAGENS/Roda Torta v2.png",
@@ -218,13 +223,10 @@
     "IMAGENS/Velha Mindy.png",
     "NOTAS/Casa das Quatro Estradas.md",
     "IMAGENS/Casa das Quatro Estradas.png",
-    "IMAGENS/Seline Feno Negro.png",
     "NOTAS/Aventureiros do Colapso.md",
     "O Colapso dos Reinos.md",
     "NOTAS/Calívara.md",
-    "IMAGENS/Calívara.png",
     "NOTAS/Amarantha.md",
-    "IMAGENS/Amarantha.png",
     "NOTAS/Círculo das Raízes Profundas.md",
     "NOTAS/Eldorin.md",
     "NOTAS/Conselho da Agulha.md",
@@ -235,8 +237,6 @@
     "NOTAS/Darius Vhal.md",
     "NOTAS/Cassian Merrow.md",
     "NOTAS/Seraphine Duvall.md",
-    "NOTAS/Aldren Vael.md",
-    "NOTAS/Organizações.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"

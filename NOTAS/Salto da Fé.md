@@ -6,6 +6,8 @@ O **Salto da Fé** é uma embarcação mercenária construída para expedições
 
 Seu casco reforçado sustenta armas de pólvora, equipamentos de caça e compartimentos capazes de transportar carga, passageiros ou criaturas abatidas. Apesar da reputação de sua tripulação, o Salto nunca foi formalmente um navio pirata. A legalidade de seus contratos, entretanto, dependia frequentemente do porto em que eram apresentados.
 
+![[Salto da Fé.png]]
+
 ## Comando
 
 O capitão [[Âncora Quebra-Queixo]] comandou o navio até morrer durante a caça a um monstro marinho. Depois de derrotar [[Ruy Ferrão]] em duelo, [[Seline Feno Negro|Blackjack]] assumiu o comando.

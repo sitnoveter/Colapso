@@ -9,3 +9,5 @@
 Durante [[A Queda do Salto da Fé]], dividiu as defesas para preservar o leme e as armas de pólvora. A decisão permitiu que os atacantes isolassem Blackjack e tornou Ruy o suspeito mais evidente entre os sobreviventes.
 
 Depois da morte presumida da capitã, reuniu a tripulação e manteve o navio em atividade. Conservou o nome Salto da Fé e ainda não sabe que Seline sobreviveu.
+
+![[Ruy Ferrão.png]]
