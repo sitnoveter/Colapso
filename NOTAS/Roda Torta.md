@@ -6,6 +6,8 @@ A **Roda Torta** é uma companhia itinerante de mercadores e mercenários. Suas 
 
 O nome surgiu de uma antiga carroça que atravessou três reinos com uma roda empenada. A companhia preservou a peça acima da entrada de sua maior carroça como lembrança de que continuar avançando importa mais do que parecer em perfeito estado.
 
+![[Roda Torta v2.png]]
+
 ## Comando
 
 [[Velha Mindy]] administra contratos, rotas e conflitos internos. [[Chião Fumaceiro]] coordena mercadorias, animais e segurança, quase sempre com um charuto aceso entre os dentes.
