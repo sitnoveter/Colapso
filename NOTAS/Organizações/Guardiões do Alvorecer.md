@@ -20,3 +20,5 @@ Orfanatos, enfermarias e cozinhas comunitárias financiados por doadores funcion
 
 A [[Casa do Alvorecer]], em [[Vhalden]], é uma dessas instituições. Seus agentes encontraram [[Ravik Valen]] após o [[O Massacre de Vaelthir|Massacre de Vaelthir]].
 
+[[Suzzie Invernalha]] ingressou na organização depois de trabalhar na Casa. Sua experiência com companhias itinerantes e embarcações permite que acompanhe retiradas por estradas, rios e portos sem depender de rotas oficiais.
+

@@ -24,6 +24,12 @@ Grande parte do financiamento vem de [[Mirella Seravain]], benfeitora conhecida 
 
 Anos depois, sua disposição para proteger civis durante [[O Incidente da Estrada de Vhalden]] chamou a atenção de [[Orren Valc]].
 
+## Suzzie Invernalha
+
+[[Suzzie Invernalha]] chegou à Casa depois de abandonar a vida a bordo do [[Salto da Fé]]. Trabalhou inicialmente em tarefas de acolhimento e transporte, utilizando a experiência adquirida com a [[Roda Torta]] para organizar chegadas, provisões e deslocamentos.
+
+Sua capacidade de reconhecer pessoas que não possuíam família ou destino chamou a atenção dos [[Guardiões do Alvorecer]]. Suzzie deixou de atuar apenas dentro da instituição e passou a acompanhar operações de retirada.
+
 ## Ligações discretas
 
 Funcionários e doadores da Casa mantêm contatos com magistrados, caravanas, curandeiros e organizações capazes de retirar pessoas de regiões perigosas. Alguns residentes percebem que determinados desaparecidos recebem documentos, escoltas ou destinos novos com rapidez incomum.

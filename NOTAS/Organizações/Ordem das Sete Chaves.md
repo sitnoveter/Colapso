@@ -41,6 +41,7 @@ Muitos integrantes servem por convicção genuína. Outros utilizam o segredo co
 - [[Casa do Alvorecer]]
 - [[Guardiões do Alvorecer]]
 - [[Custódios do Legado]]
+- [[Lâminas da Vanguarda]]
 - [[Os Sem-Rosto]]
 - [[Ravik Valen]]
 - [[O Nexo Velado]]

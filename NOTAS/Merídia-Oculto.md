@@ -19,3 +19,11 @@ As escavações atuais reuniram peças suficientes para reativar alguns condutos
 - Algumas portas inferiores podem abrir-se apenas diante das bênçãos dos quatro guardiões.
 
 Merídia não é apenas o lugar onde a campanha começa. É o ponto ao qual todas as decisões sobre os Pilares precisarão retornar.
+
+## O Cárcere Sem Aurora
+
+O [[Cárcere Sem Aurora]] ocupa cisternas e corredores abandonados entre os condutos inferiores da Torre e os canais da Barragem do Arco Baixo.
+
+O cárcere não foi criado pelo Conselho como instituição oficial, mas diferentes autoridades utilizaram suas celas para fazer desaparecer pessoas sem julgamento. Investigações foram interrompidas sempre que se aproximaram dos intermediários responsáveis.
+
+O som descrito pelos prisioneiros é produzido pelo Nó do Meridiano. O pulso tornou-se forte o suficiente para provocar o tremor que abriu parte da prisão e permitiu a fuga de [[Seline Feno Negro]].

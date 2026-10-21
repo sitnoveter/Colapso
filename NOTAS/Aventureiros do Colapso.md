@@ -11,3 +11,5 @@ Atendendo à convocação do druida [[Eldorin]], aventureiros de diferentes orig
 - [[Memento Amor]] — Feathren, clérigo da Sepultura e último Guardião do Retorno, que investiga por que as mortes de Aeralta aconteceram fora dos sinais de sua deusa.
 
 - [[Ravik Valen|Ravik Valen, o Último Legado de Vaelthir]] — Combatente e artífice em formação dos Custódios do Legado, que procura uma companheira desaparecida e os responsáveis pelas duas tragédias que destruíram suas famílias.
+
+- [[Seline Feno Negro|Seline Feno Negro, a Blackjack]] — Pistoleira e antiga capitã do Salto da Fé, que sobreviveu a uma conspiração, escapou de um cárcere subterrâneo e agora atravessa territórios não pacificados pela Chave do Limiar.

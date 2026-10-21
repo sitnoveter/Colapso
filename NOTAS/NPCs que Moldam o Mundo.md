@@ -23,3 +23,11 @@ Esta nota reúne os NPCs de maior influência sobre o mundo e sobre os acontecim
 ### [[Lucien Arkwright]]
 
 > *“Todos guardam segredos. A diferença é que alguns ainda não descobriram para quem os estão guardando.”*
+
+### [[Darius Vhal]]
+
+> *“Quem atravessa o limiar sob meu comando volta conosco, ou não será o único a ficar para trás.”*
+
+### [[Rei do Sal]]
+
+> *“Fronteiras são linhas desenhadas por quem cobra impostos. Minhas rotas começam onde essas linhas terminam.”*

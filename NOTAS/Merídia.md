@@ -27,6 +27,7 @@ O Conselho administra os níveis inferiores conhecidos, enquanto observatórios,
 - **Praça das Quatro Estradas:** Grande área de chegada de caravanas, convocados, mercadores e refugiados. É o lugar escolhido para os primeiros encontros relacionados ao chamado de Eldorin.
 - **Anel dos Ofícios:** Oficinas, hospedarias, armazéns e mercados organizados por guildas que raramente concordam entre si.
 - **Baixa Agulha:** Bairros comprimidos sob pontes e aquedutos, atualmente ocupados por grande parte dos recém-chegados.
+- **Casa das Quatro Estradas:** Antigo orfanato da Baixa Agulha, conhecido por receber crianças abandonadas nas rotas de chegada à capital.
 - **Jardins Suspensos:** Terraços antigos irrigados por canais internos da torre. O Círculo das Raízes Profundas mantém um pequeno santuário nesse setor.
 - **Terraço do Conselho:** Sede do governo, dos tribunais e das delegações estrangeiras.
 - **Escadarias Altas:** Região de templos, academias, observatórios e residências das famílias mais influentes.
@@ -56,4 +57,5 @@ A convocação começa em Merídia porque a cidade reúne arquivos, sobrevivente
 - [[Círculo das Raízes Profundas]]
 - [[Eldorin]]
 - [[Trupe da Vela Verde]]
+- [[Casa das Quatro Estradas]]
 - [[Merídia-Oculto|Verdades ocultas]]

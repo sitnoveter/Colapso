@@ -17,9 +17,17 @@ Membros comuns não sabem necessariamente que existem sete divisões. Os nomes, 
 - [[Seraphine Duvall]], da Verdade.
 - [[Cassian Merrow]], da Prudência.
 - [[Mirella Seravain]], do Sacrifício.
-- [[Darius Vhal]], da Lealdade.
+- [[Darius Vhal]], do Limiar, dirigente das [[Lâminas da Vanguarda]].
 - [[Lucien Arkwright]], do Silêncio, dirigente dos [[Os Sem-Rosto|Sem-Rosto]].
 - [[Edrik Thorne]], da Preservação.
+
+## A Chave do Limiar
+
+As [[Lâminas da Vanguarda]] constituem a Chave do Limiar. A divisão entra primeiro em territórios não pacificados, estabelece rotas e determina quais outras Chaves possuem condições de operar em segurança.
+
+O princípio do Limiar substitui qualquer divisão abstrata dedicada à lealdade. Para [[Darius Vhal]], a lealdade continua sendo uma obrigação interna entre agentes, mas não justifica uma Chave separada: ela é aquilo que permite atravessar o desconhecido sem abandonar quem entrou junto.
+
+[[Seline Feno Negro]] ingressou nessa divisão depois de escapar do [[Cárcere Sem Aurora]]. Darius reconheceu sua antiga identidade como Blackjack e manteve a descoberta restrita.
 
 ## Mirella e Ravik Valen
 
