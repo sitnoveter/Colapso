@@ -6,6 +6,8 @@ A **Vigília do Farol** é um culto formado originalmente por sobreviventes de n
 
 O símbolo da Vigília é uma lanterna negra coberta por sal. Seus membros mantêm faróis, recolhem corpos e oferecem abrigo a náufragos, mas exigem que os sobreviventes abandonem aquilo que consideram vícios responsáveis por afastá-los do caminho correto.
 
+![[Vigília do Farol.png]]
+
 ## Doutrina
 
 Para a Vigília, atribuir uma sobrevivência ao acaso é recusar o propósito que justificou a salvação. Jogos de azar, celebrações excessivas e devoção a [[Amarantha]] são tratados como insultos aos mortos que não retornaram.

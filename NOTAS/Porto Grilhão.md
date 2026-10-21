@@ -6,6 +6,8 @@
 
 A cidade exporta sal, peixe conservado e minerais retirados das marés baixas. Grande parte dessa riqueza foi construída por trabalhadores presos a dívidas, condenações e contratos que jamais terminavam.
 
+![[Porto Grilhão.png]]
+
 ## As salinas
 
 Autoridades afirmavam que o trabalho nas salinas permitia a criminosos pagar aquilo que deviam à cidade. Na prática, alimentação, ferramentas e alojamento produziam novas cobranças mais rapidamente do que qualquer trabalhador conseguia quitá-las.

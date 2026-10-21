@@ -6,6 +6,8 @@
 
 O homem conhecido como **Rei do Sal** controla a maior rede de contrabando da ilha-continente. Seu nome verdadeiro, origem e aparência são motivo de versões contraditórias; o título pertence tanto à pessoa quanto à estrutura que continua funcionando em seu nome.
 
+![[Rei do Sal.png]]
+
 ## Uma rede continental
 
 O Rei utiliza portos, rios, estradas, caravanas e depósitos para transportar mercadorias sem tarifas ou inspeções. Sal, pólvora, remédios, relíquias, armas e pessoas perseguidas podem atravessar o continente pela mesma rede.
