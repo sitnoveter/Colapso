@@ -32,3 +32,5 @@ Não te prendemos aqui.
 Teu nome foi dito.  
 A porta está aberta.  
 Vai em paz.
+
+![[Cântico da Passagem.png]]
