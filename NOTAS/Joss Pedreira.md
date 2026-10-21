@@ -9,3 +9,5 @@ Ele ensina que vencer uma luta e concluir uma missão são coisas diferentes. Um
 Joss ensinou [[Seline Feno Negro]] a lutar. A ousadia da jovem tornou-a uma aluna difícil e talentosa: aprendia movimentos rapidamente, mas precisava descobrir por experiência própria por que algumas oportunidades eram armadilhas.
 
 A notícia da morte de Blackjack deixou Joss convencido de que falhara ao ensinar prudência. Ele ainda acompanha a Roda e mantém as armas de treino que Seline utilizava quando criança.
+
+![[Joss Pedreira.png]]

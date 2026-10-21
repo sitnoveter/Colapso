@@ -9,3 +9,5 @@ Chião reclama antes de concordar, durante a execução e depois que tudo dá ce
 Quando Mindy permitiu que [[Seline Feno Negro]] permanecesse com a companhia, Chião declarou durante semanas que crianças não faziam parte da carga. Foi também quem construiu para ela o primeiro compartimento onde poderia guardar pertences sem que ninguém os tratasse como propriedade coletiva.
 
 Ele acredita que Blackjack morreu e evita falar sobre o assunto. O charuto que acendeu ao receber a notícia continua guardado, inacabado, numa caixa sob o banco de sua carroça.
+
+![[Chião Fumaceiro.png]]

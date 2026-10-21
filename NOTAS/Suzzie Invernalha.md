@@ -9,3 +9,5 @@ Suzzie cresceu ao lado de Seline e embarcou com ela no [[Salto da Fé]]. Possuí
 Antes da [[A Queda do Salto da Fé|queda do navio]], Suzzie deixou a tripulação. Viajou para [[Vhalden]] e começou a trabalhar na [[Casa do Alvorecer]], onde sua experiência com deslocados e pessoas encontradas sem família chamou a atenção dos [[Guardiões do Alvorecer]].
 
 Hoje atua na retirada e proteção de sobreviventes. Seline sabe apenas que a irmã foi trabalhar na Casa; Suzzie acredita que Blackjack morreu e ainda não sabe que a antiga capitã sobreviveu.
+
+![[Suzzie Invernalha.png]]
