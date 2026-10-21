@@ -4,7 +4,7 @@
 
 **Âncora Quebra-Queixo** foi o capitão do [[Salto da Fé]] antes de Blackjack. Seu verdadeiro nome raramente era utilizado. O apelido vinha da grande âncora tatuada no braço e de uma briga cuja versão mudava sempre que ele a contava.
 
-Comandava uma companhia mercenária marítima dedicada a escoltas, expedições e caçadas contra criaturas que ameaçavam rotas comerciais. Aceitava trabalhos perigosos, mas recusava contratos cujo pagamento dependesse de abandonar tripulantes.
+Comandava uma companhia mercenária marítima dedicada a escoltas, expedições e caçadas contra criaturas que ameaçavam rotas comerciais. Aceitava trabalhos perigosos, que outros não aceitariam.
 
 Âncora morreu durante a caça a um monstro marinho. Sua morte não foi assassinato nem parte da conspiração posterior contra Blackjack.
 
