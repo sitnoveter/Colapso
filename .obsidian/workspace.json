@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Organizações/Vigília do Farol-Oculto.md",
+                "file": "NOTAS/Cárcere Sem Aurora.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vigília do Farol-Oculto"
+              "title": "Cárcere Sem Aurora"
+            }
+          },
+          {
+            "id": "ae6ce73324013f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTAS/Nicanor Dois-Dedos Valk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nicanor Dois-Dedos Valk"
             }
           }
         ]
@@ -199,8 +213,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d4f5094d84c49a2c",
+  "active": "9e8b3fb428237729",
   "lastOpenFiles": [
+    "IMAGENS/Cárcere Sem Aurora.png",
+    "NOTAS/Nicanor Dois-Dedos Valk.md",
+    "IMAGENS/Nicanor Dois-Dedos Valk.png",
+    "NOTAS/A Queda do Salto da Fé-Oculto.md",
+    "O Colapso dos Reinos.md",
+    "NOTAS/Cárcere Sem Aurora.md",
+    "NOTAS/Seline Feno Negro.md",
+    "NOTAS/Aventureiros do Colapso.md",
+    "NOTAS/Organizações/Vigília do Farol-Oculto.md",
     "NOTAS/Organizações/Vigília do Farol.md",
     "IMAGENS/Vigília do Farol.png",
     "NOTAS/Porto Grilhão.md",
@@ -208,12 +231,9 @@
     "IMAGENS/Rei do Sal.png",
     "IMAGENS/Porto Grilhão.png",
     "NOTAS/A Queda do Salto da Fé.md",
-    "NOTAS/A Queda do Salto da Fé-Oculto.md",
-    "NOTAS/Cárcere Sem Aurora.md",
     "NOTAS/Amarantha.md",
     "NOTAS/Irmão Oderic Sal.md",
     "NOTAS/Tamsin Arrecife.md",
-    "NOTAS/Nicanor Dois-Dedos Valk.md",
     "NOTAS/Connor Pele de Mel.md",
     "NOTAS/Suzzie Invernalha.md",
     "NOTAS/Ilan Vasso.md",
@@ -222,21 +242,15 @@
     "NOTAS/Salto da Fé.md",
     "IMAGENS/Tamsin Arrecife.png",
     "NOTAS/Ruy Ferrão.md",
-    "NOTAS/Seline Feno Negro.md",
     "NOTAS/Âncora Quebra-Queixo.md",
     "IMAGENS/Ruy Ferrão.png",
     "IMAGENS/Salto da Fé.png",
     "IMAGENS/A Queda do Salto da Fé.png",
-    "IMAGENS/Âncora Quebra-Queixo.png",
     "NOTAS/Roda Torta.md",
     "NOTAS/Joss Pedreira.md",
     "NOTAS/Chião Fumaceiro.md",
     "NOTAS/Velha Mindy.md",
     "NOTAS/Casa das Quatro Estradas.md",
-    "NOTAS/Aventureiros do Colapso.md",
-    "O Colapso dos Reinos.md",
-    "NOTAS/Calívara.md",
-    "NOTAS/Círculo das Raízes Profundas.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"

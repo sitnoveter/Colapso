@@ -10,4 +10,6 @@ O cárcere não aparece nos registros públicos de [[Merídia]]. Autoridades da 
 
 [[Seline Feno Negro]] foi mantida ali depois da [[A Queda do Salto da Fé|Queda do Salto da Fé]]. Um tremor rompeu parte da estrutura e permitiu que ela alcançasse uma corrente subterrânea.
 
+![[Cárcere Sem Aurora.png]]
+
 ## [[Cárcere Sem Aurora-Oculto|Verdades ocultas]]

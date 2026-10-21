@@ -9,3 +9,5 @@ Nicanor era uma das poucas pessoas capazes de dizer “não” a [[Seline Feno N
 Deixou a Roda para acompanhar Seline no [[Salto da Fé]] e administrou pagamentos, provisões, dívidas e registros da tripulação.
 
 Desapareceu durante [[A Queda do Salto da Fé]]. Seus companheiros acreditam que morreu, mas nenhum corpo foi encontrado.
+
+![[Nicanor Dois-Dedos Valk.png]]
