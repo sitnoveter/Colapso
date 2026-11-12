@@ -54,6 +54,5 @@ O equilíbrio da natureza está se desfazendo. Tempestades impossíveis, terremo
 
 ## 📜 Resumo das Sessões
 
-- [[Resumos]]
 - [[Sessão 01 - Quatro Caminhos até Merídia]]
 - [[Sessão 02 - Sob Merídia, Algo Puxa]]

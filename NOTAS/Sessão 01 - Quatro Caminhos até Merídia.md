@@ -2,17 +2,11 @@
 
 **28 de outubro de 2026**
 
-As notícias chegam antes dos viajantes.
+As notícias chegam antes dos viajantes. Uma montanha se abriu, o mar levou um porto e estradas desapareceram entre uma viagem e outra.
 
-Uma montanha se abriu. O mar levou um porto. Estradas desapareceram entre uma viagem e outra. Cada caravana traz uma versão diferente do que está acontecendo, acompanhada por gente que perdeu o suficiente para não querer discutir os detalhes.
+Em [[Merídia]], porém, as lojas ainda abrem pela manhã. Martelos batem nas oficinas, mercadores discutem preços e elevadores de contrapeso rangem entre os terraços. Sob as pontes, refugiados procuram espaço; acima delas, a [[Torre do Meridiano]] desaparece entre as nuvens.
 
-Em [[Merídia]], as lojas ainda abrem pela manhã. Martelos batem nas oficinas, mercadores discutem preços e elevadores de contrapeso rangem entre os terraços. Sob as pontes, famílias estendem cobertores onde encontram espaço. Acima delas, a [[Torre do Meridiano]] desaparece entre as nuvens.
-
-Foi para essa cidade que [[Eldorin]] enviou seu chamado.
-
-A mensagem passou por templos, portos e estradas. Foi lida em voz alta para quem não sabia ler, copiada por mãos apressadas e carregada junto de cartas que talvez nunca chegassem ao seu destino. Agora, quatro pessoas se aproximam da Praça das Quatro Estradas.
-
-Cada uma espera encontrar algo diferente quando Eldorin começar a falar.
+Foi para essa cidade que [[Eldorin]] enviou seu chamado. Agora, quatro pessoas aproximam-se da Praça das Quatro Estradas, cada uma esperando encontrar algo diferente quando o velho druida começar a falar.
 
 ## Uma história pela metade
 
