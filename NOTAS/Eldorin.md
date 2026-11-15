@@ -58,18 +58,24 @@ Desde então, o Conselho permite sua presença em Merídia, mas não reconhece o
 
 Eldorin procura pessoas que tenham sobrevivido a catástrofes elementais, estudado tradições esquecidas ou demonstrado capacidade de negociar com forças que não podem ser derrotadas apenas pela violência.
 
-Ele pretende reunir os convocados em Merídia, apresentar as evidências disponíveis e decidir qual sinal deve ser investigado primeiro. Não promete pagamento suficiente para justificar o risco. Oferece acesso aos arquivos do Círculo, apoio entre comunidades druídicas e a possibilidade de impedir que os desastres se tornem irreversíveis.
+Quatro aventureiros atenderam ao chamado: [[Aurel Vesperin]], [[Memento Amor]], [[Ravik Valen]] e [[Seline Feno Negro]]. Eldorin reuniu o grupo numa sala reservada de [[A Quinta Estrada]], em [[Merídia]], onde apresentou as evidências disponíveis e explicou sua suspeita de que as catástrofes estavam ligadas ao enfraquecimento dos Pilares.
 
 Entre aqueles que atenderam ao chamado está [[Aurel Vesperin]]. Para o contador, a convocação pode explicar por que o [[Baralho das Doze Vozes]] reage às catástrofes e o que seus espíritos recordam de um desastre anterior.
 
 A mensagem também chegou a [[Valedorn]], onde sobreviventes da [[A Ruptura do Monte Kharad|Ruptura do Monte Kharad]] formaram [[Ninho Baixo]]. [[Memento Amor]] reconheceu no chamado uma oportunidade de investigar por que sua vila foi destruída pela combinação impossível de terra e fogo e por que [[Morvanna]] não anunciou aquelas mortes.
 
-## O que se sabe antes da campanha
+## A primeira missão
+
+Depois do encontro, Eldorin enviou os quatro para procurar [[Círculo das Raízes Profundas#Oren Valmus|Oren Valmus]], um druida do Círculo que desapareceu enquanto investigava tremores e atividade elemental num antigo canal sob Merídia.
+
+Eldorin aguardou o retorno no santuário dos [[Jardins Suspensos]]. Depois do resgate, os aventureiros chegaram ao local com Oren vivo. Ferido e incapaz de caminhar sem auxílio, o druida recebeu cuidados e começou a relatar o que encontrou sob a cidade.
+
+## Situação atual
 
 - Eldorin acredita que os quatro Pilares estão falhando de forma interligada.
 - Ele rompeu com o Conselho da Agulha por causa de escavações sob a Torre do Meridiano.
 - Nem Eldorin nem seu Círculo conhecem uma solução confirmada.
-- A convocação começará em Merídia, onde testemunhos, mapas e sobreviventes estão sendo reunidos.
+- A convocação reuniu quatro aventureiros em Merídia e deu origem à primeira expedição do grupo.
 - O druida considera possível que alguns guardiões precisem ser convencidos, não derrotados.
 
 ## [[Eldorin-Oculto|Verdades ocultas]]

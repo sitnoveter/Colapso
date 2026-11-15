@@ -48,7 +48,7 @@ A cidade ainda parece segura, mas os sinais multiplicam-se. Fontes correm para c
 
 O Conselho insiste que não existe risco imediato. Eldorin afirma que a ausência de uma catástrofe visível não significa que a capital esteja fora do problema.
 
-A convocação começa em Merídia porque a cidade reúne arquivos, sobreviventes e rotas para todas as regiões afetadas. Também começa ali porque Eldorin acredita que parte da resposta está sob os pés de seus habitantes.
+A convocação de Eldorin começou em Merídia porque a cidade reúne arquivos, sobreviventes e rotas para todas as regiões afetadas. A escolha também refletia a convicção do druida de que parte da resposta estava sob os pés de seus habitantes.
 
 ## Lugares e grupos relacionados
 
