@@ -6,6 +6,9 @@ Os **Picos Flutuantes de Aethelgard** são um arquipélago de ilhas suspensas ac
 
 As ilhas não permanecem perfeitamente imóveis. Elas sobem, descem e se afastam umas das outras ao longo do ano, obrigando seus habitantes a reconstruir pontes, alterar rotas e abandonar estruturas que se aproximam demais das bordas. Cachoeiras caem dos maiores picos, mas boa parte da água transforma-se em chuva ou neblina antes de alcançar o mundo abaixo.
 
+![[Picos Flutuantes de Aethelgardd.png]]
+
+>Imagem meramente ilustrativa, a distancia real entre as ilhas é consideravelmente maior.
 ## A Vertigem de Aethelgard
 
 A gravidade nos Picos é irregular. Em alguns lugares, um salto alcança altura e distância impossíveis; em outros, ferramentas e pessoas tornam-se subitamente mais pesadas. Correntes de ar também sobem pelas fendas entre as ilhas e podem sustentar um corpo por alguns instantes antes de desaparecer.
