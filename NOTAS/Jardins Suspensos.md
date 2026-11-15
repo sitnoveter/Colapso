@@ -28,4 +28,4 @@ O santuário é uma construção pequena, integrada às árvores e aos jardins a
 
 Ferido e incapaz de caminhar sem auxílio, Oren chegou primeiro e recebeu cuidados. Eldorin o questionava sobre o que descobriu sob a cidade quando os quatro aventureiros atravessaram a mesma passagem. Pouco depois, as raízes se entrelaçaram novamente e fecharam o caminho atrás deles.
 
-Veja também: [[Merídia]], [[Círculo das Raízes Profundas]] e [[Eldorin]].
+![[pequeno santuário do Círculo, nos Jardins Suspensos.png]]
