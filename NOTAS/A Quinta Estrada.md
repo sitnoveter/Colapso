@@ -6,7 +6,7 @@
 
 ## O encontro de Eldorin
 
-Foi numa sala reservada da taverna que [[Eldorin]] reuniu [[Aurel Vesperin]], [[Memento Amor]], [[Ravik Valen]] e [[Seline Feno Negro]] depois que os quatro responderam à sua convocação.
+Foi numa sala reservada da taverna que [[Eldorin]] reuniu [[Aurel Vesperin|Aurel]], [[Memento Amor|Memento]], [[Ravik Valen|Ravik]] e [[Seline Feno Negro|Seline]] depois que os quatro responderam à sua convocação.
 
 Entre pão, carne, cebolas caramelizadas e hidromel, o druida explicou que as catástrofes recentes pareciam ligadas ao enfraquecimento dos [[Os Quatro Pilares|Quatro Pilares Elementais]]. Também revelou que um membro do [[Círculo das Raízes Profundas]] desapareceu enquanto investigava atividade elemental num antigo canal sob a cidade.
 
