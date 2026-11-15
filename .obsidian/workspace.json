@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/A Bigorna Ferrabrasa.md",
+                "file": "NOTAS/Praça das Quatro Estradas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Bigorna Ferrabrasa"
+              "title": "Praça das Quatro Estradas"
             }
           }
         ]
@@ -199,13 +199,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
+    "NOTAS/A Bigorna Ferrabrasa.md",
     "IMAGENS/A Bigorna Ferrabrasa.png",
     "IMAGENS/Nara - Aprendiz Artifice - Raça Khoravar.png",
     "IMAGENS/Doran Ferrabrasa.png",
     "NOTAS/Praça das Quatro Estradas.md",
-    "NOTAS/A Bigorna Ferrabrasa.md",
     "NOTAS/Merídia.md",
     "O Colapso dos Reinos.md",
     "NOTAS/Organizações.md",
@@ -236,7 +236,6 @@
     "NOTAS/Sessão 01 - Quatro Caminhos até Merídia.md",
     "NOTAS/Sessão 02 - Sob Merídia, Algo Puxa.md",
     "NOTAS/Maera Cendral.md",
-    "IMAGENS/Cântico da Passagem.png",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
