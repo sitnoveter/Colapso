@@ -20,7 +20,9 @@ Entre suas criações está o **Escudo das Expressões**, capaz de alterar a pr�
 
 ## Nara
 
-**Nara** chegou a Merídia procurando uma oportunidade para trabalhar como assistente de ferreiro. Ela enviou uma carta a Doran antes da viagem, mas partiu sem receber resposta e decidiu apresentar-se pessoalmente.
+**Nara** é uma jovem Khoravar que chegou a Merídia procurando uma oportunidade para trabalhar como assistente de ferreiro. Como os demais membros de seu povo, faz questão de se apresentar como Khoravar e rejeita o termo *meio-elfa*. Para ela, o nome não descreve duas metades, mas uma identidade própria, com história e pertencimento próprios.
+
+Ela enviou uma carta a Doran antes da viagem, mas partiu sem receber resposta e decidiu apresentar-se pessoalmente.
 
 No caminho para a praça, ajudava a reparar uma carroça cujo eixo estava apoiado de maneira perigosa. Foi ali que conheceu [[Ravik Valen|Ravik]], que percebeu sua habilidade, coordenou os trabalhadores necessários para erguer o veículo e acompanhou-a até a Bigorna Ferrabrasa.
 
