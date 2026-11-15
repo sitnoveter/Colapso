@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Praça das Quatro Estradas.md",
+                "file": "NOTAS/A Quinta Estrada.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Praça das Quatro Estradas"
+              "title": "A Quinta Estrada"
             }
           }
         ]
@@ -199,11 +199,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
+    "NOTAS/Praça das Quatro Estradas.md",
     "IMAGENS/Praça das Quatro Estradas.png",
     "NOTAS/Aventureiros do Colapso.md",
-    "NOTAS/Praça das Quatro Estradas.md",
     "NOTAS/Merídia.md",
     "O Colapso dos Reinos.md",
     "NOTAS/Vhalden.md",
@@ -236,7 +236,6 @@
     "IMAGENS/Rei do Sal.png",
     "IMAGENS/Porto Grilhão.png",
     "IMAGENS/Ilan Vasso.png",
-    "IMAGENS/Irmão Oderic Sal.png",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
