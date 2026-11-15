@@ -20,12 +20,19 @@ Uma estrada externa permite que carroças contornem os maiores desníveis e alca
 
 A rota é mais longa do que os caminhos de pedestres, mas exige muito menos esforço. Por isso, o Círculo costuma utilizá-la para transportar feridos, mensageiros, sementes e suprimentos entre o santuário e Merídia.
 
-O [[Círculo das Raízes Profundas]] mantém um pequeno santuário nesse setor. O local serve como abrigo para mensageiros, depósito de sementes, espaço de recuperação e ponto de encontro para os membros da ordem e os convocados por [[Eldorin]].
+O [[Círculo das Raízes Profundas]] mantém um pequeno santuário nesse setor. O local serve como abrigo para mensageiros do próprio Círculo, depósito de sementes, espaço de recuperação para seus membros e ponto de encontro para aqueles cuja presença foi autorizada por [[Eldorin]].
 
 ## O santuário do Círculo
 
 O santuário é uma construção pequena, integrada às árvores e aos jardins ao redor. Foi para esse lugar que [[Círculo das Raízes Profundas#Oren Valmus|Oren Valmus]] abriu uma passagem de raízes depois de ser encontrado sob os canais de Merídia.
 
-Ferido e incapaz de caminhar sem auxílio, Oren chegou primeiro e recebeu cuidados. Eldorin o questionava sobre o que descobriu sob a cidade quando os quatro aventureiros atravessaram a mesma passagem. Pouco depois, as raízes se entrelaçaram novamente e fecharam o caminho atrás deles.
-
 ![[pequeno santuário do Círculo, nos Jardins Suspensos.png]]
+### Acesso de forasteiros
+
+O Círculo recebe pessoas de fora para conversas, pedidos de auxílio e cuidados emergenciais, mas não oferece hospedagem. Quem não pertence à ordem permanece apenas nas áreas comuns e deve deixar os Jardins antes da noite. Os aposentos, arquivos, depósitos e espaços de reunião internos são reservados aos druidas e aos mensageiros reconhecidos pelo Círculo.
+
+Esse isolamento protege mais do que sementes e anotações. Os druidas preservam ritos, formas de comunicação e conhecimentos que não compartilham com facilidade; até o idioma druídico é mantido longe de ouvidos externos. Por isso, uma visita autorizada não significa que o visitante foi aceito pela comunidade.
+
+A entrada dos aventureiros foi uma exceção. Eles chegaram por uma passagem aberta por Oren, trazendo de volta um membro ferido do Círculo, e encontraram Eldorin esperando no santuário. Mesmo nessas circunstâncias, sua presença não lhes concedeu permissão para permanecer ali depois que a conversa terminasse.
+
+Ferido e incapaz de caminhar sem auxílio, Oren chegou primeiro e recebeu cuidados. Eldorin o questionava sobre o que descobriu sob a cidade quando os quatro aventureiros atravessaram a mesma passagem. Pouco depois, as raízes se entrelaçaram novamente e fecharam o caminho atrás deles.
