@@ -8,6 +8,8 @@ Sobre a bancada, a refeição interrompida, o cantil vazio e o diário de [[Cír
 
 Restavam dois caminhos: uma porta lateral ainda fechada e o canal que avançava para dentro da estrutura antiga.
 
+Antes de continuar, os quatro compararam algumas das coisas estranhas que carregavam. Seline explicou que encontrou seu revólver entre máquinas antigas nas ruínas dos [[Picos Flutuantes de Aethelgard]]. Também contou que um de seus companheiros cedeu à vontade de saltar de uma das ilhas: ele voou por cerca de dois segundos e meio antes de cair até o solo abaixo. A lembrança transformou o convite de Seline para visitar os Picos num aviso tão sério quanto uma promessa.
+
 ## O depósito de manutenção
 
 Antes de seguir mais fundo, o grupo abriu a porta lateral. Do outro lado havia um amplo depósito tomado pelo cheiro de óleo velho e madeira úmida. Tábuas, barris e ferramentas de manutenção ocupavam as paredes, enquanto rastros recentes de lama atravessavam a poeira.

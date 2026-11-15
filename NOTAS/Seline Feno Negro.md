@@ -14,7 +14,7 @@ Depois de sobreviver à [[A Queda do Salto da Fé|queda de seu navio]], ao [[Cá
 
 Seline é uma mulher humana no início dos trinta anos. Possui pele clara marcada pelo sol, cabelos negros e ondulados, tatuagens adquiridas durante anos de viagem e a postura de quem transforma qualquer recinto numa mesa de apostas.
 
-Carrega um raro revólver de tambor construído por artesãos especializados. A arma exige manutenção constante e chama atenção mesmo entre mercenários acostumados à pólvora.
+Carrega um raro revólver de tambor encontrado entre máquinas antigas nas ruínas dos [[Picos Flutuantes de Aethelgard]]. Seline desmontou e testou o artefato até descobrir como carregá-lo com pequenos projéteis, preferencialmente de metal. A arma exige manutenção constante e chama atenção mesmo entre mercenários acostumados à pólvora.
 
 ## A criança de Merídia
 
