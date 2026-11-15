@@ -6,7 +6,7 @@ O sol desaparecia atrás dos terraços de [[Merídia]] quando os quatro se reuni
 
 Sob o ferro marcado pela umidade, uma escadaria de pedra descia em espiral. O ar que subia pelas frestas trazia cheiro de água parada, óleo antigo e terra molhada. Em algum ponto abaixo, uma corrente mudou de direção e algo pesado pareceu mover-se sobre as pedras.
 
-A primeira missão dos convocados começava sob a Praça das Quatro Estradas.
+A primeira missão dos convocados começava sob a [[Praça das Quatro Estradas]].
 
 ## A grade
 

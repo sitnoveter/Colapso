@@ -24,11 +24,11 @@ O Conselho administra os níveis inferiores conhecidos, enquanto observatórios,
 
 ## Regiões da cidade
 
-- **Praça das Quatro Estradas:** Grande área de chegada de caravanas, convocados, mercadores e refugiados. É o lugar escolhido para os primeiros encontros relacionados ao chamado de Eldorin.
+- **[[Praça das Quatro Estradas]]:** Grande área de chegada de caravanas, convocados, mercadores e refugiados. É o lugar escolhido para os primeiros encontros relacionados ao chamado de Eldorin.
 - **Anel dos Ofícios:** Oficinas, hospedarias, armazéns e mercados organizados por guildas que raramente concordam entre si.
 - **Baixa Agulha:** Bairros comprimidos sob pontes e aquedutos, atualmente ocupados por grande parte dos recém-chegados.
-- **Casa das Quatro Estradas:** Antigo orfanato da Baixa Agulha, conhecido por receber crianças abandonadas nas rotas de chegada à capital.
-- **Jardins Suspensos:** Terraços antigos irrigados por canais internos da torre. O Círculo das Raízes Profundas mantém um pequeno santuário nesse setor.
+- **[[Casa das Quatro Estradas]]:** Antigo orfanato da Baixa Agulha, conhecido por receber crianças abandonadas nas rotas de chegada à capital.
+- **[[Jardins Suspensos]]:** Terraços antigos irrigados por canais internos da torre. O Círculo das Raízes Profundas mantém um pequeno santuário nesse setor.
 - **Terraço do Conselho:** Sede do governo, dos tribunais e das delegações estrangeiras.
 - **Escadarias Altas:** Região de templos, academias, observatórios e residências das famílias mais influentes.
 - **Barragem do Arco Baixo:** Estrutura fortificada que controla as águas vindas das montanhas antes que elas alcancem os canais, aquedutos e terraços inferiores. Suas comportas também alimentam parte das oficinas e elevadores da cidade.

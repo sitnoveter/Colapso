@@ -74,7 +74,7 @@ Um após o outro, desapareceram pela porta viva.
 
 ## O santuário do Círculo
 
-A passagem terminou num pequeno santuário do [[Círculo das Raízes Profundas]], erguido em um jardim suspenso distante da cidade. Do lado de fora, Merídia surgia no horizonte.
+A passagem terminou num pequeno santuário do [[Círculo das Raízes Profundas]], erguido nos [[Jardins Suspensos]], distante do centro da cidade. Do lado de fora, Merídia surgia no horizonte.
 
 Oren já recebia cuidados, acomodado numa poltrona. Diante dele, [[Eldorin]] tentava descobrir o que aconteceu sob a cidade e o que o druida encontrou antes de ser soterrado.
 

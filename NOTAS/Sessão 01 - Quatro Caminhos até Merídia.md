@@ -6,7 +6,7 @@ As notícias chegam antes dos viajantes. Uma montanha se abriu, o mar levou um p
 
 Em [[Merídia]], porém, as lojas ainda abrem pela manhã. Martelos batem nas oficinas, mercadores discutem preços e elevadores de contrapeso rangem entre os terraços. Sob as pontes, refugiados procuram espaço; acima delas, a [[Torre do Meridiano]] desaparece entre as nuvens.
 
-Foi para essa cidade que [[Eldorin]] enviou seu chamado. Agora, quatro pessoas aproximam-se da Praça das Quatro Estradas, cada uma esperando encontrar algo diferente quando o velho druida começar a falar.
+Foi para essa cidade que [[Eldorin]] enviou seu chamado. Agora, quatro pessoas aproximam-se da [[Praça das Quatro Estradas]], cada uma esperando encontrar algo diferente quando o velho druida começar a falar.
 
 ## Uma história pela metade
 
@@ -58,9 +58,9 @@ Seline seria o contato da organização com qualquer expedição formada naquele
 
 ## A Quinta Estrada
 
-Os quatro chegaram por caminhos diferentes à enorme fonte da Praça das Quatro Estradas.
+Os quatro chegaram por caminhos diferentes à enorme fonte da [[Praça das Quatro Estradas]].
 
-Eldorin aguardava apoiado num cajado do qual brotavam pequenos galhos. Não havia outros aventureiros, estudiosos ou representantes das grandes ordens. Depois de observar as ruas mais uma vez, o druida aceitou que apenas quatro pessoas responderam ao chamado e conduziu-as até uma sala da taverna **A Quinta Estrada**.
+Eldorin aguardava apoiado num cajado do qual brotavam pequenos galhos. Não havia outros aventureiros, estudiosos ou representantes das grandes ordens. Depois de observar as ruas mais uma vez, o druida aceitou que apenas quatro pessoas responderam ao chamado e conduziu-as até uma sala da taverna [[A Quinta Estrada]].
 
 Entre pão, carne, cebolas caramelizadas e hidromel, Eldorin explicou sua suspeita. As catástrofes não eram acontecimentos isolados: todas pareciam ligadas ao enfraquecimento dos [[Os Quatro Pilares|Quatro Pilares Elementais]]. Os registros do [[Círculo das Raízes Profundas]] eram incompletos, mas nenhuma outra hipótese explicava tantos desastres simultâneos.
 

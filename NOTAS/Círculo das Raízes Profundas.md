@@ -26,6 +26,6 @@ Eldorin defende que nenhuma região poderá ser salva isoladamente. Seus oposito
 
 ## Presença em Merídia
 
-O Círculo mantém um pequeno santuário nos Jardins Suspensos de [[Merídia]]. O local serve como abrigo para mensageiros, depósito de sementes e ponto de encontro dos convocados por Eldorin.
+O Círculo mantém um pequeno santuário nos [[Jardins Suspensos]] de [[Merídia]]. O local serve como abrigo para mensageiros, depósito de sementes e ponto de encontro dos convocados por Eldorin.
 
 A relação com o [[Conselho da Agulha]] tornou-se tensa depois que o Círculo questionou as escavações realizadas sob a [[Torre do Meridiano]].
