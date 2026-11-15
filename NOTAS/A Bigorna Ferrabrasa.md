@@ -8,6 +8,8 @@ A construção abre-se diretamente para a rua. Uma grande forja ocupa o fundo da
 
 A oficina produz armas, armaduras, escudos, ferragens para carroças e peças destinadas às obras de Merídia. Doran também aceita trabalhos menos convencionais quando recebe uma amostra ou explicação suficiente do mecanismo desejado.
 
+![[A Bigorna Ferrabrasa.png]]
+
 ## Doran Ferrabrasa
 
 **Doran Ferrabrasa** é o proprietário e principal ferreiro da Bigorna. Baixo, largo e muito forte, possui uma barba ruiva espessa, enquanto o topo da cabeça permanece completamente calvo. Trabalha usando um avental de couro marcado por fuligem, queimaduras e anos de uso.
