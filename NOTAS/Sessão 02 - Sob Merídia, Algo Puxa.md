@@ -10,7 +10,7 @@ A primeira missão dos convocados começava sob a Praça das Quatro Estradas.
 
 ## A grade
 
-Anos de ferrugem haviam prendido a grade à moldura de pedra. Nenhum dos quatro parecia particularmente preparado para erguê-la sozinho, mas [[Seline Feno Negro]] aceitou fazer o trabalho enquanto os outros improvisavam uma alavanca, orientavam o esforço e tentavam não admitir que ela era a pessoa mais forte do grupo.
+Anos de ferrugem prenderam a grade à moldura de pedra. Nenhum dos quatro parecia particularmente preparado para erguê-la sozinho, mas [[Seline Feno Negro]] aceitou fazer o trabalho enquanto os outros improvisavam uma alavanca, orientavam o esforço e tentavam não admitir que ela era a pessoa mais forte do grupo.
 
 Com a ajuda dos companheiros, Seline conseguiu deslocar o ferro o suficiente para que todos passassem. Uma tocha foi acesa, e o grupo começou a descer.
 
@@ -18,13 +18,13 @@ O canal era formado por corredores estreitos, passarelas e trechos onde água l�
 
 ## O mecanismo interrompido
 
-Na sala seguinte, o grupo encontrou o sistema responsável por controlar o fluxo do canal. O mecanismo tentava girar no sentido natural, mas uma barra de ferro havia sido deliberadamente enfiada entre suas peças para bloqueá-lo.
+Na sala seguinte, o grupo encontrou o sistema responsável por controlar o fluxo do canal. O mecanismo tentava girar no sentido natural, mas uma barra de ferro foi deliberadamente enfiada entre suas peças para bloqueá-lo.
 
 [[Ravik Valen]] examinou a estrutura e percebeu que a barra era uma manivela pertencente ao próprio sistema. Ninguém sabia, porém, se libertar a máquina faria a água subir ou baixar. Como o bloqueio parecia intencional, decidiram não removê-lo antes de compreender o restante do canal.
 
 A poeira não apresentava rastros claros, mas havia uma marca recente de mão sobre uma das caixas. Dentro delas, encontraram peças de reposição, juntas de couro, parafusos, uma corda e outras manivelas desmontadas. [[Memento Amor]] também encontrou um grande frasco de líquido vermelho, que mais tarde identificariam como uma poção de cura.
 
-Uma passagem lateral havia sido soterrada pelo tremor. Como o druida desaparecido entrara depois do abalo, o grupo concluiu que provavelmente seguira pelo outro caminho.
+Uma passagem lateral foi soterrada pelo tremor. Como o druida desaparecido entrou depois do abalo, o grupo concluiu que provavelmente seguiu pelo outro caminho.
 
 Foi quando a água começou a girar.
 
@@ -44,7 +44,7 @@ Quando a última delas deixou de se mover, os quatro ainda estavam vivos — mol
 
 Depois da luta, Seline questionou como os companheiros pretendiam continuar uma expedição sem armas apropriadas para situações como aquela. Memento, ainda abalado pelo mergulho, recolheu-se em oração enquanto o grupo recuperava o fôlego.
 
-Uma sala próxima havia sido usada como posto de pesquisa. Sobre a bancada permaneciam instrumentos simples de coleta, velas, tecidos, uma amostra da água morna do canal, uma refeição deixada pela metade e um cantil vazio. Os sinais indicavam que alguém estivera ali, mas saíra sem terminar o que fazia.
+Uma sala próxima foi usada como posto de pesquisa. Sobre a bancada permaneciam instrumentos simples de coleta, velas, tecidos, uma amostra da água morna do canal, uma refeição deixada pela metade e um cantil vazio. Os sinais indicavam que alguém esteve ali, mas saiu sem terminar o que fazia.
 
 Ravik encontrou outra poção de cura. Aurel percebeu que a refeição abandonada e o cantil provavelmente pertenciam ao druida procurado. O homem ainda não estava ali, mas seu diário de campo permanecia sobre a mesa, envolvido por folhas e pequenos ramos.
 
@@ -52,20 +52,20 @@ Seu nome era **Oren Valmus**.
 
 ## O diário de Oren Valmus
 
-As anotações confirmavam que o tremor havia aberto passagem para uma construção muito mais antiga que o canal. A alvenaria usada pela equipe de manutenção fora erguida sobre aquela estrutura, talvez sem que os trabalhadores compreendessem o que estavam fechando.
+As anotações confirmavam que o tremor abriu passagem para uma construção muito mais antiga que o canal. A alvenaria usada pela equipe de manutenção foi erguida sobre aquela estrutura, talvez sem que os trabalhadores compreendessem o que estavam fechando.
 
 A água aquecia em intervalos irregulares. Raízes avançavam pelas juntas mesmo onde não havia terra. Ambos os fenômenos tornavam-se mais intensos perto de uma câmara marcada por quatro sinais ao redor de uma cavidade central.
 
-Durante o último tremor, as pedras próximas ao círculo haviam se movido. Pareciam tentar reunir-se antes de cair novamente. Oren pretendia observar a repetição daquele movimento a partir de uma plataforma lateral e descobrir o que o provocava.
+Durante o último tremor, as pedras próximas ao círculo se moveram. Pareciam tentar reunir-se antes de cair novamente. Oren pretendia observar a repetição daquele movimento a partir de uma plataforma lateral e descobrir o que o provocava.
 
 Sua última conclusão mudava a natureza da investigação:
 
 > **“Cometi um erro. Pensei que os fenômenos estivessem se espalhando a partir daqui. Estão fazendo o contrário. A água, as raízes, o calor e o ar estão sendo conduzidos para o mesmo ponto. Em algum lugar sob Merídia, os Pilares não estão apenas quebrando. Eles estão sendo puxados.”**
 
-O diário explicava o que Oren descobrira, mas não onde ele estava.
+O diário explicava o que Oren descobriu, mas não onde ele estava.
 
 Depois de um breve descanso, o grupo ainda tinha dois caminhos à frente: uma porta lateral e o corredor que seguia mais fundo na estrutura.
 
 Sob a cidade, alguma coisa atraía as forças dos quatro Pilares para um único ponto.
 
-E o único homem que talvez tivesse visto esse ponto continuava desaparecido.
+E o único homem que talvez tenha visto esse ponto continuava desaparecido.
