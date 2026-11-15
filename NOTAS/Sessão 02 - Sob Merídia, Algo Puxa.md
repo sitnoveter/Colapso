@@ -48,7 +48,7 @@ Uma sala próxima foi usada como posto de pesquisa. Sobre a bancada permaneciam 
 
 Ravik encontrou outra poção de cura. Aurel percebeu que a refeição abandonada e o cantil provavelmente pertenciam ao druida procurado. O homem ainda não estava ali, mas seu diário de campo permanecia sobre a mesa, envolvido por folhas e pequenos ramos.
 
-Seu nome era **Oren Valmus**.
+Seu nome era [[Círculo das Raízes Profundas#Oren Valmus|Oren Valmus]].
 
 ## O diário de Oren Valmus
 

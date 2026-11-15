@@ -24,6 +24,18 @@ As catástrofes dividiram o Círculo. Muitos membros retornaram às próprias re
 
 Eldorin defende que nenhuma região poderá ser salva isoladamente. Seus opositores afirmam que abandonar florestas, rios e aldeias em busca de santuários lendários pode produzir exatamente a destruição que desejam evitar.
 
+## Oren Valmus
+
+**Oren Valmus** é um druida do Círculo enviado por [[Eldorin]] para investigar os tremores e a atividade elemental sob [[Merídia]]. Seu trabalho de campo concentra-se na maneira como raízes, cursos de água e formações de pedra reagem a interferências que não poderiam ter surgido naturalmente.
+
+Ao descer por um antigo canal da cidade, Oren descobriu que a alvenaria usada pelas equipes de manutenção foi construída sobre uma estrutura muito mais antiga, ausente das plantas oficiais. A água aquecia em intervalos irregulares, raízes avançavam por lugares sem terra e quatro sinais cercavam uma cavidade central. Suas observações levaram a uma conclusão preocupante: água, raízes, calor e ar não estavam se espalhando daquele ponto, mas eram conduzidos para ele.
+
+Um tremor derrubou parte da câmara e deixou Oren preso sob os escombros. Os [[Aventureiros do Colapso]] encontraram o druida ainda vivo e o libertaram durante o despertar de criaturas formadas por pedra e raiz. Mesmo gravemente ferido, Oren alcançou as raízes da parede e abriu uma passagem até o santuário do Círculo nos [[Jardins Suspensos]].
+
+Oren permanece no santuário, onde recebeu cuidados e começou a relatar suas descobertas a Eldorin.
+
+![[Oren Valmus.png]]
+
 ## Presença em Merídia
 
 O Círculo mantém um pequeno santuário nos [[Jardins Suspensos]] de [[Merídia]]. O local serve como abrigo para mensageiros, depósito de sementes e ponto de encontro dos convocados por Eldorin.

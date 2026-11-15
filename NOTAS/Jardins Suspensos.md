@@ -8,7 +8,7 @@ O [[Círculo das Raízes Profundas]] mantém um pequeno santuário nesse setor. 
 
 ## O santuário do Círculo
 
-O santuário é uma construção pequena, integrada às árvores e aos jardins ao redor. Foi para esse lugar que **Oren Valmus** abriu uma passagem de raízes depois de ser encontrado sob os canais de Merídia.
+O santuário é uma construção pequena, integrada às árvores e aos jardins ao redor. Foi para esse lugar que [[Círculo das Raízes Profundas#Oren Valmus|Oren Valmus]] abriu uma passagem de raízes depois de ser encontrado sob os canais de Merídia.
 
 Ferido e incapaz de caminhar sem auxílio, Oren chegou primeiro e recebeu cuidados. Eldorin o questionava sobre o que descobriu sob a cidade quando os quatro aventureiros atravessaram a mesma passagem. Pouco depois, as raízes se entrelaçaram novamente e fecharam o caminho atrás deles.
 

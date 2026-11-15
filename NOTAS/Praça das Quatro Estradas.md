@@ -16,7 +16,7 @@ Oriana projetou a fonte para que o som da água continuasse audível mesmo nos d
 
 - **A grande fonte:** monumento de Oriana Marval e principal ponto de referência e encontro da praça.
 - **[[A Quinta Estrada]]:** taverna onde Eldorin reuniu os quatro aventureiros e apresentou sua investigação sobre os [[Os Quatro Pilares|Quatro Pilares Elementais]].
-- **O acesso ao canal antigo:** uma grade nivelada com o chão, próxima à fonte, oculta a escadaria que conduz aos canais sob a cidade. Foi por essa passagem que o grupo começou a procurar **Oren Valmus**.
+- **O acesso ao canal antigo:** uma grade nivelada com o chão, próxima à fonte, oculta a escadaria que conduz aos canais sob a cidade. Foi por essa passagem que o grupo começou a procurar [[Círculo das Raízes Profundas#Oren Valmus|Oren Valmus]].
 
 ## A chegada dos convocados
 

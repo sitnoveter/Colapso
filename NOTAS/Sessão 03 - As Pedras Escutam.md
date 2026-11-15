@@ -4,7 +4,7 @@
 
 No pequeno posto de pesquisa sob [[Merídia]], a água ainda escorria das roupas dos quatro aventureiros.
 
-Sobre a bancada, a refeição interrompida, o cantil vazio e o diário de **Oren Valmus** eram os únicos sinais do homem que procuravam. Suas anotações diziam que água, raízes, calor e ar estavam sendo conduzidos para um mesmo ponto sob a cidade. Oren desceu para observá-lo e não voltou.
+Sobre a bancada, a refeição interrompida, o cantil vazio e o diário de [[Círculo das Raízes Profundas#Oren Valmus|Oren Valmus]] eram os únicos sinais do homem que procuravam. Suas anotações diziam que água, raízes, calor e ar estavam sendo conduzidos para um mesmo ponto sob a cidade. Oren desceu para observá-lo e não voltou.
 
 Restavam dois caminhos: uma porta lateral ainda fechada e o canal que avançava para dentro da estrutura antiga.
 
