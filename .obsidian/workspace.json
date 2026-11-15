@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Picos Flutuantes de Aethelgard.md",
+                "file": "NOTAS/Praça das Quatro Estradas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Picos Flutuantes de Aethelgard"
+              "title": "Praça das Quatro Estradas"
             }
           }
         ]
@@ -199,13 +199,19 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
-    "IMAGENS/Picos Flutuantes de Aethelgardd.png",
+    "NOTAS/Merídia.md",
     "O Colapso dos Reinos.md",
-    "NOTAS/Aventureiros do Colapso.md",
+    "NOTAS/Organizações.md",
+    "NOTAS/Roda Torta.md",
+    "NOTAS/Trupe da Vela Verde.md",
+    "NOTAS/Círculo das Raízes Profundas.md",
+    "NOTAS/Conselho da Agulha.md",
     "NOTAS/Velmora.md",
     "NOTAS/Picos Flutuantes de Aethelgard.md",
+    "IMAGENS/Picos Flutuantes de Aethelgardd.png",
+    "NOTAS/Aventureiros do Colapso.md",
     "NOTAS/Cordilheira dos Titãs Dormentes.md",
     "NOTAS/Abismo de Thalassa, além dos mares orientais.md",
     "NOTAS/Vales Calcinados de Karkor.md",
@@ -213,7 +219,6 @@
     "IMAGENS/pequeno santuário do Círculo, nos Jardins Suspensos.png",
     "IMAGENS/Jardins Suspensos.png",
     "NOTAS/Torre do Meridiano.md",
-    "NOTAS/Círculo das Raízes Profundas.md",
     "IMAGENS/Oren Valmus.png",
     "NOTAS/Praça das Quatro Estradas.md",
     "NOTAS/Os Quatro Pilares.md",
@@ -221,7 +226,6 @@
     "IMAGENS/A Quinta Estrada.png",
     "IMAGENS/Juditee.png",
     "IMAGENS/Praça das Quatro Estradas.png",
-    "NOTAS/Merídia.md",
     "NOTAS/Vhalden.md",
     "NOTAS/Sessão 03 - As Pedras Escutam.md",
     "NOTAS/Resumos.md",
@@ -230,13 +234,9 @@
     "NOTAS/Maera Cendral.md",
     "NOTAS/Organizações/Lâminas da Vanguarda.md",
     "NOTAS/Aurel Vesperin.md",
-    "NOTAS/Cântico da Passagem.md",
-    "caminharás.md",
     "IMAGENS/Cântico da Passagem.png",
-    "NOTAS/A Tempestade de Velmora.md",
     "IMAGENS/Lâminas da Vanguarda.png",
     "IMAGENS/Maera Cendral.png",
-    "IMAGENS/Cárcere Sem Aurora.png",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
