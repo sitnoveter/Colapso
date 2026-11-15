@@ -8,7 +8,7 @@ As ilhas não permanecem perfeitamente imóveis. Elas sobem, descem e se afastam
 
 ![[Picos Flutuantes de Aethelgardd.png]]
 
->Imagem meramente ilustrativa, a distancia real entre as ilhas é consideravelmente maior.
+>**Representação artística. Na realidade, as ilhas encontram-se consideravelmente mais afastadas umas das outras.**
 ## A Vertigem de Aethelgard
 
 A gravidade nos Picos é irregular. Em alguns lugares, um salto alcança altura e distância impossíveis; em outros, ferramentas e pessoas tornam-se subitamente mais pesadas. Correntes de ar também sobem pelas fendas entre as ilhas e podem sustentar um corpo por alguns instantes antes de desaparecer.
