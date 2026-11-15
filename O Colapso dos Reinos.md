@@ -9,9 +9,6 @@ O equilíbrio da natureza está se desfazendo. Tempestades impossíveis, terremo
 
 #### 🗺️ LOCALIDADES
 
-- [[Vales Calcinados de Karkor]]
-- [[Abismo de Thalassa, além dos mares orientais]]
-- [[Cordilheira dos Titãs Dormentes]]
 - [[Picos Flutuantes de Aethelgard]]
 - [[Velmora]]
 - [[Aeralta]]
