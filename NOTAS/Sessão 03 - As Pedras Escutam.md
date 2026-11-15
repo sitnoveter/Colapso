@@ -54,13 +54,13 @@ Então as paredes responderam.
 
 Pedra e raiz assumiram formas menores ao redor da câmara. O próprio monte que aprisionava Oren ergueu-se como um enorme elemental, reunindo rochas, vinhas e terra num corpo pesado. O aviso do druida chegou tarde demais para impedir o despertar.
 
-O combate espalhou-se pela sala. Seline manteve o revólver em movimento enquanto as criaturas a cercavam. Ravik usou o artefato encontrado no depósito e cobriu o grande elemental com chamas persistentes. Memento alternou maldições e magia vital para ferir os inimigos sem abandonar os companheiros, e Aurel convocou as histórias de seu baralho para protegê-los, curá-los e conter o avanço das criaturas.
+O combate espalhou-se pela sala. Seline manteve o revólver em movimento enquanto as criaturas a cercavam. Ravik usou o artefato encontrado no depósito e cobriu um dos elementais menores de raízes e pedra com chamas persistentes. Memento alternou maldições e magia vital para ferir os inimigos sem abandonar os companheiros, e Aurel convocou as histórias de seu baralho para protegê-los, curá-los e conter o avanço das criaturas.
 
-Mesmo ferido, Oren arrastou-se para longe das pedras. As formas menores continuavam saindo das paredes, e logo ficou claro que derrotar uma delas não significava esvaziar a câmara. Quando Aurel espalhou um padrão de luz e cor pelo campo, diversas criaturas ficaram imóveis — assim como Ravik, apanhado por um instante no mesmo encantamento.
+Mesmo ferido, Oren arrastou-se para longe das pedras. As formas menores continuavam saindo das paredes, e logo ficou claro que derrotar uma delas não significava esvaziar a câmara. Quando Aurel espalhou um padrão de luz e cor pelo campo, diversas criaturas ficaram imóveis. O grande elemental de pedra também foi aprisionado pelo encantamento e permaneceu praticamente ileso, enquanto Ravik acabou apanhado por um instante no mesmo padrão.
 
-O grande elemental resistiu ao fogo, às preces, aos espíritos e aos disparos até voltar-se contra Aurel. Foi a abertura de que [[Seline Feno Negro]] precisava. Depois de muitos tiros desviados pela pedra, ela acertou a lateral da cabeça da criatura. O corpo desabou e perdeu a forma que o mantinha unido.
+Um dos elementais menores de raízes e pedra resistiu aos ataques até voltar-se contra Aurel. Foi a abertura de que [[Seline Feno Negro]] precisava. Depois de muitos tiros desviados pela pedra, ela acertou a lateral da cabeça da criatura. O corpo desabou e perdeu a forma que o mantinha unido.
 
-Mas a queda do maior inimigo não encerrou a luta. Havia outras formas de pedra e raiz ao redor, mais do que o grupo conseguiria destruir antes que os ferimentos os vencessem.
+Mas a queda daquela criatura não encerrou a luta. O grande elemental continuava de pé, preso pelo padrão hipnótico, e havia outras formas de pedra e raiz ao redor — mais do que o grupo conseguiria destruir antes que os ferimentos os vencessem.
 
 ## A porta de raízes
 
