@@ -20,7 +20,7 @@ Oriana projetou a fonte para que o som da água continuasse audível mesmo nos d
 
 ## A chegada dos convocados
 
-[[Aurel Vesperin|Aurel]], [[Memento Amor|Memento]], [[Ravik Valen|Ravik]] e [[Seline Feno Negro|Seline]] chegaram à praça por caminhos diferentes. Eldorin os esperava junto à fonte e, quando ficou claro que nenhum outro convocado apareceria, conduziu o grupo até [[A Quinta Estrada]].
+[[Aurel Vesperin|Aurel]], [[Memento Amor|Memento]], [[Ravik Valen|Ravik]] e [[Seline Feno Negro|Seline]] chegaram à praça por caminhos diferentes. Eldorin os esperava junto à fonte e, quando ficou claro que nenhum outro convocado apareceria, conduziu o grupo até A Quinta Estrada.
 
 A praça também concentrou parte dos refugiados que buscavam acolhimento em Merídia. Antes de descer ao canal, os aventureiros retornaram ao local para resolver compromissos, reunir suprimentos e encontrar novamente o druida.
 

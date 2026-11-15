@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/A Quinta Estrada.md",
+                "file": "NOTAS/Praça das Quatro Estradas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Quinta Estrada"
+              "title": "Praça das Quatro Estradas"
             }
           }
         ]
@@ -199,11 +199,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "d4f5094d84c49a2c",
   "lastOpenFiles": [
+    "NOTAS/Os Quatro Pilares.md",
+    "NOTAS/Praça das Quatro Estradas.md",
+    "NOTAS/A Quinta Estrada.md",
     "IMAGENS/A Quinta Estrada.png",
     "IMAGENS/Juditee.png",
-    "NOTAS/Praça das Quatro Estradas.md",
     "IMAGENS/Praça das Quatro Estradas.png",
     "NOTAS/Aventureiros do Colapso.md",
     "NOTAS/Merídia.md",
@@ -211,7 +213,6 @@
     "NOTAS/Vhalden.md",
     "NOTAS/Círculo das Raízes Profundas.md",
     "NOTAS/Jardins Suspensos.md",
-    "NOTAS/A Quinta Estrada.md",
     "NOTAS/Sessão 03 - As Pedras Escutam.md",
     "NOTAS/Resumos.md",
     "NOTAS/Sessão 01 - Quatro Caminhos até Merídia.md",
@@ -236,7 +237,6 @@
     "IMAGENS/Vigília do Farol.png",
     "NOTAS/Porto Grilhão.md",
     "IMAGENS/Rei do Sal.png",
-    "IMAGENS/Porto Grilhão.png",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
