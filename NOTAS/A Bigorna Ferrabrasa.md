@@ -16,6 +16,8 @@ Doran fala com a segurança de quem considera o próprio trabalho excelente e n�
 
 Entre suas criações está o **Escudo das Expressões**, capaz de alterar a própria fisionomia quando comandado por quem o empunha. Doran pediu um preço muito superior ao de um escudo comum, convencido de que a criatividade da peça justificava o valor.
 
+![[Doran Ferrabrasa.png]]
+
 ## Nara
 
 **Nara** chegou a Merídia procurando uma oportunidade para trabalhar como assistente de ferreiro. Ela enviou uma carta a Doran antes da viagem, mas partiu sem receber resposta e decidiu apresentar-se pessoalmente.
@@ -23,6 +25,8 @@ Entre suas criações está o **Escudo das Expressões**, capaz de alterar a pr�
 No caminho para a praça, ajudava a reparar uma carroça cujo eixo estava apoiado de maneira perigosa. Foi ali que conheceu [[Ravik Valen|Ravik]], que percebeu sua habilidade, coordenou os trabalhadores necessários para erguer o veículo e acompanhou-a até a Bigorna Ferrabrasa.
 
 Doran aceitou Nara para um período de experiência de quinze dias. Ela passou a dividir o tempo entre alimentar a forja, organizar ferramentas, preparar peças e demonstrar que conseguia acompanhar o ritmo exigente da oficina. Para Nara, a vaga representa a primeira oportunidade concreta de construir a vida que procurou ao deixar sua antiga casa e tentar a sorte na cidade grande.
+
+![[Nara - Aprendiz Artifice - Raça Khoravar.png]]
 
 ## A passagem dos aventureiros
 
