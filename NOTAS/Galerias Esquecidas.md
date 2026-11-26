@@ -4,6 +4,8 @@
 
 As **Galerias Esquecidas** são corredores, cisternas, câmaras e condutos subterrâneos muito anteriores às cidades construídas acima deles. Diferentemente de esgotos ou minas, não seguem fronteiras políticas nem trajetos planejados por habitantes atuais.
 
+![[Galerias Esquecidas.png]]
+
 ## Estrutura
 
 Partes das galerias foram reaproveitadas por cidades, povos da [[Umbraeterna]] e equipes de manutenção que desconheciam sua extensão. Runas de contenção, canais revestidos de pedra e mecanismos sem função compreendida aparecem em trechos separados por grandes distâncias.
