@@ -4,6 +4,8 @@
 
 **Pivetes de Porto Grilhão** é o nome usado nesta nota para a família de crianças e jovens das ruas à qual [[Vaelen Fagulha Negra|Vaelen]] e [[Lysa de Porto Grilhão|Lysa]] pertencem. O grupo ainda não possui um nome formal conhecido fora dos becos e telhados onde vive.
 
+![[Pivetes de Porto Grilhão.png]]
+
 ## Origem
 
 Os pivetes são humanos, meio-elfos e jovens de outras origens abandonados, fugitivos ou separados de suas famílias pelas dívidas e punições de [[Porto Grilhão]]. Sobrevivem realizando entregas, recolhendo mercadorias descartadas, furtando armazéns e guiando pessoas por caminhos que as autoridades ignoram.
