@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Vaelen Fagulha Negra.md",
+                "file": "NOTAS/Galerias Esquecidas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vaelen Fagulha Negra"
+              "title": "Galerias Esquecidas"
             }
           }
         ],
@@ -214,8 +214,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "07700c90495c6082",
   "lastOpenFiles": [
+    "NOTAS/Merídia-Oculto.md",
+    "NOTAS/Galerias Esquecidas.md",
+    "NOTAS/Vaelen Fagulha Negra.md",
     "IMAGENS/Vaelen.webp",
     "NOTAS/Aventureiros do Colapso.md",
     "O Colapso dos Reinos.md",
@@ -248,10 +251,7 @@
     "NOTAS/A Quinta Estrada.md",
     "IMAGENS/A Quinta Estrada.png",
     "IMAGENS/Juditee.png",
-    "IMAGENS/Praça das Quatro Estradas.png",
     "NOTAS/Vhalden.md",
-    "NOTAS/Sessão 03 - As Pedras Escutam.md",
-    "NOTAS/Resumos.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
