@@ -2,7 +2,7 @@
 
 #Organizações #PortoGrilhão #Órfãos
 
-**Pivetes de Porto Grilhão** é o nome usado nesta nota para a família de crianças e jovens das ruas à qual [[Vaelen Fagulha Negra|Vaelen]] e [[Lysa de Porto Grilhão|Lysa]] pertencem. O grupo ainda não possui um nome formal conhecido fora dos becos e telhados onde vive.
+Os **Pivetes de Porto Grilhão** são uma família de crianças e jovens das ruas, unida pelos becos, telhados e passagens esquecidas da cidade. Foi entre eles que [[Vaelen Fagulha Negra|Vaelen]] e [[Lysa de Porto Grilhão|Lysa]] encontraram abrigo, lealdade e um lugar ao qual pertencer.
 
 ![[Pivetes de Porto Grilhão.png]]
 
