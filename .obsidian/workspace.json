@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Maera Cendral.md",
+                "file": "NOTAS/Vaelen Fagulha Negra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maera Cendral"
+              "title": "Vaelen Fagulha Negra"
             }
           }
         ],
@@ -214,8 +214,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e8b3fb428237729",
+  "active": "07700c90495c6082",
   "lastOpenFiles": [
+    "NOTAS/Aventureiros do Colapso.md",
+    "O Colapso dos Reinos.md",
+    "NOTAS/Maera Cendral.md",
     "NOTAS/Organizações/Lâminas da Vanguarda.md",
     "NOTAS/Eldorin.md",
     "NOTAS/Praça das Quatro Estradas.md",
@@ -224,7 +227,6 @@
     "IMAGENS/Nara - Aprendiz Artifice - Raça Khoravar.png",
     "IMAGENS/Doran Ferrabrasa.png",
     "NOTAS/Merídia.md",
-    "O Colapso dos Reinos.md",
     "NOTAS/Organizações.md",
     "NOTAS/Roda Torta.md",
     "NOTAS/Trupe da Vela Verde.md",
@@ -233,7 +235,6 @@
     "NOTAS/Velmora.md",
     "NOTAS/Picos Flutuantes de Aethelgard.md",
     "IMAGENS/Picos Flutuantes de Aethelgardd.png",
-    "NOTAS/Aventureiros do Colapso.md",
     "NOTAS/Cordilheira dos Titãs Dormentes.md",
     "NOTAS/Abismo de Thalassa, além dos mares orientais.md",
     "NOTAS/Vales Calcinados de Karkor.md",
@@ -251,7 +252,6 @@
     "NOTAS/Sessão 03 - As Pedras Escutam.md",
     "NOTAS/Resumos.md",
     "NOTAS/Sessão 01 - Quatro Caminhos até Merídia.md",
-    "NOTAS/Sessão 02 - Sob Merídia, Algo Puxa.md",
     "CODEX_PUSH_DELETE_TEST.txt",
     "IMAGENS",
     "NOTAS"
