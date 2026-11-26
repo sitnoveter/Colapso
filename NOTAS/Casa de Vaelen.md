@@ -4,6 +4,8 @@
 
 A **Casa de Vaelen** foi uma linhagem drow da [[Umbraeterna]], governada pela matriarca [[Ilvara]] e dedicada à [[Rainha Aranha]]. Controlava cavernas fronteiriças, rotas de incursão e passagens utilizadas para alcançar regiões próximas da superfície.
 
+![[Casa de Vaelen v2.png]]
+
 ## Doutrina
 
 A Casa ensinava que posição e sobrevivência precisavam ser conquistadas continuamente. Demonstrações de compaixão eram tratadas como fraqueza, enquanto traições bem-sucedidas podiam ser reconhecidas como prova de superioridade.
