@@ -8,6 +8,8 @@
 
 Sua magia manifesta-se em faíscas violetas, ondas repentinas de calor e descargas difíceis de controlar. O apelido **Fagulha Negra** nasceu quando Vaelen voltou esse poder contra os goblins que exploravam os [[Pivetes de Porto Grilhão|pivetes das ruas]], assumindo para si a responsabilidade de protegê-los.
 
+![[Vaelen.webp]]
+
 ## A queda e a sombra de Ilvara
 
 Vaelen nasceu numa casa drow devotada à [[Rainha Aranha]]. Para a [[Casa de Vaelen]], a superfície era território de caça, conquista e subjugação. Durante uma incursão pelas cavernas fronteiriças, a expedição foi emboscada por facções rivais e guardas da superfície.
