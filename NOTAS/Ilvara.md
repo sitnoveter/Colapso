@@ -4,6 +4,8 @@
 
 **Ilvara** foi a matriarca da [[Casa de Vaelen]] e mãe de [[Vaelen Fagulha Negra|Vaelen]]. Orgulhosa, calculista e inteiramente formada pelas disputas da [[Umbraeterna]], governava sua Casa por meio de disciplina, medo e devoção à [[Rainha Aranha]].
 
+![[Ilvara.png]]
+
 ## A matriarca
 
 Ilvara ensinou Vaelen a considerar a superfície um território inferior, destinado à caça e à subjugação. Para ela, compaixão era uma vulnerabilidade que rivais poderiam explorar, e os laços familiares existiam para fortalecer a Casa.
