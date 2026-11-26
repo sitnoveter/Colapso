@@ -4,6 +4,8 @@
 
 **Lysa** é uma jovem humana de [[Porto Grilhão]], curandeira por ofício e ladina por necessidade. Criada entre telhados de zinco, armazéns e becos próximos às docas, aprendeu cedo a tratar ferimentos com poucos recursos e a tomar dos depósitos aquilo que as crianças das ruas não conseguiriam comprar.
 
+![[Lysa e Vaelen Afeto.png]]
+
 ## Vaelen
 
 Lysa conheceu [[Vaelen Fagulha Negra|Vaelen]] entre os [[Pivetes de Porto Grilhão]]. Enquanto grande parte da cidade via apenas um drow, ela reconheceu alguém ferido, deslocado e disposto a colocar-se entre os mais jovens e seus exploradores.
