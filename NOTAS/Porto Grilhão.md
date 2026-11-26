@@ -24,7 +24,7 @@ A [[Vigília do Farol]] mantém presença nos penhascos próximos, oferecendo au
 
 Sob os bairros próximos às docas existe uma rede de esgotos, cisternas e cavernas costeiras. Crianças abandonadas e fugitivos utilizam trechos secos como esconderijos, enquanto contrabandistas disputam rotas que alcançam armazéns e canais externos.
 
-[[Vaelen Fagulha Negra]] viveu durante anos nesses caminhos depois de cair das cavernas fronteiriças da [[Umbraeterna]]. Ao lado de [[Lysa de Porto Grilhão|Lysa]], tornou-se protetor dos [[Pivetes de Porto Grilhão]], jovens explorados por criminosos e autoridades locais.
+[[Vaelen Fagulha Negra]] viveu durante anos nesses caminhos depois de cair das cavernas fronteiriças da [[Umbraeterna]]. Com [[Lysa de Porto Grilhão|Lysa]] ao seu lado, assumiu a liderança dos [[Pivetes de Porto Grilhão]] e tornou-se protetor dos jovens explorados por criminosos e autoridades locais.
 
 Alguns túneis inferiores alcançam as [[Galerias Esquecidas]]. Vaelen entrou por uma dessas passagens antes de desabamentos e correntes subterrâneas o conduzirem até [[Merídia]].
 

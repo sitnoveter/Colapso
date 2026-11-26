@@ -33,6 +33,8 @@ O Círculo recebe pessoas de fora para conversas, pedidos de auxílio e cuidados
 
 Esse isolamento protege mais do que sementes e anotações. Os druidas preservam ritos, formas de comunicação e conhecimentos que não compartilham com facilidade; até o idioma druídico é mantido longe de ouvidos externos. Por isso, uma visita autorizada não significa que o visitante foi aceito pela comunidade.
 
+Enquanto os aventureiros ainda estavam sob Merídia, [[Eldorin]] encontrou [[Vaelen Fagulha Negra]] na Baixa Agulha e caminhou com ele até os Jardins Suspensos. O drow, recém-saído das [[Galerias Esquecidas]], recebeu autorização para descansar temporariamente numa área comum anexa ao santuário. A permissão não representava hospedagem nem integração ao Círculo; Vaelen ainda estava ali quando Oren e os aventureiros chegaram.
+
 A entrada dos aventureiros foi uma exceção. Eles chegaram por uma passagem aberta por Oren, trazendo de volta um membro ferido do Círculo, e encontraram Eldorin esperando no santuário. Mesmo nessas circunstâncias, sua presença não lhes concedeu permissão para permanecer ali depois que a conversa terminasse.
 
 Ferido e incapaz de caminhar sem auxílio, Oren chegou primeiro e recebeu cuidados. Eldorin o questionava sobre o que descobriu sob a cidade quando os quatro aventureiros atravessaram a mesma passagem. Pouco depois, as raízes se entrelaçaram novamente e fecharam o caminho atrás deles.

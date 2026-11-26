@@ -6,7 +6,7 @@
 
 **Vaelen "Fagulha Negra"** é um elfo drow e feiticeiro de Magia Selvagem criado entre as casas cruéis da [[Umbraeterna]] e as ruas pobres de [[Porto Grilhão]]. Filho da matriarca [[Ilvara]], ele perdeu a família de origem numa incursão à superfície e encontrou uma nova vida entre crianças abandonadas, fugitivos e pequenos ladrões do porto.
 
-Sua magia manifesta-se em faíscas violetas, ondas repentinas de calor e descargas difíceis de controlar. O apelido **Fagulha Negra** nasceu quando Vaelen voltou esse poder contra os goblins que exploravam os [[Pivetes de Porto Grilhão|pivetes das ruas]], assumindo para si a responsabilidade de protegê-los.
+Sua magia manifesta-se em faíscas violetas, ondas repentinas de calor e descargas difíceis de controlar. O apelido **Fagulha Negra** nasceu quando Vaelen voltou esse poder contra os goblins que exploravam os [[Pivetes de Porto Grilhão|pivetes das ruas]], assumindo a liderança do grupo e a responsabilidade de protegê-los.
 
 ![[Vaelen.webp]]
 
@@ -22,7 +22,7 @@ Durante anos, procurou uma passagem de volta para a Umbraeterna. Mapeou tubos, c
 
 Na superfície, Vaelen foi tratado com medo e desconfiança por causa de sua origem. Para sobreviver, juntou-se a um grupo de crianças humanas, meio-elfas e de outras origens exploradas por líderes goblins.
 
-Quando uma das crianças menores foi brutalmente espancada, a magia de Vaelen despertou num surto incontrolável. A descarga destruiu o esconderijo dos exploradores e libertou os jovens. A partir desse dia, os pivetes tornaram-se sua verdadeira família.
+Quando uma das crianças menores foi brutalmente espancada, a magia de Vaelen despertou num surto incontrolável. A descarga destruiu o esconderijo dos exploradores, libertou os jovens e expulsou os antigos líderes. Vaelen assumiu a liderança dos Pivetes, que a partir desse dia se tornaram sua verdadeira família.
 
 ## Lysa
 
