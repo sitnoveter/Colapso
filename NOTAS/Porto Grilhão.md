@@ -41,3 +41,4 @@ Alguns túneis inferiores alcançam as [[Galerias Esquecidas]]. Vaelen entrou po
 - [[Pivetes de Porto Grilhão]]
 - [[Rei do Sal]]
 - [[Vigília do Farol]]
+- [[Seline Feno Negro]]

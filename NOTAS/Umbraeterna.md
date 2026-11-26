@@ -6,6 +6,8 @@
 
 Para muitos habitantes do mundo superior, a Umbraeterna é conhecida apenas por relatos de ataques, desaparecimentos e mercadores que retornaram transformados por anos sem ver o céu. Para seus povos, porém, ela contém territórios, tradições e conflitos tão antigos quanto os reinos da superfície.
 
+![[Umbraeterna.png]]
+
 ## Os drow
 
 Parte das cidades drow organiza-se em Casas governadas por matriarcas, sacerdotisas e alianças familiares. Prestígio, sobrevivência e devoção à [[Rainha Aranha]] sustentam uma cultura na qual traições bem-sucedidas podem ser tratadas como demonstrações de força.
