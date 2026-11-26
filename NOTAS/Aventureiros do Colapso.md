@@ -14,6 +14,4 @@ Atendendo à convocação do druida [[Eldorin]], aventureiros de diferentes orig
 
 - [[Seline Feno Negro|Seline Feno Negro, a Blackjack]] — Pistoleira e antiga capitã do Salto da Fé, que sobreviveu a uma conspiração, escapou de um cárcere subterrâneo e agora atravessa territórios não pacificados pela Chave do Limiar.
 
-## Recém-chegado a Merídia
-
 - [[Vaelen Fagulha Negra|Vaelen “Fagulha Negra”]] — Drow e feiticeiro de Magia Selvagem que atravessou as Galerias Esquecidas desde Porto Grilhão. Eldorin levou-o aos Jardins Suspensos, mas sua apresentação aos quatro aventureiros ainda não aconteceu.
