@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Umbraeterna.md",
+                "file": "NOTAS/Rainha Aranha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Umbraeterna"
+              "title": "Rainha Aranha"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,11 +242,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8a1108065c18ee6c",
+  "active": "9e8b3fb428237729",
   "lastOpenFiles": [
-    "O Colapso dos Reinos.md",
-    "NOTAS/Rainha Aranha.md",
+    "IMAGENS/Rainha Aranha.png",
     "NOTAS/Umbraeterna.md",
+    "NOTAS/Amarantha.md",
+    "NOTAS/Rainha Aranha.md",
+    "O Colapso dos Reinos.md",
     "IMAGENS/Umbraeterna.png",
     "NOTAS/Galerias Esquecidas.md",
     "NOTAS/Porto Grilhão.md",
@@ -275,8 +277,6 @@
     "NOTAS/Picos Flutuantes de Aethelgard.md",
     "IMAGENS/Picos Flutuantes de Aethelgardd.png",
     "NOTAS/Cordilheira dos Titãs Dormentes.md",
-    "NOTAS/Abismo de Thalassa, além dos mares orientais.md",
-    "NOTAS/Vales Calcinados de Karkor.md",
     "IMAGENS/pequeno santuário do Círculo, nos Jardins Suspensos.png",
     "IMAGENS/Jardins Suspensos.png",
     "IMAGENS/Oren Valmus.png",

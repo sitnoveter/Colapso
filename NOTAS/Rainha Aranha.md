@@ -9,6 +9,8 @@
 
 A **Rainha Aranha** é uma divindade reverenciada por parte das sociedades drow da [[Umbraeterna]]. Seus cultos ensinam que toda relação forma uma teia: quem não ocupa o centro corre o risco de tornar-se alimento de alguém mais forte.
 
+![[Rainha Aranha.png]]
+
 ## Doutrina
 
 Para suas sacerdotisas, poder não é herdado de maneira permanente. Precisa ser demonstrado, defendido e retomado sempre que outro indivíduo demonstra fraqueza.
