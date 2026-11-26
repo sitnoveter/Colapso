@@ -50,6 +50,14 @@ O Conselho insiste que não existe risco imediato. Eldorin afirma que a ausênci
 
 A convocação de Eldorin começou em Merídia porque a cidade reúne arquivos, sobreviventes e rotas para todas as regiões afetadas. A escolha também refletia a convicção do druida de que parte da resposta estava sob os pés de seus habitantes.
 
+## A chegada de Fagulha Negra
+
+Enquanto os primeiros convocados de [[Eldorin]] investigavam os canais sob a cidade, uma antiga saída de manutenção na Baixa Agulha foi aberta pelo lado de dentro. Dela emergiu [[Vaelen Fagulha Negra]], um drow exausto que havia entrado nas profundezas em [[Porto Grilhão]] e se perdido nas [[Galerias Esquecidas]].
+
+Eldorin encontrou Vaelen pouco depois de sua chegada. As faíscas violetas que ainda percorriam as mãos do feiticeiro reagiam aos mesmos fenômenos investigados sob Merídia. O druida ouviu parte de sua história e o conduziu até o santuário do [[Círculo das Raízes Profundas]] nos [[Jardins Suspensos]].
+
+Vaelen permaneceu numa área anexa do santuário para descansar e receber cuidados. Sua apresentação aos aventureiros ainda não havia acontecido quando eles retornaram das profundezas com [[Círculo das Raízes Profundas#Oren Valmus|Oren Valmus]].
+
 ## Lugares e grupos relacionados
 
 - [[Torre do Meridiano]]
@@ -58,4 +66,6 @@ A convocação de Eldorin começou em Merídia porque a cidade reúne arquivos, 
 - [[Eldorin]]
 - [[Trupe da Vela Verde]]
 - [[Casa das Quatro Estradas]]
+- [[Vaelen Fagulha Negra]]
+- [[Galerias Esquecidas]]
 - [[Merídia-Oculto|Verdades ocultas]]

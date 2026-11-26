@@ -31,3 +31,13 @@ Esta nota reúne os NPCs de maior influência sobre o mundo e sobre os acontecim
 ### [[Rei do Sal]]
 
 > *“Fronteiras são linhas desenhadas por quem cobra impostos. Minhas rotas começam onde essas linhas terminam.”*
+
+## Pessoas ligadas a Fagulha Negra
+
+### [[Ilvara]]
+
+Matriarca drow cuja morte separou Vaelen da Umbraeterna e deixou perguntas sobre a emboscada que destruiu sua expedição.
+
+### [[Lysa de Porto Grilhão]]
+
+Curandeira das ruas, companheira de Vaelen e protetora dos jovens abandonados de Porto Grilhão.

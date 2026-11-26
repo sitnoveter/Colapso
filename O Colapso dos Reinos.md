@@ -19,6 +19,7 @@ O equilíbrio da natureza está se desfazendo. Tempestades impossíveis, terremo
 - [[Vhalden]]
 - [[Vaelthir]]
 - [[Porto Grilhão]]
+- [[Umbraeterna]]
 
 --------------------------------------------
 
@@ -46,6 +47,7 @@ O equilíbrio da natureza está se desfazendo. Tempestades impossíveis, terremo
 - [[Aquela que Permanece]]
 - [[Amarantha]]
 - [[Calívara]]
+- [[Rainha Aranha]]
 
 ----------------------------------
 

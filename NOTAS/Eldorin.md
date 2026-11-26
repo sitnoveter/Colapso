@@ -68,7 +68,11 @@ A mensagem também chegou a [[Valedorn]], onde sobreviventes da [[A Ruptura do M
 
 Depois do encontro, Eldorin enviou os quatro para procurar [[Círculo das Raízes Profundas#Oren Valmus|Oren Valmus]], um druida do Círculo que desapareceu enquanto investigava tremores e atividade elemental num antigo canal sob Merídia.
 
-Eldorin aguardou o retorno no santuário dos [[Jardins Suspensos]]. Depois do resgate, os aventureiros chegaram ao local com Oren vivo. Ferido e incapaz de caminhar sem auxílio, o druida recebeu cuidados e começou a relatar o que encontrou sob a cidade.
+Enquanto os quatro estavam no subterrâneo, Eldorin encontrou [[Vaelen Fagulha Negra]] na Baixa Agulha. O drow acabara de emergir por uma antiga saída de manutenção depois de atravessar as [[Galerias Esquecidas]] desde [[Porto Grilhão]]. As descargas violetas de sua Magia Selvagem reagiam aos mesmos sinais investigados sob Merídia.
+
+Eldorin ouviu parte de sua história e o conduziu até o santuário dos [[Jardins Suspensos]], onde Vaelen recebeu abrigo numa área anexa. O feiticeiro permaneceu descansando enquanto o druida aguardava o retorno dos convocados.
+
+Depois do resgate, os aventureiros chegaram ao local com Oren vivo. Ferido e incapaz de caminhar sem auxílio, o druida recebeu cuidados e começou a relatar o que encontrou sob a cidade. Vaelen já estava nos Jardins, mas sua apresentação ao grupo ainda não havia acontecido.
 
 ## Situação atual
 
@@ -76,6 +80,7 @@ Eldorin aguardou o retorno no santuário dos [[Jardins Suspensos]]. Depois do re
 - Ele rompeu com o Conselho da Agulha por causa de escavações sob a Torre do Meridiano.
 - Nem Eldorin nem seu Círculo conhecem uma solução confirmada.
 - A convocação reuniu quatro aventureiros em Merídia e deu origem à primeira expedição do grupo.
+- Eldorin encontrou Vaelen em Merídia e o levou aos Jardins Suspensos, onde o drow aguarda para conhecer os convocados.
 - O druida considera possível que alguns guardiões precisem ser convencidos, não derrotados.
 
 ## [[Eldorin-Oculto|Verdades ocultas]]

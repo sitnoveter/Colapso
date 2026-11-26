@@ -19,6 +19,8 @@ Reinos não são transformados apenas por governantes e aventureiros. Ordens sec
 - [[Vigília do Farol]] — Culto de náufragos que transforma sobrevivência em dívida e disciplina.
 - [[Guardiões do Retorno]] — Tradição religiosa responsável por reconhecer o encerramento natural da vida.
 - [[Círculo das Raízes Profundas]] — Círculo druídico ligado a Eldorin e aos sinais do desequilíbrio natural.
+- [[Casa de Vaelen]] — Linhagem drow da Umbraeterna anteriormente governada pela matriarca Ilvara.
+- [[Pivetes de Porto Grilhão]] — Família de crianças e jovens das ruas protegida por Vaelen e Lysa.
 
 ## Grupos itinerantes
 

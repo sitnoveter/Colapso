@@ -19,3 +19,25 @@ Blackjack atacou depósitos, destruiu registros de dívida e retirou dezenas de 
 Mercadores locais negociam publicamente com autoridades e secretamente com a rede do [[Rei do Sal]]. A relação permite que mercadorias apreendidas desapareçam dos armazéns e retornem ao comércio sob documentação diferente.
 
 A [[Vigília do Farol]] mantém presença nos penhascos próximos, oferecendo auxílio a embarcações e observando quem entra ou deixa a costa.
+
+## Ruas, telhados e esgotos
+
+Sob os bairros próximos às docas existe uma rede de esgotos, cisternas e cavernas costeiras. Crianças abandonadas e fugitivos utilizam trechos secos como esconderijos, enquanto contrabandistas disputam rotas que alcançam armazéns e canais externos.
+
+[[Vaelen Fagulha Negra]] viveu durante anos nesses caminhos depois de cair das cavernas fronteiriças da [[Umbraeterna]]. Ao lado de [[Lysa de Porto Grilhão|Lysa]], tornou-se protetor dos [[Pivetes de Porto Grilhão]], jovens explorados por criminosos e autoridades locais.
+
+Alguns túneis inferiores alcançam as [[Galerias Esquecidas]]. Vaelen entrou por uma dessas passagens antes de desabamentos e correntes subterrâneas o conduzirem até [[Merídia]].
+
+## Lugares ligados a Fagulha Negra
+
+- **Os telhados de zinco:** Abrigos improvisados acima dos armazéns e oficinas das docas, onde Vaelen, Lysa e os pivetes dividiam refeições, notícias e rotas de fuga.
+- **As cisternas abandonadas:** Câmaras úmidas utilizadas como esconderijos e pontos de passagem entre os bairros baixos.
+- **A descida selada:** Antigo acesso às cavernas fronteiriças da Umbraeterna. Vaelen passou anos tentando atravessá-lo antes de aceitar que os desabamentos haviam fechado a rota conhecida.
+
+## Pessoas e grupos relacionados
+
+- [[Vaelen Fagulha Negra]]
+- [[Lysa de Porto Grilhão]]
+- [[Pivetes de Porto Grilhão]]
+- [[Rei do Sal]]
+- [[Vigília do Farol]]
