@@ -16,7 +16,7 @@ Durante parte de sua história recente, foram controlados por goblins que tomava
 
 Quando um dos menores foi espancado pelos líderes do grupo, a magia de Vaelen manifestou-se num surto destrutivo. A descarga expulsou os exploradores e deu origem ao nome **Fagulha Negra**.
 
-Vaelen não se tornou proprietário ou comandante das crianças. Passou a agir como protetor, dividindo recursos, ensinando rotas seguras e impedindo que adultos ou criminosos voltassem a controlar o grupo.
+Depois de expulsar os goblins, Vaelen assumiu a liderança dos Pivetes. Em vez de repetir a violência dos antigos chefes, tornou-se protetor do grupo, dividindo recursos, ensinando rotas seguras e defendendo os jovens de novos exploradores.
 
 ## Lysa
 
